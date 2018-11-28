@@ -1,0 +1,528 @@
+SUBJECT developing countries 
+PREDICATE need 
+OBJECT additional resources for sustainable development 
+SENTENCE developing countries need additional resources for sustainable development 
+SUBJECT developing countries 
+PREDICATE need additional resources for 
+OBJECT sustainable development 
+SENTENCE developing countries need additional resources for sustainable development 
+SUBJECT sustainability is the process of maintaining change in a balanced fashion in which the exploitation of resources the direction of investments the orientation of technological development and institutional change are all in harmony and 
+PREDICATE enhance 
+OBJECT both current and future potential to meet human needs and aspirations 
+SENTENCE sustainability is the process of maintaining change in a balanced fashion in which the exploitation of resources the direction of investments the orientation of technological development and institutional change are all in harmony and enhance both current and future potential to meet human needs and aspirations 
+SUBJECT the report of the intergovernmental committee of experts on sustainable development financing 
+PREDICATE will propose 
+OBJECT options for a sustainable development financing strategy 
+SENTENCE the report of the intergovernmental committee of experts on sustainable development financing will propose options for a sustainable development financing strategy 
+SUBJECT subdomains of sustainable development 
+PREDICATE have been considered 
+OBJECT also cultural technological and political 
+SENTENCE subdomains of sustainable development have been considered also cultural technological and political 
+SUBJECT the substantive outcome of the third international conference on financing for development in july 
+PREDICATE will assess 
+OBJECT the progress made in the implementation of the monterrey consensus and the doha declaration 
+SENTENCE the substantive outcome of the third international conference on financing for development in july will assess the progress made in the implementation of the monterrey consensus and the doha declaration 
+SUBJECT while sustainable development 
+PREDICATE may the organizing principle for for 
+OBJECT be sustainability some for others 
+SENTENCE while sustainable development may be the organizing principle for sustainability for some for others 
+SUBJECT while sustainable development 
+PREDICATE may the organizing principle for for some for 
+OBJECT be sustainability others 
+SENTENCE while sustainable development may be the organizing principle for sustainability for some for others 
+SUBJECT the international institute for sustainable development 
+PREDICATE has similarly developed 
+OBJECT a political policy framework linked to a sustainability index for establishing measurable entities and metrics 
+SENTENCE the international institute for sustainable development has similarly developed a political policy framework linked to a sustainability index for establishing measurable entities and metrics 
+SUBJECT the international institute for sustainable development 
+PREDICATE has similarly developed a political policy framework linked to for 
+OBJECT a sustainability index establishing measurable entities and metrics 
+SENTENCE the international institute for sustainable development has similarly developed a political policy framework linked to a sustainability index for establishing measurable entities and metrics 
+SUBJECT promising direction towards sustainable development 
+PREDICATE is to 
+OBJECT a design systems that are flexible and reversible 
+SENTENCE a promising direction towards sustainable development is to design systems that are flexible and reversible 
+SUBJECT the development of the commonly owned property 
+PREDICATE will impossible to achieve in 
+OBJECT become a sustainable way 
+SENTENCE the development of the commonly owned property will become impossible to achieve in a sustainable way 
+SUBJECT the development of the commonly owned property 
+PREDICATE unaddressed will impossible 
+OBJECT because left become to achieve in a sustainable way 
+SENTENCE because left unaddressed the development of the commonly owned property will become impossible to achieve in a sustainable way 
+SUBJECT the implementation of sustainable development goals 
+PREDICATE will depend on for 
+OBJECT a global partnership sustainable development with the active engagement of governments as well as civil society the private sector and the united nations system 
+SENTENCE the implementation of sustainable development goals will depend on a global partnership for sustainable development with the active engagement of governments as well as civil society the private sector and the united nations system 
+SUBJECT the implementation of sustainable development goals 
+PREDICATE will depend on for sustainable development with 
+OBJECT a global partnership the active engagement of governments as well as civil society the private sector and the united nations system 
+SENTENCE the implementation of sustainable development goals will depend on a global partnership for sustainable development with the active engagement of governments as well as civil society the private sector and the united nations system 
+SUBJECT economic development 
+PREDICATE has traditionally required a 
+OBJECT growth in the gross domestic product 
+SENTENCE economic development has traditionally required a growth in the gross domestic product 
+SUBJECT economic development 
+PREDICATE has traditionally required a growth in 
+OBJECT the gross domestic product 
+SENTENCE economic development has traditionally required a growth in the gross domestic product 
+SUBJECT the sustainable development debate 
+PREDICATE is based on 
+OBJECT the assumption that societies need to manage three types of capital economic social and natural which may be nonsubstitutable and whose consumption might be irreversible 
+SENTENCE the sustainable development debate is based on the assumption that societies need to manage three types of capital economic social and natural which may be nonsubstitutable and whose consumption might be irreversible 
+SUBJECT the sustainable development debate 
+PREDICATE is based on the assumption 
+OBJECT that societies need to manage three types of capital economic social and natural which may be nonsubstitutable and whose consumption might be irreversible 
+SENTENCE the sustainable development debate is based on the assumption that societies need to manage three types of capital economic social and natural which may be nonsubstitutable and whose consumption might be irreversible 
+SUBJECT sustainable development 
+PREDICATE may involve for but 
+OBJECT improvements in the quality of life many may necessitate a decrease in resource consumption 
+SENTENCE sustainable development may involve improvements in the quality of life for many but may necessitate a decrease in resource consumption 
+SUBJECT sustainable development 
+PREDICATE may involve for many but 
+OBJECT improvements in the quality of life may necessitate a decrease in resource consumption 
+SENTENCE sustainable development may involve improvements in the quality of life for many but may necessitate a decrease in resource consumption 
+SUBJECT will be reduceda sustainable development approach 
+PREDICATE can bring in to 
+OBJECT many benefits the short medium term for example savings as a result of sdc scrutiny government 
+SENTENCE will be reduceda sustainable development approach can bring many benefits in the short to medium term for example savings as a result of sdc scrutiny government 
+SUBJECT this nt will be reduceda sustainable development approach 
+PREDICATE does mean can bring in to 
+OBJECT our quality of life many benefits the short medium term for example savings as a result of sdc scrutiny government has saved over by improving efficiency across its estatehealth transport instead of driving switching to walking or cycling for short journeys will save you money improve your health 
+SENTENCE this does nt mean our quality of life will be reduceda sustainable development approach can bring many benefits in the short to medium term for example savings as a result of sdc scrutiny government has saved over by improving efficiency across its estatehealth transport instead of driving switching to walking or cycling for short journeys will save you money improve your health 
+SUBJECT sustainable development 
+PREDICATE provides 
+OBJECT an approach to making better decisions on the issues that affect all of our lives 
+SENTENCE sustainable development provides an approach to making better decisions on the issues that affect all of our lives 
+SUBJECT sustainable development 
+PREDICATE provides an approach to 
+OBJECT making better decisions on the issues that affect all of our lives 
+SENTENCE sustainable development provides an approach to making better decisions on the issues that affect all of our lives 
+SUBJECT sustainable development goals 
+PREDICATE are accompanied by and 
+OBJECT targets will be further elaborated through indicators focused on measurable outcomes 
+SENTENCE sustainable development goals are accompanied by targets and will be further elaborated through indicators focused on measurable outcomes 
+SUBJECT brundtland report for the world commission on environment and development 
+PREDICATE introduced 
+OBJECT the term of sustainable developmentsustainability can also be defined as a socioecological process characterized by the pursuit of a common ideal 
+SENTENCE brundtland report for the world commission on environment and development introduced the term of sustainable developmentsustainability can also be defined as a socioecological process characterized by the pursuit of a common ideal 
+SUBJECT brundtland report for the world commission on environment and development the term of sustainable developmentsustainability 
+PREDICATE introduced can also be defined as 
+OBJECT a socioecological process characterized by the pursuit of a common ideal 
+SENTENCE brundtland report for the world commission on environment and development introduced the term of sustainable developmentsustainability can also be defined as a socioecological process characterized by the pursuit of a common ideal 
+SUBJECT the commitment to migration and development 
+PREDICATE was reaffirmed in 
+OBJECT the declaration of the highlevel dialogue on international migration and development 
+SENTENCE the commitment to migration and development was reaffirmed in the declaration of the highlevel dialogue on international migration and development 
+SUBJECT the concept of sustainable development 
+PREDICATE since has developed beyond 
+OBJECT the brundtland report the initial intergenerational framework to focus more on the goal of socially inclusive and environmentally sustainable economic growth 
+SENTENCE since the brundtland report the concept of sustainable development has developed beyond the initial intergenerational framework to focus more on the goal of socially inclusive and environmentally sustainable economic growth 
+SUBJECT the concept of sustainable development 
+PREDICATE since has developed beyond to focus more on 
+OBJECT the brundtland report the initial intergenerational framework the goal of socially inclusive and environmentally sustainable economic growth 
+SENTENCE since the brundtland report the concept of sustainable development has developed beyond the initial intergenerational framework to focus more on the goal of socially inclusive and environmentally sustainable economic growth 
+SUBJECT the concept of sustainable development 
+PREDICATE since the brundtland report has developed beyond 
+OBJECT the initial intergenerational framework to focus more on the goal of socially inclusive and environmentally sustainable economic growth 
+SENTENCE since the brundtland report the concept of sustainable development has developed beyond the initial intergenerational framework to focus more on the goal of socially inclusive and environmentally sustainable economic growth 
+SUBJECT the concept of sustainable development 
+PREDICATE since has developed beyond the initial intergenerational framework 
+OBJECT the brundtland report to focus more on the goal of socially inclusive and environmentally sustainable economic growth 
+SENTENCE since the brundtland report the concept of sustainable development has developed beyond the initial intergenerational framework to focus more on the goal of socially inclusive and environmentally sustainable economic growth 
+SUBJECT goals of environmental conservation and economic development 
+PREDICATE are not conflicting and 
+OBJECT that can be reinforcing each other 
+SENTENCE that goals of environmental conservation and economic development are not conflicting and can be reinforcing each other 
+SUBJECT the action plan agenda for sustainable development 
+PREDICATE identified as 
+OBJECT information integration and participation key building blocks to help countries achieve development that recognises these interdependent pillars 
+SENTENCE the action plan agenda for sustainable development identified information integration and participation as key building blocks to help countries achieve development that recognises these interdependent pillars 
+SUBJECT the action plan agenda for sustainable development 
+PREDICATE identified as to help 
+OBJECT information integration and participation key building blocks countries achieve development that recognises these interdependent pillars 
+SENTENCE the action plan agenda for sustainable development identified information integration and participation as key building blocks to help countries achieve development that recognises these interdependent pillars 
+SUBJECT in sustainable development everyone a user and provider of information 
+PREDICATE is 
+OBJECT that 
+SENTENCE that in sustainable development everyone is a user and provider of information 
+SUBJECT the term sustainability sustainable development 
+PREDICATE should be viewed as while refers to 
+OBJECT humanity s target goal of humanecosystem equilibrium homeostasis the holistic approach and temporal processes that lead us to the end point of sustainability 
+SENTENCE the term sustainability should be viewed as humanity s target goal of humanecosystem equilibrium homeostasis while sustainable development refers to the holistic approach and temporal processes that lead us to the end point of sustainability 
+SUBJECT sustainable development 
+PREDICATE while refers to 
+OBJECT the holistic approach and temporal processes that lead us to the end point of sustainability 
+SENTENCE while sustainable development refers to the holistic approach and temporal processes that lead us to the end point of sustainability 
+SUBJECT executive bureau the preparation of the policy statement culture fourth pillar of sustainable development 
+PREDICATE in lead passed on in 
+OBJECT this context the agenda for culture and the united cities and local governments uclg november the framework of the world summit of local and regional leaders world congress of uclg held in mexico city 
+SENTENCE in this context the agenda for culture and the united cities and local governments uclg executive bureau lead the preparation of the policy statement culture fourth pillar of sustainable development passed on november in the framework of the world summit of local and regional leaders world congress of uclg held in mexico city 
+SUBJECT the preparation of the policy statement culture fourth pillar of sustainable development 
+PREDICATE passed on in 
+OBJECT november the framework of the world summit of local and regional leaders world congress of uclg held in mexico city 
+SENTENCE the preparation of the policy statement culture fourth pillar of sustainable development passed on november in the framework of the world summit of local and regional leaders world congress of uclg held in mexico city 
+SUBJECT sustainable development 
+PREDICATE if is 
+OBJECT to be reached 
+SENTENCE if sustainable development is to be reached 
+SUBJECT the present time sustainable development 
+PREDICATE can reduce 
+OBJECT poverty 
+SENTENCE the present time sustainable development can reduce poverty 
+SUBJECT referencehttps wwwwhartonupenneduhttp wwwcolumbiaeduhttp casiglobalusit the the concept of sustainable development 
+PREDICATE has been argued since has changed from to 
+OBJECT that conservation management economic development whereby the original meaning of the concept has been stretched somewhat 
+SENTENCE referencehttps wwwwhartonupenneduhttp wwwcolumbiaeduhttp casiglobalusit has been argued that since the the concept of sustainable development has changed from conservation management to economic development whereby the original meaning of the concept has been stretched somewhat 
+SUBJECT the the concept of sustainable development 
+PREDICATE since has changed from to 
+OBJECT that conservation management economic development whereby the original meaning of the concept has been stretched somewhat 
+SENTENCE that since the the concept of sustainable development has changed from conservation management to economic development whereby the original meaning of the concept has been stretched somewhat 
+SUBJECT the the concept of sustainable development 
+PREDICATE since has changed from to economic development 
+OBJECT that conservation management whereby the original meaning of the concept has been stretched somewhat 
+SENTENCE that since the the concept of sustainable development has changed from conservation management to economic development whereby the original meaning of the concept has been stretched somewhat 
+SUBJECT sustainable development 
+PREDICATE reduces through among 
+OBJECT poverty financial other things a balanced budget environmental living conditions and social including equality of income means 
+SENTENCE sustainable development reduces poverty through financial among other things a balanced budget environmental living conditions and social including equality of income means 
+SUBJECT sustainable development 
+PREDICATE reduces poverty through among 
+OBJECT financial other things a balanced budget environmental living conditions and social including equality of income means 
+SENTENCE sustainable development reduces poverty through financial among other things a balanced budget environmental living conditions and social including equality of income means 
+SUBJECT sustainable development 
+PREDICATE reduces through among means 
+OBJECT poverty financial other things a balanced budget environmental living conditions and social including equality of income 
+SENTENCE sustainable development reduces poverty through financial among other things a balanced budget environmental living conditions and social including equality of income means 
+SUBJECT he this angle sustainable development 
+PREDICATE writes from looks like 
+OBJECT a coverup operation 
+SENTENCE he writes from this angle sustainable development looks like a coverup operation 
+SUBJECT this angle sustainable development 
+PREDICATE looks like 
+OBJECT a coverup operation 
+SENTENCE this angle sustainable development looks like a coverup operation 
+SUBJECT the network of excellence sustainable development in a diverse world sponsored by the european union 
+PREDICATE integrates and 
+OBJECT multidisciplinary capacities interprets cultural diversity as a key element of a new strategy for sustainable development 
+SENTENCE the network of excellence sustainable development in a diverse world sponsored by the european union integrates multidisciplinary capacities and interprets cultural diversity as a key element of a new strategy for sustainable development 
+SUBJECT the world summit on social development 
+PREDICATE identified 
+OBJECT sustainable development goals such as economic development social development and environmental protection 
+SENTENCE the world summit on social development identified sustainable development goals such as economic development social development and environmental protection 
+SUBJECT the fourth pillar of sustainable development theory 
+PREDICATE has been referenced by 
+OBJECT executive director of imi institute at unesco vito di bari in his manifesto of art and architectural movement neofuturism whose name was inspired by the united nations report our common future 
+SENTENCE the fourth pillar of sustainable development theory has been referenced by executive director of imi institute at unesco vito di bari in his manifesto of art and architectural movement neofuturism whose name was inspired by the united nations report our common future 
+SUBJECT sustainable development 
+PREDICATE consists of 
+OBJECT balancing local and global efforts to meet basic human needs without destroying or degrading the natural environment 
+SENTENCE sustainable development consists of balancing local and global efforts to meet basic human needs without destroying or degrading the natural environment 
+SUBJECT broadly defined sustainable development is a systems 
+PREDICATE approach to and 
+OBJECT growth and development to manage natural produced and social capital for the welfare of their own and future generations 
+SENTENCE broadly defined sustainable development is a systems approach to growth and development and to manage natural produced and social capital for the welfare of their own and future generations 
+SUBJECT broadly defined sustainable development is a systems 
+PREDICATE approach to and to manage 
+OBJECT growth and development natural produced and social capital for the welfare of their own and future generations 
+SENTENCE broadly defined sustainable development is a systems approach to growth and development and to manage natural produced and social capital for the welfare of their own and future generations 
+SUBJECT rural infrastructure agricultural research and extension services technology development and plant and livestock gene banks 
+PREDICATE to enhance in in in 
+OBJECT agricultural productive capacity developing countries particular least developed countries 
+SENTENCE rural infrastructure agricultural research and extension services technology development and plant and livestock gene banks to enhance agricultural productive capacity in developing countries in particular in least developed countries 
+SUBJECT rural infrastructure agricultural research and extension services technology development and plant and livestock gene banks 
+PREDICATE to enhance agricultural productive capacity in in in 
+OBJECT developing countries particular least developed countries 
+SENTENCE rural infrastructure agricultural research and extension services technology development and plant and livestock gene banks to enhance agricultural productive capacity in developing countries in particular in least developed countries 
+SUBJECT rural infrastructure agricultural research and extension services technology development and plant and livestock gene banks 
+PREDICATE as internationally agreed through to enhance in in in 
+OBJECT associated traditional knowledge increase investment including enhanced international cooperation in agricultural productive capacity developing countries particular least developed countries 
+SENTENCE associated traditional knowledge as internationally agreed increase investment including through enhanced international cooperation in rural infrastructure agricultural research and extension services technology development and plant and livestock gene banks to enhance agricultural productive capacity in developing countries in particular in least developed countries 
+SUBJECT the term sustainable development as used by the united nations 
+PREDICATE incorporates 
+OBJECT both issues associated with land development and broader issues of human development such as education public health and standard of living 
+SENTENCE the term sustainable development as used by the united nations incorporates both issues associated with land development and broader issues of human development such as education public health and standard of living 
+SUBJECT two concurrent developments 
+PREDICATE provided impetus a major project in 
+OBJECT porto alegre and a united nations paper called accounting for sustainability briefing paper no 
+SENTENCE two concurrent developments provided impetus a major project in porto alegre and a united nations paper called accounting for sustainability briefing paper no 
+SUBJECT two concurrent developments 
+PREDICATE provided 
+OBJECT impetus a major project in porto alegre and a united nations paper called accounting for sustainability briefing paper no 
+SENTENCE two concurrent developments provided impetus a major project in porto alegre and a united nations paper called accounting for sustainability briefing paper no 
+SUBJECT main article green manufacturing and distributed manufacturingone of the core concepts in sustainable development 
+PREDICATE is 
+OBJECT that technology can be used to assist people meet their developmental needs 
+SENTENCE main article green manufacturing and distributed manufacturingone of the core concepts in sustainable development is that technology can be used to assist people meet their developmental needs 
+SUBJECT manufacturers developers oil and gas firms and many other types of companies 
+PREDICATE must comply with 
+OBJECT complex environmental regulations 
+SENTENCE manufacturers developers oil and gas firms and many other types of companies must comply with complex environmental regulations 
+SUBJECT technology to meet these sustainable development needs 
+PREDICATE is often referred to as 
+OBJECT appropriate technology which is an ideological movement and its manifestations originally articulated as intermediate technology by the economist e f schumacher in his influential work small is beautiful 
+SENTENCE technology to meet these sustainable development needs is often referred to as appropriate technology which is an ideological movement and its manifestations originally articulated as intermediate technology by the economist e f schumacher in his influential work small is beautiful 
+SUBJECT technology to meet these sustainable development needs 
+PREDICATE is often referred to as appropriate technology 
+OBJECT which is an ideological movement and its manifestations originally articulated as intermediate technology by the economist e f schumacher in his influential work small is beautiful 
+SENTENCE technology to meet these sustainable development needs is often referred to as appropriate technology which is an ideological movement and its manifestations originally articulated as intermediate technology by the economist e f schumacher in his influential work small is beautiful 
+SUBJECT world war ii the notion of development 
+PREDICATE after had been established in 
+OBJECT the west to imply the projection of the american model of society onto the rest of the world 
+SENTENCE after world war ii the notion of development had been established in the west to imply the projection of the american model of society onto the rest of the world 
+SUBJECT world war ii the notion of development 
+PREDICATE after had been established in to imply 
+OBJECT the west the projection of the american model of society onto the rest of the world 
+SENTENCE after world war ii the notion of development had been established in the west to imply the projection of the american model of society onto the rest of the world 
+SUBJECT the publication of the report the ambiguous and insubstantial slogan of sustainable development 
+PREDICATE since has marched on 
+OBJECT worldwide 
+SENTENCE since the publication of the report the ambiguous and insubstantial slogan of sustainable development has marched on worldwide 
+SUBJECT least developed countries 
+PREDICATE in landlocked 
+OBJECT particular african countries developing countries and small island developing states as well as the specific challenges facing the middleincome countries 
+SENTENCE in particular african countries least developed countries landlocked developing countries and small island developing states as well as the specific challenges facing the middleincome countries 
+SUBJECT least developed countries 
+PREDICATE in landlocked developing countries and as well 
+OBJECT particular african countries small island developing states as the specific challenges facing the middleincome countries 
+SENTENCE in particular african countries least developed countries landlocked developing countries and small island developing states as well as the specific challenges facing the middleincome countries 
+SUBJECT least developed countries 
+PREDICATE in particular african countries landlocked 
+OBJECT developing countries and small island developing states as well as the specific challenges facing the middleincome countries 
+SENTENCE in particular african countries least developed countries landlocked developing countries and small island developing states as well as the specific challenges facing the middleincome countries 
+SUBJECT the number of children under age in developing countries 
+PREDICATE because is predicted 
+OBJECT to decrease 
+SENTENCE because the number of children under age in developing countries is predicted to decrease 
+SUBJECT inherently the concept of sustainable development 
+PREDICATE is intertwined with 
+OBJECT the concept of carrying capacity 
+SENTENCE inherently the concept of sustainable development is intertwined with the concept of carrying capacity 
+SUBJECT two concurrent developments 
+PREDICATE provided impetus a major project in 
+OBJECT porto alegre and a united nations paper called accounting for sustainability briefing paper no 
+SENTENCE two concurrent developments provided impetus a major project in porto alegre and a united nations paper called accounting for sustainability briefing paper no 
+SUBJECT two concurrent developments 
+PREDICATE provided 
+OBJECT impetus a major project in porto alegre and a united nations paper called accounting for sustainability briefing paper no 
+SENTENCE two concurrent developments provided impetus a major project in porto alegre and a united nations paper called accounting for sustainability briefing paper no 
+SUBJECT natural gas development 
+PREDICATE is opening up 
+OBJECT new cleaner domestic energy supplies 
+SENTENCE natural gas development is opening up new cleaner domestic energy supplies 
+SUBJECT the population of the more developed regions 
+PREDICATE in is expected and 
+OBJECT contrast to undergo only slight increase from billion to billion this would have declined to billion but for a projected net migration from developing to developed countries which is expected to average million persons annually from to 
+SENTENCE in contrast the population of the more developed regions is expected to undergo only slight increase from billion to billion and this would have declined to billion but for a projected net migration from developing to developed countries which is expected to average million persons annually from to 
+SUBJECT the population of the more developed regions 
+PREDICATE in is expected to undergo and 
+OBJECT contrast only slight increase from billion to billion this would have declined to billion but for a projected net migration from developing to developed countries which is expected to average million persons annually from to 
+SENTENCE in contrast the population of the more developed regions is expected to undergo only slight increase from billion to billion and this would have declined to billion but for a projected net migration from developing to developed countries which is expected to average million persons annually from to 
+SUBJECT the population of the more developed regions this 
+PREDICATE in is expected and would have declined to but for 
+OBJECT contrast to undergo only slight increase from billion to billion billion a projected net migration from developing to developed countries which is expected to average million persons annually from to 
+SENTENCE in contrast the population of the more developed regions is expected to undergo only slight increase from billion to billion and this would have declined to billion but for a projected net migration from developing to developed countries which is expected to average million persons annually from to 
+SUBJECT fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services which 
+PREDICATE can a powerful and force for in extends to 
+OBJECT be transformative sustainable development this sense all species 
+SENTENCE fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services can be a powerful and transformative force for sustainable development which in this sense extends to all species 
+SUBJECT fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services which 
+PREDICATE can a powerful and force for sustainable development in extends to 
+OBJECT be transformative this sense all species 
+SENTENCE fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services can be a powerful and transformative force for sustainable development which in this sense extends to all species 
+SUBJECT the sustainable development goals sdgs are the current harmonized set of seventeen future international development targetsthe official agenda for sustainable development adopted on september 
+PREDICATE has paragraphs with 
+OBJECT the main paragraph outlining the sustainable development goals and its associated targets 
+SENTENCE the sustainable development goals sdgs are the current harmonized set of seventeen future international development targetsthe official agenda for sustainable development adopted on september has paragraphs with the main paragraph outlining the sustainable development goals and its associated targets 
+SUBJECT the concept of sustainable development 
+PREDICATE at can be interpreted in but at 
+OBJECT the heart of government policy many different ways its core is an approach to development that looks to balance different and often competing needs against an awareness of the environmental social and economic limitations we face as a societyall too often development is driven by one particular need without fully considering the wider or future impacts 
+SENTENCE at the heart of government policy the concept of sustainable development can be interpreted in many different ways but at its core is an approach to development that looks to balance different and often competing needs against an awareness of the environmental social and economic limitations we face as a societyall too often development is driven by one particular need without fully considering the wider or future impacts 
+SUBJECT a societyall too often development 
+PREDICATE is driven by without 
+OBJECT one particular need fully considering the wider or future impacts 
+SENTENCE a societyall too often development is driven by one particular need without fully considering the wider or future impacts 
+SUBJECT a societyall too often development 
+PREDICATE is driven by without fully considering 
+OBJECT one particular need the wider or future impacts 
+SENTENCE a societyall too often development is driven by one particular need without fully considering the wider or future impacts 
+SUBJECT the concept of sustainable development 
+PREDICATE at can be interpreted in many different ways but at 
+OBJECT the heart of government policy its core is an approach to development that looks to balance different and often competing needs against an awareness of the environmental social and economic limitations we face as a societyall too often development is driven by one particular need without fully considering the wider or future impacts 
+SENTENCE at the heart of government policy the concept of sustainable development can be interpreted in many different ways but at its core is an approach to development that looks to balance different and often competing needs against an awareness of the environmental social and economic limitations we face as a societyall too often development is driven by one particular need without fully considering the wider or future impacts 
+SUBJECT a blog post by dr alan hecht director for sustainable development for epa s office of research and development 
+PREDICATE was recently featured by 
+OBJECT the cynthia and george mitchell foundation 
+SENTENCE a blog post by dr alan hecht director for sustainable development for epa s office of research and development was recently featured by the cynthia and george mitchell foundation 
+SUBJECT several conceptual frameworks developed in relation to the resilience approachberkes and colleagues 
+PREDICATE distinguish 
+OBJECT four sets of elements which can be used to describe socialecological system characteristics and linkages knowledge acquisition of sess is an ongoing dynamic learning process and such knowledge often emerges with people s institutions and organisations 
+SENTENCE several conceptual frameworks developed in relation to the resilience approachberkes and colleagues distinguish four sets of elements which can be used to describe socialecological system characteristics and linkages knowledge acquisition of sess is an ongoing dynamic learning process and such knowledge often emerges with people s institutions and organisations 
+SUBJECT several conceptual frameworks developed in relation to the resilience approachberkes and colleagues 
+PREDICATE distinguish sets of 
+OBJECT four elements which can be used to describe socialecological system characteristics and linkages knowledge acquisition of sess is an ongoing dynamic learning process and such knowledge often emerges with people s institutions and organisations 
+SENTENCE several conceptual frameworks developed in relation to the resilience approachberkes and colleagues distinguish four sets of elements which can be used to describe socialecological system characteristics and linkages knowledge acquisition of sess is an ongoing dynamic learning process and such knowledge often emerges with people s institutions and organisations 
+SUBJECT both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city 
+PREDICATE makes 
+OBJECT the most of epa s assistancethe iowa community that took most advantage of these resources was iowa city the state s fourth largest city and home to the university of iowa and a major medical center 
+SENTENCE both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city makes the most of epa s assistancethe iowa community that took most advantage of these resources was iowa city the state s fourth largest city and home to the university of iowa and a major medical center 
+SUBJECT both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city 
+PREDICATE makes the most of 
+OBJECT epa s assistancethe iowa community that took most advantage of these resources was iowa city the state s fourth largest city and home to the university of iowa and a major medical center 
+SENTENCE both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city makes the most of epa s assistancethe iowa community that took most advantage of these resources was iowa city the state s fourth largest city and home to the university of iowa and a major medical center 
+SUBJECT both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city the state s 
+PREDICATE makes iowa city fourth city and 
+OBJECT the most of epa s assistancethe iowa community that took most advantage of these resources was largest home to the university of iowa and a major medical center 
+SENTENCE both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city makes the most of epa s assistancethe iowa community that took most advantage of these resources was iowa city the state s fourth largest city and home to the university of iowa and a major medical center 
+SUBJECT problems of sustainable development 
+PREDICATE are intrinsically tied to 
+OBJECT the socialecological system defined to tackle them 
+SENTENCE problems of sustainable development are intrinsically tied to the socialecological system defined to tackle them 
+SUBJECT promising direction towards sustainable development 
+PREDICATE is to 
+OBJECT a design systems that are flexible and reversible 
+SENTENCE a promising direction towards sustainable development is to design systems that are flexible and reversible 
+SUBJECT the developed world population 
+PREDICATE is only increasing slightly but 
+OBJECT consumption levels are unsustainable 
+SENTENCE the developed world population is only increasing slightly but consumption levels are unsustainable 
+SUBJECT the key advantage of their use in developing countries 
+PREDICATE is 
+OBJECT that their use helps to build environmental management capacity 
+SENTENCE the key advantage of their use in developing countries is that their use helps to build environmental management capacity 
+SUBJECT citizens of developed countries 
+PREDICATE consume 
+OBJECT that an average of tons of those four key resources per capita per annum ranging up to or more tons per person in some developed countries 
+SENTENCE that citizens of developed countries consume an average of tons of those four key resources per capita per annum ranging up to or more tons per person in some developed countries 
+SUBJECT concerns about the environmental impacts of agribusiness and the stark contrast between the obesity problems of the western world and the poverty and food insecurity of the developing world 
+PREDICATE have generated as 
+OBJECT a strong movement towards healthy sustainable eating a major component of overall ethical consumerism 
+SENTENCE concerns about the environmental impacts of agribusiness and the stark contrast between the obesity problems of the western world and the poverty and food insecurity of the developing world have generated a strong movement towards healthy sustainable eating as a major component of overall ethical consumerism 
+SUBJECT the relationship between human rights and human development corporate power and environmental justice global poverty and citizen action 
+PREDICATE suggest 
+OBJECT that responsible global citizenship is an inescapable element of what may at first glance seem to be simply matters of personal consumer and moral choice 
+SENTENCE the relationship between human rights and human development corporate power and environmental justice global poverty and citizen action suggest that responsible global citizenship is an inescapable element of what may at first glance seem to be simply matters of personal consumer and moral choice 
+SUBJECT the relationship between human rights and human development corporate power and environmental justice global poverty and citizen action responsible global citizenship 
+PREDICATE suggest an inescapable element of 
+OBJECT that is what may at first glance seem to be simply matters of personal consumer and moral choice 
+SENTENCE the relationship between human rights and human development corporate power and environmental justice global poverty and citizen action suggest that responsible global citizenship is an inescapable element of what may at first glance seem to be simply matters of personal consumer and moral choice 
+SUBJECT developed countries citizens 
+PREDICATE consume 
+OBJECT an average of tons of those four key resources per capita ranging up to or more tons per person in some developed countries with resource consumption levels far beyond what is likely sustainable 
+SENTENCE developed countries citizens consume an average of tons of those four key resources per capita ranging up to or more tons per person in some developed countries with resource consumption levels far beyond what is likely sustainable 
+SUBJECT should be equivalent development of renewable substitutes waste generation 
+PREDICATE should not exceed 
+OBJECT the assimilative capacity of the environment 
+SENTENCE should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT should be equivalent development of renewable substitutes waste generation 
+PREDICATE should not exceed the assimilative capacity of 
+OBJECT the environment 
+SENTENCE should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT the economic development brought by such organized principles and practices in an economy 
+PREDICATE is called msd 
+OBJECT managed sustainable development the concept of sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SENTENCE the economic development brought by such organized principles and practices in an economy is called managed sustainable development msd the concept of sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SUBJECT the economic development brought by such organized principles and practices in an economy 
+PREDICATE is called managed sustainable development msd 
+OBJECT the concept of sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SENTENCE the economic development brought by such organized principles and practices in an economy is called managed sustainable development msd the concept of sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SUBJECT the economic development brought by such organized principles and practices in an economy 
+PREDICATE is called msd the concept of 
+OBJECT managed sustainable development sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SENTENCE the economic development brought by such organized principles and practices in an economy is called managed sustainable development msd the concept of sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SUBJECT at present the average per capita consumption of people in the developing world is sustainable but population numbers 
+PREDICATE are increasing and 
+OBJECT individuals are aspiring to highconsumption western lifestyles 
+SENTENCE at present the average per capita consumption of people in the developing world is sustainable but population numbers are increasing and individuals are aspiring to highconsumption western lifestyles 
+SUBJECT development 
+PREDICATE has 
+OBJECT its roots in ideas about sustainable forest management which were developed in europe during the and centuries 
+SENTENCE development has its roots in ideas about sustainable forest management which were developed in europe during the and centuries 
+SUBJECT the real world coalition a definition based on the work of the world commission on environment and development we 
+PREDICATE can not just add to but 
+OBJECT sustainable development our current list of things to do must learn to integrate the concepts into everything that we do 
+SENTENCE the real world coalition a definition based on the work of the world commission on environment and development we can not just add sustainable development to our current list of things to do but must learn to integrate the concepts into everything that we do 
+SUBJECT the real world coalition a definition based on the work of the world commission on environment and development we our 
+PREDICATE can not just add to current list of but 
+OBJECT sustainable development things to do must learn to integrate the concepts into everything that we do 
+SENTENCE the real world coalition a definition based on the work of the world commission on environment and development we can not just add sustainable development to our current list of things to do but must learn to integrate the concepts into everything that we do 
+SUBJECT sustainable development 
+PREDICATE the organizing principle for 
+OBJECT is meeting human development goals while at the same time sustaining the ability of natural systems to provide the natural resources and ecosystem services upon which the economy and society depends 
+SENTENCE sustainable development is the organizing principle for meeting human development goals while at the same time sustaining the ability of natural systems to provide the natural resources and ecosystem services upon which the economy and society depends 
+SUBJECT the original definition of sustainable development 
+PREDICATE is usually considered 
+OBJECT to be development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SENTENCE the original definition of sustainable development is usually considered to be development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SUBJECT the original definition of sustainable development that 
+PREDICATE is usually considered to development meets without 
+OBJECT be the needs of the present compromising the ability of future generations to meet their own needs 
+SENTENCE the original definition of sustainable development is usually considered to be development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SUBJECT un decade of education for sustainable development the overall goal of the un decade of education 
+PREDICATE is 
+OBJECT for sustainable development desd to integrate the principles values and practices of sustainable development into all aspects of education and learning 
+SENTENCE un decade of education for sustainable development the overall goal of the un decade of education for sustainable development desd is to integrate the principles values and practices of sustainable development into all aspects of education and learning 
+SUBJECT un decade of education for sustainable development the overall goal of the un decade of education 
+PREDICATE is to integrate into 
+OBJECT for sustainable development desd the principles values and practices of sustainable development all aspects of education and learning 
+SENTENCE un decade of education for sustainable development the overall goal of the un decade of education for sustainable development desd is to integrate the principles values and practices of sustainable development into all aspects of education and learning 
+SUBJECT sustainability and sustainable development 
+PREDICATE focuses on between and 
+OBJECT balancing that fine line competing needs our need to move forward technologically and economically the needs to protect the environments in which we and others live 
+SENTENCE sustainability and sustainable development focuses on balancing that fine line between competing needs our need to move forward technologically and economically and the needs to protect the environments in which we and others live 
+SUBJECT sustainability and sustainable development 
+PREDICATE focuses on between needs and 
+OBJECT balancing that fine line competing our need to move forward technologically and economically the needs to protect the environments in which we and others live 
+SENTENCE sustainability and sustainable development focuses on balancing that fine line between competing needs our need to move forward technologically and economically and the needs to protect the environments in which we and others live 
+SUBJECT a process of change in which the exploitation of resources the direction of investments the orientation of technological development and institutional change 
+PREDICATE is a 
+OBJECT dynamic process which enables people to realise their potential and improve their quality of life in ways which simultaneously protect and enhance the earth s life support systems forum for the future in essence sustainable development is about five key principles quality of life fairness and equity participation and partnership care for our environment and respect for ecological constraints recognising there are environmental limits and thought for the future and the precautionary principle 
+SENTENCE a process of change in which the exploitation of resources the direction of investments the orientation of technological development and institutional change is a dynamic process which enables people to realise their potential and improve their quality of life in ways which simultaneously protect and enhance the earth s life support systems forum for the future in essence sustainable development is about five key principles quality of life fairness and equity participation and partnership care for our environment and respect for ecological constraints recognising there are environmental limits and thought for the future and the precautionary principle 
+SUBJECT economic development 
+PREDICATE is about 
+OBJECT giving people what they want without compromising quality of life especially in the developing world and reducing the financial burden and red tape of doing the right thingthere are many facets to this pillar 
+SENTENCE economic development is about giving people what they want without compromising quality of life especially in the developing world and reducing the financial burden and red tape of doing the right thingthere are many facets to this pillar 
+SUBJECT sustainable development 
+PREDICATE can be classified as 
+OBJECT development that meets the needs of the present without compromising the ability of future generationswhile the modern concept of sustainable development is derived mostly from the brundtland report it is also rooted in earlier ideas about sustainable forest management and twentieth century environmental concerns 
+SENTENCE sustainable development can be classified as development that meets the needs of the present without compromising the ability of future generationswhile the modern concept of sustainable development is derived mostly from the brundtland report it is also rooted in earlier ideas about sustainable forest management and twentieth century environmental concerns 
+SUBJECT developing countries 
+PREDICATE to strengthen to move towards and 
+OBJECT their scientific and technological capacities more sustainable patterns of consumption and production develop implement tools to monitor sustainable development impacts for sustainable tourism which creates jobs promotes local culture and products rationalize inefficient fossil fuel subsidies that encourage wasteful consumption by removing market distortions in accordance with circumstances including 
+SENTENCE developing countries to strengthen their scientific and technological capacities to move towards more sustainable patterns of consumption and production develop and implement tools to monitor sustainable development impacts for sustainable tourism which creates jobs promotes local culture and products rationalize inefficient fossil fuel subsidies that encourage wasteful consumption by removing market distortions in accordance with circumstances including 
+SUBJECT developing countries 
+PREDICATE to strengthen 
+OBJECT their scientific and technological capacities to move towards more sustainable patterns of consumption and production develop and implement tools to monitor sustainable development impacts for sustainable tourism which creates jobs promotes local culture and products rationalize inefficient fossil fuel subsidies that encourage wasteful consumption by removing market distortions in accordance with circumstances including 
+SENTENCE developing countries to strengthen their scientific and technological capacities to move towards more sustainable patterns of consumption and production develop and implement tools to monitor sustainable development impacts for sustainable tourism which creates jobs promotes local culture and products rationalize inefficient fossil fuel subsidies that encourage wasteful consumption by removing market distortions in accordance with circumstances including 
+SUBJECT developing countries their 
+PREDICATE to strengthen scientific and capacities 
+OBJECT technological to move towards more sustainable patterns of consumption and production develop and implement tools to monitor sustainable development impacts for sustainable tourism which creates jobs promotes local culture and products rationalize inefficient fossil fuel subsidies that encourage wasteful consumption by removing market distortions in accordance with circumstances including 
+SENTENCE developing countries to strengthen their scientific and technological capacities to move towards more sustainable patterns of consumption and production develop and implement tools to monitor sustainable development impacts for sustainable tourism which creates jobs promotes local culture and products rationalize inefficient fossil fuel subsidies that encourage wasteful consumption by removing market distortions in accordance with circumstances including 
+SUBJECT people developing countries 
+PREDICATE everywhere have for to strengthen 
+OBJECT that the relevant information and awareness sustainable development and lifestyles in harmony with nature support their scientific and technological capacities to move towards more sustainable patterns of consumption and production develop and implement tools to monitor sustainable development impacts for sustainable tourism which creates jobs promotes local culture and products rationalize inefficient fossil fuel subsidies that encourage wasteful consumption by removing market distortions in accordance with circumstances including 
+SENTENCE that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature support developing countries to strengthen their scientific and technological capacities to move towards more sustainable patterns of consumption and production develop and implement tools to monitor sustainable development impacts for sustainable tourism which creates jobs promotes local culture and products rationalize inefficient fossil fuel subsidies that encourage wasteful consumption by removing market distortions in accordance with circumstances including 
+SUBJECT the term sustainability sustainable development 
+PREDICATE should be viewed as while refers to 
+OBJECT that humanity s target goal of humanecosystem equilibrium homeostasis the holistic approach and temporal processes that lead us to the end point of sustainability 
+SENTENCE that the term sustainability should be viewed as humanity s target goal of humanecosystem equilibrium homeostasis while sustainable development refers to the holistic approach and temporal processes that lead us to the end point of sustainability 
+SUBJECT sustainable development 
+PREDICATE while refers to 
+OBJECT the holistic approach and temporal processes that lead us to the end point of sustainability 
+SENTENCE while sustainable development refers to the holistic approach and temporal processes that lead us to the end point of sustainability 
+SUBJECT peaceful and inclusive societies for sustainable development 
+PREDICATE promote provide access to for and 
+OBJECT justice all build effective accountable and inclusive institutions at all levels significantly reduce all forms of violence and related death rates everywhere end abuse exploitation trafficking and all forms of violence and torture against children promote the rule of law at the national and international levels and ensure equal access to justice for all by significantly reduce illicit financial and arms flows strengthen recovery and return of stolen assets and combat all forms of organized crime substantially reduce corruption and bribery in all its forms develop effective accountable and transparent institutions at all levels ensure responsive inclusive participatory and representative decisionmaking at all levels broaden and strengthen the participation of developing countries in the institutions of global governance by provide legal identity for all including birth registration ensure public access to information and protect fundamental freedoms in accordance with national legislation and international agreements strengthen relevant national institutions including through international cooperation for building capacities at all levels in particular in developing countries for preventing violence and combating terrorism and crime promote and enforce nondiscriminatory laws and policies for sustainable developmentgoal 
+SENTENCE promote peaceful and inclusive societies for sustainable development provide access to justice for all and build effective accountable and inclusive institutions at all levels significantly reduce all forms of violence and related death rates everywhere end abuse exploitation trafficking and all forms of violence and torture against children promote the rule of law at the national and international levels and ensure equal access to justice for all by significantly reduce illicit financial and arms flows strengthen recovery and return of stolen assets and combat all forms of organized crime substantially reduce corruption and bribery in all its forms develop effective accountable and transparent institutions at all levels ensure responsive inclusive participatory and representative decisionmaking at all levels broaden and strengthen the participation of developing countries in the institutions of global governance by provide legal identity for all including birth registration ensure public access to information and protect fundamental freedoms in accordance with national legislation and international agreements strengthen relevant national institutions including through international cooperation for building capacities at all levels in particular in developing countries for preventing violence and combating terrorism and crime promote and enforce nondiscriminatory laws and policies for sustainable developmentgoal 
+SUBJECT peaceful and inclusive societies for sustainable development effective accountable and inclusive institutions 
+PREDICATE promote provide access to for and significantly reduce 
+OBJECT justice all build at all levels all forms of violence and related death rates everywhere end abuse exploitation trafficking and all forms of violence and torture against children promote the rule of law at the national and international levels and ensure equal access to justice for all by significantly reduce illicit financial and arms flows strengthen recovery and return of stolen assets and combat all forms of organized crime substantially reduce corruption and bribery in all its forms develop effective accountable and transparent institutions at all levels ensure responsive inclusive participatory and representative decisionmaking at all levels broaden and strengthen the participation of developing countries in the institutions of global governance by provide legal identity for all including birth registration ensure public access to information and protect fundamental freedoms in accordance with national legislation and international agreements strengthen relevant national institutions including through international cooperation for building capacities at all levels in particular in developing countries for preventing violence and combating terrorism and crime promote and enforce nondiscriminatory laws and policies for sustainable developmentgoal 
+SENTENCE promote peaceful and inclusive societies for sustainable development provide access to justice for all and build effective accountable and inclusive institutions at all levels significantly reduce all forms of violence and related death rates everywhere end abuse exploitation trafficking and all forms of violence and torture against children promote the rule of law at the national and international levels and ensure equal access to justice for all by significantly reduce illicit financial and arms flows strengthen recovery and return of stolen assets and combat all forms of organized crime substantially reduce corruption and bribery in all its forms develop effective accountable and transparent institutions at all levels ensure responsive inclusive participatory and representative decisionmaking at all levels broaden and strengthen the participation of developing countries in the institutions of global governance by provide legal identity for all including birth registration ensure public access to information and protect fundamental freedoms in accordance with national legislation and international agreements strengthen relevant national institutions including through international cooperation for building capacities at all levels in particular in developing countries for preventing violence and combating terrorism and crime promote and enforce nondiscriminatory laws and policies for sustainable developmentgoal 
+SUBJECT particularly developing countries 
+PREDICATE to support encourage and promote 
+OBJECT the achievement of sustainable development goals in all countries effective public publicprivate and civil society partnerships building on the experience and resourcing strategies of partnershipsdata monitoring and accountability by enhance capacity building support to developing countries including for ldcs and sids to increase significantly the availability of highquality timely and reliable data disaggregated by income gender age race ethnicity migratory status disability geographic location and other characteristics relevant in national contexts by build on existing initiatives to develop measurements of progress on sustainable development that complement gdp and support statistical capacity building in developing countries taking into account ongoing wto negotiations wto doha development agenda hong kong ministerial mandate 
+SENTENCE to support the achievement of sustainable development goals in all countries particularly developing countries encourage and promote effective public publicprivate and civil society partnerships building on the experience and resourcing strategies of partnershipsdata monitoring and accountability by enhance capacity building support to developing countries including for ldcs and sids to increase significantly the availability of highquality timely and reliable data disaggregated by income gender age race ethnicity migratory status disability geographic location and other characteristics relevant in national contexts by build on existing initiatives to develop measurements of progress on sustainable development that complement gdp and support statistical capacity building in developing countries taking into account ongoing wto negotiations wto doha development agenda hong kong ministerial mandate 
+SUBJECT particularly developing countries 
+PREDICATE encourage and promote 
+OBJECT in all countries effective public publicprivate and civil society partnerships building on the experience and resourcing strategies of partnershipsdata monitoring and accountability by enhance capacity building support to developing countries including for ldcs and sids to increase significantly the availability of highquality timely and reliable data disaggregated by income gender age race ethnicity migratory status disability geographic location and other characteristics relevant in national contexts by build on existing initiatives to develop measurements of progress on sustainable development that complement gdp and support statistical capacity building in developing countries taking into account ongoing wto negotiations wto doha development agenda hong kong ministerial mandate 
+SENTENCE in all countries particularly developing countries encourage and promote effective public publicprivate and civil society partnerships building on the experience and resourcing strategies of partnershipsdata monitoring and accountability by enhance capacity building support to developing countries including for ldcs and sids to increase significantly the availability of highquality timely and reliable data disaggregated by income gender age race ethnicity migratory status disability geographic location and other characteristics relevant in national contexts by build on existing initiatives to develop measurements of progress on sustainable development that complement gdp and support statistical capacity building in developing countries taking into account ongoing wto negotiations wto doha development agenda hong kong ministerial mandate 

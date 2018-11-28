@@ -1,0 +1,144 @@
+SUBJECT sustainability as in effects towards human resources environment and ecology 
+PREDICATE has 
+OBJECT to be measured within each department of the company 
+SENTENCE sustainability as in effects towards human resources environment and ecology has to be measured within each department of the company 
+SUBJECT sustainability as in effects towards human resources environment and ecology 
+PREDICATE has to be measured within 
+OBJECT each department of the company 
+SENTENCE sustainability as in effects towards human resources environment and ecology has to be measured within each department of the company 
+SUBJECT the resulting ecological deficit 
+PREDICATE must be met from and 
+OBJECT unsustainable extra sources these are obtained in three ways embedded in the goods and services of world trade taken from the past eg 
+SENTENCE the resulting ecological deficit must be met from unsustainable extra sources and these are obtained in three ways embedded in the goods and services of world trade taken from the past eg 
+SUBJECT marketbased solutions to ecological crises ecological economics environmental economics green economy 
+PREDICATE are rejected as 
+OBJECT technical tweaks that do not confront capitalism s structural failures 
+SENTENCE marketbased solutions to ecological crises ecological economics environmental economics green economy are rejected as technical tweaks that do not confront capitalism s structural failures 
+SUBJECT ecological economics studies that 
+PREDICATE the fields of academic research aim 
+OBJECT to address human economies and natural ecosystems 
+SENTENCE ecological economics studies the fields of academic research that aim to address human economies and natural ecosystems 
+SUBJECT our ecological problems implementing recommendations which stem from physical biological economic etc studies 
+PREDICATE if bookchin s 
+OBJECT claim is that these problems can only be resolved by understanding the underlying social processes and intervening in those processes by applying the concepts and methods of the social sciences 
+SENTENCE if our ecological problems implementing recommendations which stem from physical biological economic etc studies bookchin s claim is that these problems can only be resolved by understanding the underlying social processes and intervening in those processes by applying the concepts and methods of the social sciences 
+SUBJECT the event of total ecological collapse destruction caused by natural disasters 
+PREDICATE until generally causes thus 
+OBJECT an increase in economic growth and accumulation 
+SENTENCE until the event of total ecological collapse destruction caused by natural disasters generally causes an increase in economic growth and accumulation thus 
+SUBJECT the event of total ecological collapse destruction caused by natural disasters 
+PREDICATE until generally causes an increase in thus 
+OBJECT economic growth and accumulation 
+SENTENCE until the event of total ecological collapse destruction caused by natural disasters generally causes an increase in economic growth and accumulation thus 
+SUBJECT ecological economist herman daly 
+PREDICATE asked 
+OBJECT what use is a sawmill without a forest 
+SENTENCE ecological economist herman daly asked what use is a sawmill without a forest 
+SUBJECT romanian american economist nicholas georgescuroegen a progenitor in economics and a paradigm founder of ecological economics 
+PREDICATE has argued 
+OBJECT the carrying capacity of earth 
+SENTENCE romanian american economist nicholas georgescuroegen a progenitor in economics and a paradigm founder of ecological economics has argued the carrying capacity of earth 
+SUBJECT the ecological stability of human settlements 
+PREDICATE part of and built 
+OBJECT is the relationship between humans and their natural social environments 
+SENTENCE the ecological stability of human settlements is part of the relationship between humans and their natural social and built environments 
+SUBJECT human ecology this 
+PREDICATE broadens 
+OBJECT the focus of sustainable development to include the domain of human health 
+SENTENCE human ecology this broadens the focus of sustainable development to include the domain of human health 
+SUBJECT one school of thought often labeled ecosocialism or ecological marxism 
+PREDICATE asserts 
+OBJECT that the capitalist economic system is fundamentally incompatible with the ecological and social requirements of sustainability 
+SENTENCE one school of thought often labeled ecosocialism or ecological marxism asserts that the capitalist economic system is fundamentally incompatible with the ecological and social requirements of sustainability 
+SUBJECT an inextricable link between poverty eradication and better maintenance and conservation of the ecological commons arising from the benefit 
+PREDICATE there is 
+OBJECT that flows from natural capital that are received directly by the poor in the transition to a green economy new jobs are created which in time exceed the losses in brown economy jobs 
+SENTENCE that there is an inextricable link between poverty eradication and better maintenance and conservation of the ecological commons arising from the benefit flows from natural capital that are received directly by the poor in the transition to a green economy new jobs are created which in time exceed the losses in brown economy jobs 
+SUBJECT fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services which 
+PREDICATE can a powerful and force for in extends to 
+OBJECT be transformative sustainable development this sense all species 
+SENTENCE fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services can be a powerful and transformative force for sustainable development which in this sense extends to all species 
+SUBJECT fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services which 
+PREDICATE can a powerful and force for sustainable development in extends to 
+OBJECT be transformative this sense all species 
+SENTENCE fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services can be a powerful and transformative force for sustainable development which in this sense extends to all species 
+SUBJECT herman daly three broad criteria for ecological sustainability renewable resources 
+PREDICATE has suggested should provide 
+OBJECT a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SENTENCE herman daly has suggested three broad criteria for ecological sustainability renewable resources should provide a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT three broad criteria for ecological sustainability renewable resources 
+PREDICATE should provide 
+OBJECT a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SENTENCE three broad criteria for ecological sustainability renewable resources should provide a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT three broad criteria for ecological sustainability renewable resources 
+PREDICATE should provide a sustainable yield 
+OBJECT the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SENTENCE three broad criteria for ecological sustainability renewable resources should provide a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT ecological variables parameter uncertainty 
+PREDICATE the relationships between referring to 
+OBJECT uncertainty associated with parameter values that are not known precisely but can be assessed and reported in terms of the experiencing a defined range of outcomes and stochastic uncertainty stemming from chance or unrelated factors 
+SENTENCE the relationships between ecological variables parameter uncertainty referring to uncertainty associated with parameter values that are not known precisely but can be assessed and reported in terms of the experiencing a defined range of outcomes and stochastic uncertainty stemming from chance or unrelated factors 
+SUBJECT ecological variables parameter uncertainty 
+PREDICATE referring to 
+OBJECT uncertainty associated with parameter values that are not known precisely but can be assessed and reported in terms of the experiencing a defined range of outcomes and stochastic uncertainty stemming from chance or unrelated factors 
+SENTENCE ecological variables parameter uncertainty referring to uncertainty associated with parameter values that are not known precisely but can be assessed and reported in terms of the experiencing a defined range of outcomes and stochastic uncertainty stemming from chance or unrelated factors 
+SUBJECT ecological economics 
+PREDICATE includes 
+OBJECT the study of societal metabolism the throughput of resources that enter and exit the economic system in relation to environmental quality 
+SENTENCE ecological economics includes the study of societal metabolism the throughput of resources that enter and exit the economic system in relation to environmental quality 
+SUBJECT ecological economics 
+PREDICATE includes the study of 
+OBJECT societal metabolism the throughput of resources that enter and exit the economic system in relation to environmental quality 
+SENTENCE ecological economics includes the study of societal metabolism the throughput of resources that enter and exit the economic system in relation to environmental quality 
+SUBJECT how much planetary ecological systems 
+PREDICATE can withstand from and 
+OBJECT resiliencethinking addresses assault human disturbances still deliver the service s current and future generations need from them 
+SENTENCE resiliencethinking addresses how much planetary ecological systems can withstand assault from human disturbances and still deliver the service s current and future generations need from them 
+SUBJECT the ecological footprint measures human consumption in terms of the biologically productive land 
+PREDICATE needed 
+OBJECT to provide the resources and absorb the wastes of the average global citizen 
+SENTENCE the ecological footprint measures human consumption in terms of the biologically productive land needed to provide the resources and absorb the wastes of the average global citizen 
+SUBJECT the ecological footprint measures human consumption in terms of the biologically productive land 
+PREDICATE needed to provide and 
+OBJECT the resources absorb the wastes of the average global citizen 
+SENTENCE the ecological footprint measures human consumption in terms of the biologically productive land needed to provide the resources and absorb the wastes of the average global citizen 
+SUBJECT david pimentel professor of ecology and agriculture at cornell university and mario giampietro senior researcher at the national research institute on food and nutrition 
+PREDICATE inran in and 
+OBJECT place their study food land population the us economy the maximum us population for a sustainable economy at million 
+SENTENCE david pimentel professor of ecology and agriculture at cornell university and mario giampietro senior researcher at the national research institute on food and nutrition inran place in their study food land population and the us economy the maximum us population for a sustainable economy at million 
+SUBJECT ecologically massive environmental degradation and climate change 
+PREDICATE threaten 
+OBJECT the stability of ecological systems that humanity depends on 
+SENTENCE ecologically massive environmental degradation and climate change threaten the stability of ecological systems that humanity depends on 
+SUBJECT ecologically massive environmental degradation and climate change 
+PREDICATE threaten the stability of 
+OBJECT ecological systems that humanity depends on 
+SENTENCE ecologically massive environmental degradation and climate change threaten the stability of ecological systems that humanity depends on 
+SUBJECT instance ecological intelligent design 
+PREDICATE for divides into 
+OBJECT products consumables service products or durables and unsaleables toxic products that no one should buy or in many cases do not realize they are buying 
+SENTENCE for instance ecological intelligent design divides products into consumables service products or durables and unsaleables toxic products that no one should buy or in many cases do not realize they are buying 
+SUBJECT social and ecological systems 
+PREDICATE are linked through and 
+OBJECT that feedback mechanisms that both display resilience and complexity 
+SENTENCE that social and ecological systems are linked through feedback mechanisms and that both display resilience and complexity 
+SUBJECT environmental pollution and ecological degradation 
+PREDICATE has resulted in 
+OBJECT economic losses for china 
+SENTENCE environmental pollution and ecological degradation has resulted in economic losses for china 
+SUBJECT environmental pollution and ecological degradation 
+PREDICATE has resulted in economic losses for 
+OBJECT china 
+SENTENCE environmental pollution and ecological degradation has resulted in economic losses for china 
+SUBJECT here a few feedbacks between the ecological system and the social system 
+PREDICATE exist and 
+OBJECT the ses is unable to innovate and adapt the αphase of reorganisation and growth in contrast different stakeholders have formed an adaptive management workgroup in the case of grand canyon using planned management interventions and monitoring to learn about changes occurring in the ecosystem including the best ways to subsequently manage them 
+SENTENCE here a few feedbacks between the ecological system and the social system exist and the ses is unable to innovate and adapt the αphase of reorganisation and growth in contrast different stakeholders have formed an adaptive management workgroup in the case of grand canyon using planned management interventions and monitoring to learn about changes occurring in the ecosystem including the best ways to subsequently manage them 
+SUBJECT mainstream ecology 
+PREDICATE just had tried 
+OBJECT as to exclude humans from the study of ecology many social science disciplines had ignored environment altogether and limited their scope to humans 
+SENTENCE just as mainstream ecology had tried to exclude humans from the study of ecology many social science disciplines had ignored environment altogether and limited their scope to humans 
+SUBJECT mainstream ecology 
+PREDICATE just had tried to exclude from 
+OBJECT as humans the study of ecology many social science disciplines had ignored environment altogether and limited their scope to humans 
+SENTENCE just as mainstream ecology had tried to exclude humans from the study of ecology many social science disciplines had ignored environment altogether and limited their scope to humans 

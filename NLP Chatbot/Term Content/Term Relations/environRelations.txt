@@ -1,0 +1,156 @@
+SUBJECT the whole environment 
+PREDICATE may well be adversely affected as 
+OBJECT a result 
+SENTENCE the whole environment may well be adversely affected as a result 
+SUBJECT the degraded environment 
+PREDICATE can support 
+OBJECT what 
+SENTENCE what the degraded environment can support 
+SUBJECT brundtland report for the world commission on environment and development 
+PREDICATE introduced 
+OBJECT the term of sustainable developmentsustainability can also be defined as a socioecological process characterized by the pursuit of a common ideal 
+SENTENCE brundtland report for the world commission on environment and development introduced the term of sustainable developmentsustainability can also be defined as a socioecological process characterized by the pursuit of a common ideal 
+SUBJECT brundtland report for the world commission on environment and development the term of sustainable developmentsustainability 
+PREDICATE introduced can also be defined as 
+OBJECT a socioecological process characterized by the pursuit of a common ideal 
+SENTENCE brundtland report for the world commission on environment and development introduced the term of sustainable developmentsustainability can also be defined as a socioecological process characterized by the pursuit of a common ideal 
+SUBJECT that the environment 
+PREDICATE impact will ideally involve 
+OBJECT a broad range of stakeholders including industry indigenous groups environmental group and community representatives 
+SENTENCE that impact the environment will ideally involve a broad range of stakeholders including industry indigenous groups environmental group and community representatives 
+SUBJECT the environment 
+PREDICATE will ideally involve 
+OBJECT a broad range of stakeholders including industry indigenous groups environmental group and community representatives 
+SENTENCE the environment will ideally involve a broad range of stakeholders including industry indigenous groups environmental group and community representatives 
+SUBJECT the environment 
+PREDICATE will ideally involve a broad range of including 
+OBJECT stakeholders industry indigenous groups environmental group and community representatives 
+SENTENCE the environment will ideally involve a broad range of stakeholders including industry indigenous groups environmental group and community representatives 
+SUBJECT the study of how policy or regulatory requirements affect the environment human health and economy 
+PREDICATE is also under 
+OBJECT the field of sustainability 
+SENTENCE the study of how policy or regulatory requirements affect the environment human health and economy is also under the field of sustainability 
+SUBJECT the environment 
+PREDICATE must be to preserve and 
+OBJECT essential ecosystem functions to provide for the wellbeing of future generations environmental and economic policy must be integrated the goal of policy should be an improvement in the overall quality of life not just income growth poverty must be ended and resources distributed more equally and all sections of society must be involved in decision making 
+SENTENCE the environment must be to preserve essential ecosystem functions and to provide for the wellbeing of future generations environmental and economic policy must be integrated the goal of policy should be an improvement in the overall quality of life not just income growth poverty must be ended and resources distributed more equally and all sections of society must be involved in decision making 
+SUBJECT the environment 
+PREDICATE must be 
+OBJECT to preserve essential ecosystem functions and to provide for the wellbeing of future generations environmental and economic policy must be integrated the goal of policy should be an improvement in the overall quality of life not just income growth poverty must be ended and resources distributed more equally and all sections of society must be involved in decision making 
+SENTENCE the environment must be to preserve essential ecosystem functions and to provide for the wellbeing of future generations environmental and economic policy must be integrated the goal of policy should be an improvement in the overall quality of life not just income growth poverty must be ended and resources distributed more equally and all sections of society must be involved in decision making 
+SUBJECT the improvement of environment quality 
+PREDICATE depends on 
+OBJECT the market economy and the existence of legitimate and protected property rights 
+SENTENCE the improvement of environment quality depends on the market economy and the existence of legitimate and protected property rights 
+SUBJECT the improvement of environment quality 
+PREDICATE depends on the market economy and 
+OBJECT the existence of legitimate and protected property rights 
+SENTENCE the improvement of environment quality depends on the market economy and the existence of legitimate and protected property rights 
+SUBJECT the united nations environment programmealthough environmental protection 
+PREDICATE not simply the responsibility of acts 
+OBJECT is government protection most people view these agencies as being of prime importance in establishing and maintaining basic standards that protect both the environment and the people interacting with ittanzania is recognised as having some of the greatest biodiversity of any african country 
+SENTENCE the united nations environment programmealthough environmental protection is not simply the responsibility of government protection acts most people view these agencies as being of prime importance in establishing and maintaining basic standards that protect both the environment and the people interacting with ittanzania is recognised as having some of the greatest biodiversity of any african country 
+SUBJECT the real world coalition a definition based on the work of the world commission on environment and development we 
+PREDICATE can not just add to but 
+OBJECT sustainable development our current list of things to do must learn to integrate the concepts into everything that we do 
+SENTENCE the real world coalition a definition based on the work of the world commission on environment and development we can not just add sustainable development to our current list of things to do but must learn to integrate the concepts into everything that we do 
+SUBJECT the real world coalition a definition based on the work of the world commission on environment and development we our 
+PREDICATE can not just add to current list of but 
+OBJECT sustainable development things to do must learn to integrate the concepts into everything that we do 
+SENTENCE the real world coalition a definition based on the work of the world commission on environment and development we can not just add sustainable development to our current list of things to do but must learn to integrate the concepts into everything that we do 
+SUBJECT the concept of the regulation of the internal environment 
+PREDICATE was described by and 
+OBJECT french physiologist claude bernard in the word homeostasis was coined by walter bradford cannon in 
+SENTENCE the concept of the regulation of the internal environment was described by french physiologist claude bernard in and the word homeostasis was coined by walter bradford cannon in 
+SUBJECT the concept of the regulation of the internal environment the word homeostasis 
+PREDICATE was described by and was coined by in 
+OBJECT french physiologist claude bernard in walter bradford cannon 
+SENTENCE the concept of the regulation of the internal environment was described by french physiologist claude bernard in and the word homeostasis was coined by walter bradford cannon in 
+SUBJECT the dorset education for sustainability network a sustainable future is one a healthy environment economic prosperity and social justice 
+PREDICATE are pursued simultaneously 
+OBJECT in which to ensure the wellbeing and quality of life of present and future generations 
+SENTENCE the dorset education for sustainability network a sustainable future is one in which a healthy environment economic prosperity and social justice are pursued simultaneously to ensure the wellbeing and quality of life of present and future generations 
+SUBJECT the dorset education for sustainability network a sustainable future is one a healthy environment economic prosperity and social justice 
+PREDICATE are pursued simultaneously to ensure 
+OBJECT in which the wellbeing and quality of life of present and future generations 
+SENTENCE the dorset education for sustainability network a sustainable future is one in which a healthy environment economic prosperity and social justice are pursued simultaneously to ensure the wellbeing and quality of life of present and future generations 
+SUBJECT the concerns for the natural environment 
+PREDICATE include 
+OBJECT damage to ecosystems and loss of habitat resulting from population growth expansion of subsistence agriculture pollution timber extraction and significant use of timber as fuel 
+SENTENCE the concerns for the natural environment include damage to ecosystems and loss of habitat resulting from population growth expansion of subsistence agriculture pollution timber extraction and significant use of timber as fuel 
+SUBJECT the total environment 
+PREDICATE includes 
+OBJECT not just the biosphere of earth air and water but also human interactions with these things with nature and what humans have created as their surroundings 
+SENTENCE the total environment includes not just the biosphere of earth air and water but also human interactions with these things with nature and what humans have created as their surroundings 
+SUBJECT environment improvement trust 
+PREDICATE in eit start 
+OBJECT working for environment forest protection in india from a small city sojat 
+SENTENCE in environment improvement trust eit start working for environment forest protection in india from a small city sojat 
+SUBJECT environment improvement trust 
+PREDICATE in eit start working for in from 
+OBJECT environment forest protection india a small city sojat 
+SENTENCE in environment improvement trust eit start working for environment forest protection in india from a small city sojat 
+SUBJECT founder of environment improvement trust 
+PREDICATE is 
+OBJECT ca gajendra kumar jain working with volunteers 
+SENTENCE founder of environment improvement trust is ca gajendra kumar jain working with volunteers 
+SUBJECT sustainability as in effects towards human resources environment and ecology 
+PREDICATE has 
+OBJECT to be measured within each department of the company 
+SENTENCE sustainability as in effects towards human resources environment and ecology has to be measured within each department of the company 
+SUBJECT sustainability as in effects towards human resources environment and ecology 
+PREDICATE has to be measured within 
+OBJECT each department of the company 
+SENTENCE sustainability as in effects towards human resources environment and ecology has to be measured within each department of the company 
+SUBJECT one popular general framework used by the european environment agency 
+PREDICATE uses 
+OBJECT a slight modification of the organisation for economic cooperation and development dpsir system 
+SENTENCE one popular general framework used by the european environment agency uses a slight modification of the organisation for economic cooperation and development dpsir system 
+SUBJECT the national environment management act 
+PREDICATE when was first introduced in 
+OBJECT year 
+SENTENCE when the national environment management act was first introduced in year 
+SUBJECT the environment 
+PREDICATE also involves 
+OBJECT the relationships of the human environment such as the social cultural and economic environment with the biophysical environment 
+SENTENCE the environment also involves the relationships of the human environment such as the social cultural and economic environment with the biophysical environment 
+SUBJECT this effort is a triple win for the environment economy and social wellbeing of those we 
+PREDICATE worked with are releasing 
+OBJECT who are the least fortunate among uswe numerous stakeholders to gather some of the best thinking into a resulting summary today us food loss and waste reduction goal a call to action by stakeholders 
+SENTENCE this effort is a triple win for the environment economy and social wellbeing of those who are the least fortunate among uswe worked with numerous stakeholders to gather some of the best thinking into a resulting summary we are releasing today us food loss and waste reduction goal a call to action by stakeholders 
+SUBJECT this effort is a triple win for the environment economy and social wellbeing of those 
+PREDICATE worked with 
+OBJECT who are the least fortunate among uswe numerous stakeholders to gather some of the best thinking into a resulting summary 
+SENTENCE this effort is a triple win for the environment economy and social wellbeing of those who are the least fortunate among uswe worked with numerous stakeholders to gather some of the best thinking into a resulting summary 
+SUBJECT this effort is a triple win for the environment economy and social wellbeing of those 
+PREDICATE worked with to gather into 
+OBJECT who are the least fortunate among uswe numerous stakeholders some of the best thinking a resulting summary 
+SENTENCE this effort is a triple win for the environment economy and social wellbeing of those who are the least fortunate among uswe worked with numerous stakeholders to gather some of the best thinking into a resulting summary 
+SUBJECT resources the environment that 
+PREDICATE specifically can be replaced through or a closed system can not be replenished and 
+OBJECT whether knowledge and technology whether is is finite 
+SENTENCE specifically whether resources can be replaced through knowledge and technology or whether the environment is a closed system that can not be replenished and is finite 
+SUBJECT the environment that 
+PREDICATE a closed system can not be replenished and 
+OBJECT whether is is finite 
+SENTENCE whether the environment is a closed system that can not be replenished and is finite 
+SUBJECT scientific analysis of the environment 
+PREDICATE deals with 
+OBJECT several dimensions of ecological uncertainty 
+SENTENCE scientific analysis of the environment deals with several dimensions of ecological uncertainty 
+SUBJECT the role of the environment 
+PREDICATE is recognized in 
+OBJECT both classical economics and neoclassical economics theories yet the environment was a lower priority in economic policies from to due to emphasis from policy makers on economic growth 
+SENTENCE the role of the environment is recognized in both classical economics and neoclassical economics theories yet the environment was a lower priority in economic policies from to due to emphasis from policy makers on economic growth 
+SUBJECT a lot of environmental problemsthe united nations environment programme unep 
+PREDICATE has identified 
+OBJECT megadiverse countries 
+SENTENCE a lot of environmental problemsthe united nations environment programme unep has identified megadiverse countries 
+SUBJECT the organization in charge of environment protection 
+PREDICATE the brazilian ministry of the environment in do 
+OBJECT is portuguese ministério meio ambiente mma 
+SENTENCE the organization in charge of environment protection is the brazilian ministry of the environment in portuguese ministério do meio ambiente mma 
+SUBJECT an economy that is able to sustain gdp growth without having a negative impact on the environment 
+PREDICATE is said 
+OBJECT to be decoupled 
+SENTENCE an economy that is able to sustain gdp growth without having a negative impact on the environment is said to be decoupled 

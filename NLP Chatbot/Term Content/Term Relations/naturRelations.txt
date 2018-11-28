@@ -1,0 +1,172 @@
+SUBJECT the concerns for the natural environment 
+PREDICATE include 
+OBJECT damage to ecosystems and loss of habitat resulting from population growth expansion of subsistence agriculture pollution timber extraction and significant use of timber as fuel 
+SENTENCE the concerns for the natural environment include damage to ecosystems and loss of habitat resulting from population growth expansion of subsistence agriculture pollution timber extraction and significant use of timber as fuel 
+SUBJECT quote from shengxian zhou head of mep good economic policy is good environmental policy and the nature of environmental problem is the economic structure production form and 
+PREDICATE develop 
+OBJECT model 
+SENTENCE quote from shengxian zhou head of mep good economic policy is good environmental policy and the nature of environmental problem is the economic structure production form and develop model 
+SUBJECT natural capital 
+PREDICATE can not necessarily be substituted by 
+OBJECT that economic capital 
+SENTENCE that natural capital can not necessarily be substituted by economic capital 
+SUBJECT two years later the united nations world charter for nature 
+PREDICATE raised by 
+OBJECT five principles of conservation which human conduct affecting nature is to be guided and judged 
+SENTENCE two years later the united nations world charter for nature raised five principles of conservation by which human conduct affecting nature is to be guided and judged 
+SUBJECT two years later the united nations world charter for nature 
+PREDICATE raised by is to be guided and 
+OBJECT five principles of conservation which human conduct affecting nature judged 
+SENTENCE two years later the united nations world charter for nature raised five principles of conservation by which human conduct affecting nature is to be guided and judged 
+SUBJECT two years later the united nations world charter for nature 
+PREDICATE raised by which 
+OBJECT five principles of conservation human conduct affecting nature is to be guided and judged 
+SENTENCE two years later the united nations world charter for nature raised five principles of conservation by which human conduct affecting nature is to be guided and judged 
+SUBJECT citation another problem of natural and social capital deterioration 
+PREDICATE needed lies in 
+OBJECT their partial irreversibility 
+SENTENCE citation needed another problem of natural and social capital deterioration lies in their partial irreversibility 
+SUBJECT another problem of natural and social capital deterioration 
+PREDICATE lies in 
+OBJECT their partial irreversibility 
+SENTENCE another problem of natural and social capital deterioration lies in their partial irreversibility 
+SUBJECT the depletion of natural and social capital 
+PREDICATE moreover may have 
+OBJECT nonlinear consequences 
+SENTENCE moreover the depletion of natural and social capital may have nonlinear consequences 
+SUBJECT natural resources 
+PREDICATE since are derived from 
+OBJECT the environment the state of air water and the climate are of particular concern 
+SENTENCE since natural resources are derived from the environment the state of air water and the climate are of particular concern 
+SUBJECT the economic importance of nature 
+PREDICATE is indicated by 
+OBJECT the use of the expression ecosystem services to highlight the market relevance of an increasingly scarce natural world that can no longer be regarded as both unlimited and free 
+SENTENCE the economic importance of nature is indicated by the use of the expression ecosystem services to highlight the market relevance of an increasingly scarce natural world that can no longer be regarded as both unlimited and free 
+SUBJECT the economic importance of nature 
+PREDICATE is indicated by to highlight 
+OBJECT the use of the expression ecosystem services the market relevance of an increasingly scarce natural world that can no longer be regarded as both unlimited and free 
+SENTENCE the economic importance of nature is indicated by the use of the expression ecosystem services to highlight the market relevance of an increasingly scarce natural world that can no longer be regarded as both unlimited and free 
+SUBJECT the economic importance of nature 
+PREDICATE is indicated by the use of 
+OBJECT the expression ecosystem services to highlight the market relevance of an increasingly scarce natural world that can no longer be regarded as both unlimited and free 
+SENTENCE the economic importance of nature is indicated by the use of the expression ecosystem services to highlight the market relevance of an increasingly scarce natural world that can no longer be regarded as both unlimited and free 
+SUBJECT natural capital the sum total of nature s resources 
+PREDICATE when is used up 
+OBJECT faster than it can be replenished 
+SENTENCE when natural capital the sum total of nature s resources is used up faster than it can be replenished 
+SUBJECT natural capital 
+PREDICATE when the sum total of s is used up 
+OBJECT nature resources faster than it can be replenished 
+SENTENCE when natural capital the sum total of nature s resources is used up faster than it can be replenished 
+SUBJECT a review in nature by international researchers 
+PREDICATE expressed 
+OBJECT concerns that the earth may be approaching a state shift in its biosphere 
+SENTENCE a review in nature by international researchers expressed concerns that the earth may be approaching a state shift in its biosphere 
+SUBJECT natural capital the sum total of nature s resources 
+PREDICATE when is used up faster 
+OBJECT than it can be replenished 
+SENTENCE when natural capital the sum total of nature s resources is used up faster than it can be replenished 
+SUBJECT a review in nature by international researchers 
+PREDICATE expressed concerns 
+OBJECT that the earth may be approaching a state shift in its biosphere 
+SENTENCE a review in nature by international researchers expressed concerns that the earth may be approaching a state shift in its biosphere 
+SUBJECT the event of total ecological collapse destruction caused by natural disasters 
+PREDICATE until generally causes thus 
+OBJECT an increase in economic growth and accumulation 
+SENTENCE until the event of total ecological collapse destruction caused by natural disasters generally causes an increase in economic growth and accumulation thus 
+SUBJECT the event of total ecological collapse destruction caused by natural disasters 
+PREDICATE until generally causes an increase in thus 
+OBJECT economic growth and accumulation 
+SENTENCE until the event of total ecological collapse destruction caused by natural disasters generally causes an increase in economic growth and accumulation thus 
+SUBJECT consumption of natural and social capital 
+PREDICATE may have 
+OBJECT no observable impact until a certain threshold is reached 
+SENTENCE consumption of natural and social capital may have no observable impact until a certain threshold is reached 
+SUBJECT consumption of natural and social capital a certain threshold 
+PREDICATE may have until is reached 
+OBJECT no observable impact 
+SENTENCE consumption of natural and social capital may have no observable impact until a certain threshold is reached 
+SUBJECT availability of cheap but hard to transport natural gas in some oil fields 
+PREDICATE has led to 
+OBJECT using natural gas to fuel enhanced oil recovery 
+SENTENCE availability of cheap but hard to transport natural gas in some oil fields has led to using natural gas to fuel enhanced oil recovery 
+SUBJECT availability of cheap but hard to transport natural gas in some oil fields 
+PREDICATE has led to using 
+OBJECT natural gas to fuel enhanced oil recovery 
+SENTENCE availability of cheap but hard to transport natural gas in some oil fields has led to using natural gas to fuel enhanced oil recovery 
+SUBJECT the exact nature of the work 
+PREDICATE differs 
+OBJECT depending on their place of employment 
+SENTENCE the exact nature of the work differs depending on their place of employment 
+SUBJECT the exact nature of the work 
+PREDICATE differs depending on 
+OBJECT their place of employment 
+SENTENCE the exact nature of the work differs depending on their place of employment 
+SUBJECT similarly natural gas in huge amounts 
+PREDICATE is used to 
+OBJECT power most athabasca tar sands plants 
+SENTENCE similarly natural gas in huge amounts is used to power most athabasca tar sands plants 
+SUBJECT similarly natural gas in huge amounts 
+PREDICATE is used to power 
+OBJECT most athabasca tar sands plants 
+SENTENCE similarly natural gas in huge amounts is used to power most athabasca tar sands plants 
+SUBJECT citation needed the degradation of natural and social capital 
+PREDICATE if has 
+OBJECT such important consequence the question arises why action is not taken more systematically to alleviate it 
+SENTENCE citation needed if the degradation of natural and social capital has such important consequence the question arises why action is not taken more systematically to alleviate it 
+SUBJECT citation needed the degradation of natural and social capital 
+PREDICATE if has such important consequence 
+OBJECT the question arises why action is not taken more systematically to alleviate it 
+SENTENCE citation needed if the degradation of natural and social capital has such important consequence the question arises why action is not taken more systematically to alleviate it 
+SUBJECT natural gas development 
+PREDICATE is opening up 
+OBJECT new cleaner domestic energy supplies 
+SENTENCE natural gas development is opening up new cleaner domestic energy supplies 
+SUBJECT second natural capital 
+PREDICATE is often undervalued by 
+OBJECT society since we are not fully aware of the real cost of the depletion of natural capital 
+SENTENCE second natural capital is often undervalued by society since we are not fully aware of the real cost of the depletion of natural capital 
+SUBJECT cheap natural gas 
+PREDICATE has also led to 
+OBJECT ethanol fuel produced with a net eroei of less than although figures in this area are controversial because methods to measure eroei are in debateinsofar as economic growth is driven by oil consumption growth postpeak societies must adapt 
+SENTENCE cheap natural gas has also led to ethanol fuel produced with a net eroei of less than although figures in this area are controversial because methods to measure eroei are in debateinsofar as economic growth is driven by oil consumption growth postpeak societies must adapt 
+SUBJECT cheap natural gas 
+PREDICATE has also led to produced with 
+OBJECT ethanol fuel a net eroei of less than although figures in this area are controversial because methods to measure eroei are in debateinsofar as economic growth is driven by oil consumption growth postpeak societies must adapt 
+SENTENCE cheap natural gas has also led to ethanol fuel produced with a net eroei of less than although figures in this area are controversial because methods to measure eroei are in debateinsofar as economic growth is driven by oil consumption growth postpeak societies must adapt 
+SUBJECT depletion of natural resources including fresh water 
+PREDICATE increases 
+OBJECT the likelihood of resource wars 
+SENTENCE depletion of natural resources including fresh water increases the likelihood of resource wars 
+SUBJECT depletion of natural resources including fresh water 
+PREDICATE increases the likelihood of 
+OBJECT resource wars 
+SENTENCE depletion of natural resources including fresh water increases the likelihood of resource wars 
+SUBJECT the worldwide fund for nature 
+PREDICATE proposes 
+OBJECT a strategy for sustainability that goes beyond education to tackle underlying individualistic and materialistic societal values headon and strengthen people s connections with the natural world 
+SENTENCE the worldwide fund for nature proposes a strategy for sustainability that goes beyond education to tackle underlying individualistic and materialistic societal values headon and strengthen people s connections with the natural world 
+SUBJECT nature 
+PREDICATE is thus treated as 
+OBJECT a commodity the plundering of the human spirit by the market place is paralleled by the plundering of the earth by capital 
+SENTENCE nature is thus treated as a commodity the plundering of the human spirit by the market place is paralleled by the plundering of the earth by capital 
+SUBJECT humans and nature 
+PREDICATE can exist in 
+OBJECT under which productive harmony to support present and future generationslearn more about sustainability and how epa incorporates it into its work in the national reseach council s report sustainability and the us epathe national environmental policy act of committed the united states to sustainability declaring it a national policy to create and maintain conditions under which humans and nature can exist in productive harmony that permit fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SENTENCE under which humans and nature can exist in productive harmony to support present and future generationslearn more about sustainability and how epa incorporates it into its work in the national reseach council s report sustainability and the us epathe national environmental policy act of committed the united states to sustainability declaring it a national policy to create and maintain conditions under which humans and nature can exist in productive harmony that permit fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SUBJECT humans and nature that 
+PREDICATE to create and conditions can exist in permit 
+OBJECT maintain under which productive harmony fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SENTENCE to create and maintain conditions under which humans and nature can exist in productive harmony that permit fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SUBJECT humans and nature 
+PREDICATE can exist in 
+OBJECT under which productive harmony 
+SENTENCE under which humans and nature can exist in productive harmony 
+SUBJECT humans and nature 
+PREDICATE which can exist in 
+OBJECT under productive harmony 
+SENTENCE under which humans and nature can exist in productive harmony 
+SUBJECT humans and nature 
+PREDICATE which can exist in 
+OBJECT under productive harmony to support present and future generationslearn more about sustainability and how epa incorporates it into its work in the national reseach council s report sustainability and the us epathe national environmental policy act of committed the united states to sustainability declaring it a national policy to create and maintain conditions under which humans and nature can exist in productive harmony that permit fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SENTENCE under which humans and nature can exist in productive harmony to support present and future generationslearn more about sustainability and how epa incorporates it into its work in the national reseach council s report sustainability and the us epathe national environmental policy act of committed the united states to sustainability declaring it a national policy to create and maintain conditions under which humans and nature can exist in productive harmony that permit fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 

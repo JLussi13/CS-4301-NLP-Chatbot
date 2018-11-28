@@ -1,0 +1,368 @@
+SUBJECT an important task for resource theory energy economics 
+PREDICATE is 
+OBJECT to develop methods to optimize resource conversion processes 
+SENTENCE an important task for resource theory energy economics is to develop methods to optimize resource conversion processes 
+SUBJECT an important task for resource theory energy economics 
+PREDICATE is to develop 
+OBJECT methods to optimize resource conversion processes 
+SENTENCE an important task for resource theory energy economics is to develop methods to optimize resource conversion processes 
+SUBJECT sustainability is the process of maintaining change in a balanced fashion in which the exploitation of resources the direction of investments the orientation of technological development and institutional change are all in harmony and 
+PREDICATE enhance 
+OBJECT both current and future potential to meet human needs and aspirations 
+SENTENCE sustainability is the process of maintaining change in a balanced fashion in which the exploitation of resources the direction of investments the orientation of technological development and institutional change are all in harmony and enhance both current and future potential to meet human needs and aspirations 
+SUBJECT key resource categories relating to human needs are food energy materials and 
+PREDICATE waterin 
+OBJECT the international resource panel hosted by the united nations environment programme unep 
+SENTENCE key resource categories relating to human needs are food energy materials and waterin the international resource panel hosted by the united nations environment programme unep 
+SUBJECT to become a turf scientist water resource engineers 
+PREDICATE how function similarly to 
+OBJECT that of environmental engineers but with a specialization in hydrological systems 
+SENTENCE how to become a turf scientist water resource engineers function similarly to that of environmental engineers but with a specialization in hydrological systems 
+SUBJECT water resource engineers 
+PREDICATE are primarily concerned with 
+OBJECT the management and assessment of both the quantity and quality of above ground and below ground water sources 
+SENTENCE water resource engineers are primarily concerned with the management and assessment of both the quantity and quality of above ground and below ground water sources 
+SUBJECT water resource engineers 
+PREDICATE may also be heavily involved in during 
+OBJECT disaster mitigation flashflood or coastal hurricane type events 
+SENTENCE water resource engineers may also be heavily involved in disaster mitigation during flashflood or coastal hurricane type events 
+SUBJECT the daytoday activities of a water resource engineer 
+PREDICATE may be designing 
+OBJECT water flow systems supervising construction developing plans or communicating water related concerns to third party stakeholders 
+SENTENCE the daytoday activities of a water resource engineer may be designing water flow systems supervising construction developing plans or communicating water related concerns to third party stakeholders 
+SUBJECT the daytoday activities of a water resource engineer 
+PREDICATE may be designing water flow systems supervising or 
+OBJECT construction developing plans communicating water related concerns to third party stakeholders 
+SENTENCE the daytoday activities of a water resource engineer may be designing water flow systems supervising construction developing plans or communicating water related concerns to third party stakeholders 
+SUBJECT water resource engineers 
+PREDICATE typically are trained as but 
+OBJECT civil engineers must also have a strong and deep understanding of fluiddynamics 
+SENTENCE typically water resource engineers are trained as civil engineers but must also have a strong and deep understanding of fluiddynamics 
+SUBJECT water resource engineers 
+PREDICATE typically are trained as civil engineers but 
+OBJECT must also have a strong and deep understanding of fluiddynamics 
+SENTENCE typically water resource engineers are trained as civil engineers but must also have a strong and deep understanding of fluiddynamics 
+SUBJECT the resource 
+PREDICATE long is physically exhaustednote 
+OBJECT before that it is important to understand the distinction between a barrel of oil which is a measure of oil and a barrel of oil equivalent boe which is a measure of energy 
+SENTENCE long before the resource is physically exhaustednote that it is important to understand the distinction between a barrel of oil which is a measure of oil and a barrel of oil equivalent boe which is a measure of energy 
+SUBJECT a lot of resources 
+PREDICATE getting 
+OBJECT what we consume under control is the paramount issue 
+SENTENCE a lot of resources getting what we consume under control is the paramount issue 
+SUBJECT environmental economist kerry turner finite stock of exhaustible mineral resources it 
+PREDICATE thus has argued makes 
+OBJECT that literally there can be no such thing as overall sustainable development in an industrialised world economy that remains heavily dependent on the extraction of earth s no sense to talk about the sustainable use of a nonrenewable resource even with substantial recycling effort and use rates 
+SENTENCE thus environmental economist kerry turner has argued that literally there can be no such thing as overall sustainable development in an industrialised world economy that remains heavily dependent on the extraction of earth s finite stock of exhaustible mineral resources it makes no sense to talk about the sustainable use of a nonrenewable resource even with substantial recycling effort and use rates 
+SUBJECT finite stock of exhaustible mineral resources it 
+PREDICATE makes 
+OBJECT no sense to talk about the sustainable use of a nonrenewable resource even with substantial recycling effort and use rates 
+SENTENCE finite stock of exhaustible mineral resources it makes no sense to talk about the sustainable use of a nonrenewable resource even with substantial recycling effort and use rates 
+SUBJECT finite stock of exhaustible mineral resources it 
+PREDICATE makes no sense 
+OBJECT to talk about the sustainable use of a nonrenewable resource even with substantial recycling effort and use rates 
+SENTENCE finite stock of exhaustible mineral resources it makes no sense to talk about the sustainable use of a nonrenewable resource even with substantial recycling effort and use rates 
+SUBJECT finite stock of exhaustible mineral resources it 
+PREDICATE makes to talk about 
+OBJECT no sense the sustainable use of a nonrenewable resource even with substantial recycling effort and use rates 
+SENTENCE finite stock of exhaustible mineral resources it makes no sense to talk about the sustainable use of a nonrenewable resource even with substantial recycling effort and use rates 
+SUBJECT population pressure and resources 
+PREDICATE can not be imported 
+OBJECT to prevent accelerated depletion of resources to life at sea on a small boat isolated by water 
+SENTENCE population pressure and resources can not be imported to prevent accelerated depletion of resources to life at sea on a small boat isolated by water 
+SUBJECT population pressure and resources 
+PREDICATE can not be imported to prevent at 
+OBJECT accelerated depletion of resources to life sea on a small boat isolated by water 
+SENTENCE population pressure and resources can not be imported to prevent accelerated depletion of resources to life at sea on a small boat isolated by water 
+SUBJECT the massachusetts water resources authority 
+PREDICATE ago announced 
+OBJECT twentyfive years that no more sludge would be dumped into the harbor 
+SENTENCE twentyfive years ago the massachusetts water resources authority announced that no more sludge would be dumped into the harbor 
+SUBJECT which what resources 
+PREDICATE in depends in on are being used 
+OBJECT turn complex ways whether or not those resources are renewable and the scale of the human activity relative to the carrying capacity of the ecosystems involved 
+SENTENCE which in turn depends in complex ways on what resources are being used whether or not those resources are renewable and the scale of the human activity relative to the carrying capacity of the ecosystems involved 
+SUBJECT what resources 
+PREDICATE are being used 
+OBJECT whether or not those resources are renewable and the scale of the human activity relative to the carrying capacity of the ecosystems involved 
+SENTENCE what resources are being used whether or not those resources are renewable and the scale of the human activity relative to the carrying capacity of the ecosystems involved 
+SUBJECT what resources or not those resources 
+PREDICATE are being used renewable and 
+OBJECT whether are the scale of the human activity relative to the carrying capacity of the ecosystems involved 
+SENTENCE what resources are being used whether or not those resources are renewable and the scale of the human activity relative to the carrying capacity of the ecosystems involved 
+SUBJECT resource use 
+PREDICATE unless is checked 
+OBJECT that modern global civilization will follow the path of ancient civilizations that collapsed through overexploitation of their resource base 
+SENTENCE that unless resource use is checked modern global civilization will follow the path of ancient civilizations that collapsed through overexploitation of their resource base 
+SUBJECT finite stock of mineral resources 
+PREDICATE is presently being extracted and 
+OBJECT s put to use 
+SENTENCE s finite stock of mineral resources is presently being extracted and put to use 
+SUBJECT careful resource management 
+PREDICATE can be applied at 
+OBJECT many scales from economic sectors like agriculture manufacturing and industry to work organizations the consumption patterns of households and individuals and to the resource demands of individual goods and services 
+SENTENCE careful resource management can be applied at many scales from economic sectors like agriculture manufacturing and industry to work organizations the consumption patterns of households and individuals and to the resource demands of individual goods and services 
+SUBJECT careful resource management 
+PREDICATE can be applied at to work and to 
+OBJECT many scales from economic sectors like agriculture manufacturing and industry organizations the consumption patterns of households and individuals the resource demands of individual goods and services 
+SENTENCE careful resource management can be applied at many scales from economic sectors like agriculture manufacturing and industry to work organizations the consumption patterns of households and individuals and to the resource demands of individual goods and services 
+SUBJECT resources 
+PREDICATE as to determine and 
+OBJECT whether what risks may exist in specific sectors for procurements 
+SENTENCE as resources to determine whether and what risks may exist in specific sectors for procurements 
+SUBJECT some us government and nonus government sources that resources 
+PREDICATE can be consulted as to determine and 
+OBJECT whether what risks may exist in specific sectors for procurements 
+SENTENCE some us government and nonus government sources that can be consulted as resources to determine whether and what risks may exist in specific sectors for procurements 
+SUBJECT the concept of resources 
+PREDICATE the production use and of resources where is used in 
+OBJECT management the broadest sense of that wordthe ecological domain 
+SENTENCE the production use and management of resources where the concept of resources is used in the broadest sense of that wordthe ecological domain 
+SUBJECT the concept of resources 
+PREDICATE resources where is used in 
+OBJECT the broadest sense of that wordthe ecological domain 
+SENTENCE resources where the concept of resources is used in the broadest sense of that wordthe ecological domain 
+SUBJECT the concept of resources 
+PREDICATE where is used in 
+OBJECT the broadest sense of that wordthe ecological domain 
+SENTENCE where the concept of resources is used in the broadest sense of that wordthe ecological domain 
+SUBJECT the concept of resources 
+PREDICATE where is used in the broadest sense of 
+OBJECT that wordthe ecological domain 
+SENTENCE where the concept of resources is used in the broadest sense of that wordthe ecological domain 
+SUBJECT the table both general and industry specific resources 
+PREDICATE contains to help 
+OBJECT you ensure responsible business conduct for your project 
+SENTENCE the table contains both general and industry specific resources to help you ensure responsible business conduct for your project 
+SUBJECT both general and industry specific resources 
+PREDICATE to help 
+OBJECT you ensure responsible business conduct for your project 
+SENTENCE both general and industry specific resources to help you ensure responsible business conduct for your project 
+SUBJECT both general and industry specific resources you 
+PREDICATE to help ensure for 
+OBJECT responsible business conduct your project 
+SENTENCE both general and industry specific resources to help you ensure responsible business conduct for your project 
+SUBJECT sustainability of environmental resource management 
+PREDICATE though has improved 
+OBJECT that 
+SENTENCE that though sustainability of environmental resource management has improved 
+SUBJECT that though sustainability of environmental resource management has improved corporate sustainability for one 
+PREDICATE has yet 
+OBJECT to reach the majority of global companies operating in the markets 
+SENTENCE that though sustainability of environmental resource management has improved corporate sustainability for one has yet to reach the majority of global companies operating in the markets 
+SUBJECT that though sustainability of environmental resource management has improved corporate sustainability for one 
+PREDICATE has yet to reach 
+OBJECT the majority of global companies operating in the markets 
+SENTENCE that though sustainability of environmental resource management has improved corporate sustainability for one has yet to reach the majority of global companies operating in the markets 
+SUBJECT the reduction of resource inputs into and waste and emission leakage out of the system 
+PREDICATE reduces 
+OBJECT resource depletion and environmental pollution 
+SENTENCE the reduction of resource inputs into and waste and emission leakage out of the system reduces resource depletion and environmental pollution 
+SUBJECT innovation driven by resource depletion 
+PREDICATE further suggested can result in as well 
+OBJECT that fundamental advantages for company products and services as the company strategy as a whole when right principles of innovation are applied 
+SENTENCE further suggested that innovation driven by resource depletion can result in fundamental advantages for company products and services as well as the company strategy as a whole when right principles of innovation are applied 
+SUBJECT innovation driven by resource depletion 
+PREDICATE can result in as well 
+OBJECT that fundamental advantages for company products and services as the company strategy as a whole when right principles of innovation are applied 
+SENTENCE that innovation driven by resource depletion can result in fundamental advantages for company products and services as well as the company strategy as a whole when right principles of innovation are applied 
+SUBJECT innovation driven by resource depletion right principles of innovation 
+PREDICATE can result in as well when are applied 
+OBJECT that fundamental advantages for company products and services as the company strategy as a whole 
+SENTENCE that innovation driven by resource depletion can result in fundamental advantages for company products and services as well as the company strategy as a whole when right principles of innovation are applied 
+SUBJECT some of our resources particularly fossil fuels 
+PREDICATE coming finite and 
+OBJECT very late in the century an awareness of the notion that were that we should make efforts to move to renewable methods of power 
+SENTENCE coming very late in the century an awareness of the notion that some of our resources particularly fossil fuels were finite and that we should make efforts to move to renewable methods of power 
+SUBJECT the concept of resources 
+PREDICATE the production use and of resources where is used in 
+OBJECT management the broadest sense of that wordthe ecological domain 
+SENTENCE the production use and management of resources where the concept of resources is used in the broadest sense of that wordthe ecological domain 
+SUBJECT the concept of resources 
+PREDICATE resources where is used in 
+OBJECT the broadest sense of that wordthe ecological domain 
+SENTENCE resources where the concept of resources is used in the broadest sense of that wordthe ecological domain 
+SUBJECT the concept of resources 
+PREDICATE where is used in 
+OBJECT the broadest sense of that wordthe ecological domain 
+SENTENCE where the concept of resources is used in the broadest sense of that wordthe ecological domain 
+SUBJECT the concept of resources 
+PREDICATE where is used in the broadest sense of 
+OBJECT that wordthe ecological domain 
+SENTENCE where the concept of resources is used in the broadest sense of that wordthe ecological domain 
+SUBJECT depletion of natural resources including fresh water 
+PREDICATE increases 
+OBJECT the likelihood of resource wars 
+SENTENCE depletion of natural resources including fresh water increases the likelihood of resource wars 
+SUBJECT depletion of natural resources including fresh water 
+PREDICATE increases the likelihood of 
+OBJECT resource wars 
+SENTENCE depletion of natural resources including fresh water increases the likelihood of resource wars 
+SUBJECT living conditions and resource use 
+PREDICATE the desired result a state of where continue 
+OBJECT is society to meet human needs without undermining the integrity and stability of the natural system 
+SENTENCE the desired result is a state of society where living conditions and resource use continue to meet human needs without undermining the integrity and stability of the natural system 
+SUBJECT living conditions and resource use 
+PREDICATE where continue 
+OBJECT to meet human needs without undermining the integrity and stability of the natural system 
+SENTENCE where living conditions and resource use continue to meet human needs without undermining the integrity and stability of the natural system 
+SUBJECT living conditions and resource use 
+PREDICATE where continue to meet without 
+OBJECT human needs undermining the integrity and stability of the natural system 
+SENTENCE where living conditions and resource use continue to meet human needs without undermining the integrity and stability of the natural system 
+SUBJECT the desired result living conditions and resource use 
+PREDICATE a state of society where continue 
+OBJECT is to meet human needs without undermining the integrity and stability of the natural system 
+SENTENCE the desired result is a state of society where living conditions and resource use continue to meet human needs without undermining the integrity and stability of the natural system 
+SUBJECT that resource use intensity ie energy and materials 
+PREDICATE use per 
+OBJECT unit gdp 
+SENTENCE that resource use intensity ie energy and materials use per unit gdp 
+SUBJECT herman daly three broad criteria for ecological sustainability renewable resources 
+PREDICATE has suggested should provide 
+OBJECT a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SENTENCE herman daly has suggested three broad criteria for ecological sustainability renewable resources should provide a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT three broad criteria for ecological sustainability renewable resources 
+PREDICATE should provide 
+OBJECT a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SENTENCE three broad criteria for ecological sustainability renewable resources should provide a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT three broad criteria for ecological sustainability renewable resources 
+PREDICATE should provide a sustainable yield 
+OBJECT the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SENTENCE three broad criteria for ecological sustainability renewable resources should provide a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT environmental resource management undertaken by the private sectors 
+PREDICATE varies 
+OBJECT dependent upon the resource type that being renewable or nonrenewable and private and common resources also see tragedy of the commons 
+SENTENCE environmental resource management undertaken by the private sectors varies dependent upon the resource type that being renewable or nonrenewable and private and common resources also see tragedy of the commons 
+SUBJECT environmental resource management undertaken by the private sectors 
+PREDICATE varies dependent upon 
+OBJECT the resource type that being renewable or nonrenewable and private and common resources also see tragedy of the commons 
+SENTENCE environmental resource management undertaken by the private sectors varies dependent upon the resource type that being renewable or nonrenewable and private and common resources also see tragedy of the commons 
+SUBJECT being renewable or nonrenewable and private and common resources 
+PREDICATE the resource type also see 
+OBJECT that tragedy of the commons 
+SENTENCE the resource type that being renewable or nonrenewable and private and common resources also see tragedy of the commons 
+SUBJECT being renewable or nonrenewable and private and common resources 
+PREDICATE also see 
+OBJECT that tragedy of the commons 
+SENTENCE that being renewable or nonrenewable and private and common resources also see tragedy of the commons 
+SUBJECT therefore the most important part of shifting an organization to adopt sustainability in environmental resource management 
+PREDICATE would be 
+OBJECT to create a shared vision and understanding of what sustainability is for that particular organization and to clarify the business case 
+SENTENCE therefore the most important part of shifting an organization to adopt sustainability in environmental resource management would be to create a shared vision and understanding of what sustainability is for that particular organization and to clarify the business case 
+SUBJECT therefore the most important part of shifting an organization to adopt sustainability in environmental resource management 
+PREDICATE would be to create 
+OBJECT a shared vision and understanding of what sustainability is for that particular organization and to clarify the business case 
+SENTENCE therefore the most important part of shifting an organization to adopt sustainability in environmental resource management would be to create a shared vision and understanding of what sustainability is for that particular organization and to clarify the business case 
+SUBJECT a process of change in which the exploitation of resources the direction of investments the orientation of technological development and institutional change 
+PREDICATE is a 
+OBJECT dynamic process which enables people to realise their potential and improve their quality of life in ways which simultaneously protect and enhance the earth s life support systems forum for the future in essence sustainable development is about five key principles quality of life fairness and equity participation and partnership care for our environment and respect for ecological constraints recognising there are environmental limits and thought for the future and the precautionary principle 
+SENTENCE a process of change in which the exploitation of resources the direction of investments the orientation of technological development and institutional change is a dynamic process which enables people to realise their potential and improve their quality of life in ways which simultaneously protect and enhance the earth s life support systems forum for the future in essence sustainable development is about five key principles quality of life fairness and equity participation and partnership care for our environment and respect for ecological constraints recognising there are environmental limits and thought for the future and the precautionary principle 
+SUBJECT resources 
+PREDICATE specifically can be replaced through or 
+OBJECT whether knowledge and technology whether the environment is a closed system that can not be replenished and is finite 
+SENTENCE specifically whether resources can be replaced through knowledge and technology or whether the environment is a closed system that can not be replenished and is finite 
+SUBJECT resources the environment that 
+PREDICATE specifically can be replaced through or a closed system can not be replenished and 
+OBJECT whether knowledge and technology whether is is finite 
+SENTENCE specifically whether resources can be replaced through knowledge and technology or whether the environment is a closed system that can not be replenished and is finite 
+SUBJECT the aim of civil society in environmental resource management 
+PREDICATE is 
+OBJECT to be included in the decisionmaking process by means of public participation 
+SENTENCE the aim of civil society in environmental resource management is to be included in the decisionmaking process by means of public participation 
+SUBJECT the aim of civil society in environmental resource management 
+PREDICATE is to be included in by 
+OBJECT the decisionmaking process means of public participation 
+SENTENCE the aim of civil society in environmental resource management is to be included in the decisionmaking process by means of public participation 
+SUBJECT sustainability in environmental resource management 
+PREDICATE involves 
+OBJECT managing economic social and ecological systems both within and outside an organizational entity so it can sustain itself and the system it exists in 
+SENTENCE sustainability in environmental resource management involves managing economic social and ecological systems both within and outside an organizational entity so it can sustain itself and the system it exists in 
+SUBJECT sustainability in environmental resource management 
+PREDICATE involves managing within and 
+OBJECT economic social and ecological systems both outside an organizational entity so it can sustain itself and the system it exists in 
+SENTENCE sustainability in environmental resource management involves managing economic social and ecological systems both within and outside an organizational entity so it can sustain itself and the system it exists in 
+SUBJECT the traditional role of the public sector in environmental resource management 
+PREDICATE is 
+OBJECT to provide professional judgement through skilled technicians on behalf of the public 
+SENTENCE the traditional role of the public sector in environmental resource management is to provide professional judgement through skilled technicians on behalf of the public 
+SUBJECT the traditional role of the public sector in environmental resource management 
+PREDICATE is to provide through on 
+OBJECT professional judgement skilled technicians behalf of the public 
+SENTENCE the traditional role of the public sector in environmental resource management is to provide professional judgement through skilled technicians on behalf of the public 
+SUBJECT better environmental resource management 
+PREDICATE by is achieved without 
+OBJECT eliminating the unsaleables from the comprehensive outcome of any purchase systemsrecent successful cases have put forward the notion of integrated management 
+SENTENCE by eliminating the unsaleables from the comprehensive outcome of any purchase better environmental resource management is achieved without systemsrecent successful cases have put forward the notion of integrated management 
+SUBJECT better environmental resource management 
+PREDICATE by is achieved without have put forward 
+OBJECT eliminating the unsaleables from the comprehensive outcome of any purchase systemsrecent successful cases the notion of integrated management 
+SENTENCE by eliminating the unsaleables from the comprehensive outcome of any purchase better environmental resource management is achieved without systemsrecent successful cases have put forward the notion of integrated management 
+SUBJECT a common scientific concept and impetus behind environmental resource management 
+PREDICATE is carrying 
+OBJECT capacity 
+SENTENCE a common scientific concept and impetus behind environmental resource management is carrying capacity 
+SUBJECT the ideas of embodied resource 
+PREDICATE use 
+OBJECT the total resources needed to produce a product or service resource intensity and resource productivity are important tools for understanding the impacts of consumption 
+SENTENCE the ideas of embodied resource use the total resources needed to produce a product or service resource intensity and resource productivity are important tools for understanding the impacts of consumption 
+SUBJECT the ideas of embodied resource 
+PREDICATE use the total resources needed 
+OBJECT to produce a product or service resource intensity and resource productivity are important tools for understanding the impacts of consumption 
+SENTENCE the ideas of embodied resource use the total resources needed to produce a product or service resource intensity and resource productivity are important tools for understanding the impacts of consumption 
+SUBJECT the ideas of embodied resource 
+PREDICATE use important tools 
+OBJECT the total resources needed to produce a product or service resource intensity and resource productivity are for understanding the impacts of consumption 
+SENTENCE the ideas of embodied resource use the total resources needed to produce a product or service resource intensity and resource productivity are important tools for understanding the impacts of consumption 
+SUBJECT natural resources 
+PREDICATE since are derived from 
+OBJECT the environment the state of air water and the climate are of particular concern 
+SENTENCE since natural resources are derived from the environment the state of air water and the climate are of particular concern 
+SUBJECT environmental resources management 
+PREDICATE aims 
+OBJECT to ensure that ecosystem services are protected and maintained for future human generations and also maintain ecosystem integrity through considering ethical economic and scientific ecological variables 
+SENTENCE environmental resources management aims to ensure that ecosystem services are protected and maintained for future human generations and also maintain ecosystem integrity through considering ethical economic and scientific ecological variables 
+SUBJECT environmental resources management 
+PREDICATE aims to ensure 
+OBJECT that ecosystem services are protected and maintained for future human generations and also maintain ecosystem integrity through considering ethical economic and scientific ecological variables 
+SENTENCE environmental resources management aims to ensure that ecosystem services are protected and maintained for future human generations and also maintain ecosystem integrity through considering ethical economic and scientific ecological variables 
+SUBJECT environmental resource management 
+PREDICATE tries 
+OBJECT to identify factors affected by conflicts that rise between meeting needs and protecting resources 
+SENTENCE environmental resource management tries to identify factors affected by conflicts that rise between meeting needs and protecting resources 
+SUBJECT environmental resource management 
+PREDICATE tries to identify 
+OBJECT factors affected by conflicts that rise between meeting needs and protecting resources 
+SENTENCE environmental resource management tries to identify factors affected by conflicts that rise between meeting needs and protecting resources 
+SUBJECT natural capital the sum total of nature s resources 
+PREDICATE when is used up 
+OBJECT faster than it can be replenished 
+SENTENCE when natural capital the sum total of nature s resources is used up faster than it can be replenished 
+SUBJECT natural capital the sum total of nature s resources 
+PREDICATE when is used up faster 
+OBJECT than it can be replenished 
+SENTENCE when natural capital the sum total of nature s resources is used up faster than it can be replenished 
+SUBJECT pollution of the public resources is really not a different action it just is a reverse tragedy of the commons in that instead of taking something out something 
+PREDICATE is put into 
+OBJECT the commons 
+SENTENCE pollution of the public resources is really not a different action it just is a reverse tragedy of the commons in that instead of taking something out something is put into the commons 
+SUBJECT sustainability as in effects towards human resources environment and ecology 
+PREDICATE has 
+OBJECT to be measured within each department of the company 
+SENTENCE sustainability as in effects towards human resources environment and ecology has to be measured within each department of the company 
+SUBJECT sustainability as in effects towards human resources environment and ecology 
+PREDICATE has to be measured within 
+OBJECT each department of the company 
+SENTENCE sustainability as in effects towards human resources environment and ecology has to be measured within each department of the company 
+SUBJECT one common way to analyze possible outcomes of policy decisions on the scarce resource 
+PREDICATE is 
+OBJECT to do a costbenefit analysis 
+SENTENCE one common way to analyze possible outcomes of policy decisions on the scarce resource is to do a costbenefit analysis 
+SUBJECT one common way to analyze possible outcomes of policy decisions on the scarce resource 
+PREDICATE is to do 
+OBJECT a costbenefit analysis 
+SENTENCE one common way to analyze possible outcomes of policy decisions on the scarce resource is to do a costbenefit analysis 
+SUBJECT financial resources 
+PREDICATE to conserve and 
+OBJECT sustainably use biodiversity and ecosystems 
+SENTENCE financial resources to conserve and sustainably use biodiversity and ecosystems 

@@ -1,0 +1,13 @@
+-- Create Tables --
+
+    sql_create_keyword_table = """ CREATE TABLE IF NOT EXISTS keywords (
+                                            id integer PRIMARY KEY AUTOINCREMENT,
+                                            keyword text NOT NULL
+                                        );  """
+    sql_create_relation_table = """ CREATE TABLE IF NOT EXISTS relations (
+                                                    id integer PRIMARY KEY AUTOINCREMENT,
+                                                    sentence text NOT NULL,
+                                                    subject text NOT NULL,
+                                                    predicate text NOT NULL,
+                                                    object text NOT NULL,
+                                                );  """

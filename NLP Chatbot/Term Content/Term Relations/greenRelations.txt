@@ -1,0 +1,92 @@
+SUBJECT the energy for the green revolution 
+PREDICATE was provided by in 
+OBJECT fossil fuels the form of fertilizers natural gas pesticides oil and hydrocarbon fueled irrigation 
+SENTENCE the energy for the green revolution was provided by fossil fuels in the form of fertilizers natural gas pesticides oil and hydrocarbon fueled irrigation 
+SUBJECT the energy for the green revolution 
+PREDICATE was provided by in the form of 
+OBJECT fossil fuels fertilizers natural gas pesticides oil and hydrocarbon fueled irrigation 
+SENTENCE the energy for the green revolution was provided by fossil fuels in the form of fertilizers natural gas pesticides oil and hydrocarbon fueled irrigation 
+SUBJECT the green score city index 
+PREDICATE in was inspired by 
+OBJECT canada studying the un circle of sustainability 
+SENTENCE in canada the green score city index was inspired by studying the un circle of sustainability 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan 
+OBJECT to talk about the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan to talk about 
+OBJECT the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan 
+OBJECT to talk about the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan to talk about 
+OBJECT the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT the green score city index 
+PREDICATE in was inspired by 
+OBJECT canada studying the un circle of sustainability 
+SENTENCE in canada the green score city index was inspired by studying the un circle of sustainability 
+SUBJECT a group of green volunteers 
+PREDICATE get 
+OBJECT a goal of green india clean india concept 
+SENTENCE a group of green volunteers get a goal of green india clean india concept 
+SUBJECT sustainability and green jobs that 
+PREDICATE a growing industry is taking by 
+OBJECT are the country storm 
+SENTENCE sustainability and green jobs are a growing industry that is taking the country by storm 
+SUBJECT marketbased solutions to ecological crises ecological economics environmental economics green economy 
+PREDICATE are rejected as 
+OBJECT technical tweaks that do not confront capitalism s structural failures 
+SENTENCE marketbased solutions to ecological crises ecological economics environmental economics green economy are rejected as technical tweaks that do not confront capitalism s structural failures 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan 
+OBJECT to talk about the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan to talk about 
+OBJECT the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT a string of green roofs dot the building s terraces 
+PREDICATE as do 
+OBJECT solar panels which provide electricity to all the building s common spaces 
+SENTENCE a string of green roofs dot the building s terraces as do solar panels which provide electricity to all the building s common spaces 
+SUBJECT green economics 
+PREDICATE another marketbased attempt to address 
+OBJECT is issues of equity and the environment 
+SENTENCE green economics is another marketbased attempt to address issues of equity and the environment 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan 
+OBJECT to talk about the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan to talk about 
+OBJECT the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT green infrastructure 
+PREDICATE provides by 
+OBJECT an effective solution to the stormwater pollution problem taking advantage of nature s inherent properties 
+SENTENCE green infrastructure provides an effective solution to the stormwater pollution problem by taking advantage of nature s inherent properties 
+SUBJECT green infrastructure 
+PREDICATE provides an effective solution to by 
+OBJECT the stormwater pollution problem taking advantage of nature s inherent properties 
+SENTENCE green infrastructure provides an effective solution to the stormwater pollution problem by taking advantage of nature s inherent properties 
+SUBJECT green infrastructure 
+PREDICATE provides by taking of s 
+OBJECT an effective solution to the stormwater pollution problem advantage nature inherent properties 
+SENTENCE green infrastructure provides an effective solution to the stormwater pollution problem by taking advantage of nature s inherent properties 
+SUBJECT main article green manufacturing and distributed manufacturingone of the core concepts in sustainable development 
+PREDICATE is 
+OBJECT that technology can be used to assist people meet their developmental needs 
+SENTENCE main article green manufacturing and distributed manufacturingone of the core concepts in sustainable development is that technology can be used to assist people meet their developmental needs 
+SUBJECT green jobs and careers in sustainability 
+PREDICATE are also beginning 
+OBJECT to replace jobs that once existed in nowdead industries resulting in a rapid growth rateuse the search box below to find all the sustainable and green job listings in our job boardpost to environmentalscienceorg and job boards with one submissionas our population becomes more environmentally aware a host of job opportunities in the sustainability and green jobs industry are becoming available 
+SENTENCE green jobs and careers in sustainability are also beginning to replace jobs that once existed in nowdead industries resulting in a rapid growth rateuse the search box below to find all the sustainable and green job listings in our job boardpost to environmentalscienceorg and job boards with one submissionas our population becomes more environmentally aware a host of job opportunities in the sustainability and green jobs industry are becoming available 
+SUBJECT green jobs and careers in sustainability 
+PREDICATE are also beginning to replace 
+OBJECT jobs that once existed in nowdead industries resulting in a rapid growth rateuse the search box below to find all the sustainable and green job listings in our job boardpost to environmentalscienceorg and job boards with one submissionas our population becomes more environmentally aware a host of job opportunities in the sustainability and green jobs industry are becoming available 
+SENTENCE green jobs and careers in sustainability are also beginning to replace jobs that once existed in nowdead industries resulting in a rapid growth rateuse the search box below to find all the sustainable and green job listings in our job boardpost to environmentalscienceorg and job boards with one submissionas our population becomes more environmentally aware a host of job opportunities in the sustainability and green jobs industry are becoming available 

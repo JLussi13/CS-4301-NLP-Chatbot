@@ -1,0 +1,900 @@
+SUBJECT sustain 
+PREDICATE can mean 
+OBJECT maintain support or endure 
+SENTENCE sustain can mean maintain support or endure 
+SUBJECT sustain 
+PREDICATE can mean maintain or 
+OBJECT support endure 
+SENTENCE sustain can mean maintain support or endure 
+SUBJECT sustainability is the process of maintaining change in a balanced fashion in which the exploitation of resources the direction of investments the orientation of technological development and institutional change are all in harmony and 
+PREDICATE enhance 
+OBJECT both current and future potential to meet human needs and aspirations 
+SENTENCE sustainability is the process of maintaining change in a balanced fashion in which the exploitation of resources the direction of investments the orientation of technological development and institutional change are all in harmony and enhance both current and future potential to meet human needs and aspirations 
+SUBJECT the history of sustainability traces 
+PREDICATE humandominated from to 
+OBJECT ecological systems the earliest civilizations the present day 
+SENTENCE the history of sustainability traces humandominated ecological systems from the earliest civilizations to the present day 
+SUBJECT subdomains of sustainable development 
+PREDICATE have been considered 
+OBJECT also cultural technological and political 
+SENTENCE subdomains of sustainable development have been considered also cultural technological and political 
+SUBJECT sustainability 
+PREDICATE is viewed not as but 
+OBJECT a domain exclusive to scientists environmental activists and business leaders as a holistic project that must involve the whole of humanity redefining its place in nature what every environmentalist needs to know is that capitalism is not the solution but the problem and that if humanity is going to survive this crisis it will do so because it has exercised its capacity for human freedom through social struggle in order to create a whole new coevolution with the planet 
+SENTENCE sustainability is viewed not as a domain exclusive to scientists environmental activists and business leaders but as a holistic project that must involve the whole of humanity redefining its place in nature what every environmentalist needs to know is that capitalism is not the solution but the problem and that if humanity is going to survive this crisis it will do so because it has exercised its capacity for human freedom through social struggle in order to create a whole new coevolution with the planet 
+SUBJECT sustainability 
+PREDICATE is 
+OBJECT not just about the environment it s also about our health as a society in ensuring that no people or areas of life suffer as a result of environmental legislation and it s also about examining the longer term effects of the actions humanity takes and asking questions about how it may be improved in the world summit on social development identified three core areas that contribute to the philosophy and social science of sustainable development 
+SENTENCE sustainability is not just about the environment it s also about our health as a society in ensuring that no people or areas of life suffer as a result of environmental legislation and it s also about examining the longer term effects of the actions humanity takes and asking questions about how it may be improved in the world summit on social development identified three core areas that contribute to the philosophy and social science of sustainable development 
+SUBJECT the sustainability 
+PREDICATE since has been used more in and 
+OBJECT the sense of human sustainability on planet earth this has resulted in the most widely quoted definition of sustainability as a part of the concept sustainable development that of the brundtland commission of the united nations on march sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SENTENCE since the sustainability has been used more in the sense of human sustainability on planet earth and this has resulted in the most widely quoted definition of sustainability as a part of the concept sustainable development that of the brundtland commission of the united nations on march sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SUBJECT the sustainability this 
+PREDICATE since has been used more in and has resulted in as 
+OBJECT the sense of human sustainability on planet earth the most widely quoted definition of sustainability a part of the concept sustainable development that of the brundtland commission of the united nations on march sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SENTENCE since the sustainability has been used more in the sense of human sustainability on planet earth and this has resulted in the most widely quoted definition of sustainability as a part of the concept sustainable development that of the brundtland commission of the united nations on march sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SUBJECT the sustainability 
+PREDICATE since has been used more in the sense of on and 
+OBJECT human sustainability planet earth this has resulted in the most widely quoted definition of sustainability as a part of the concept sustainable development that of the brundtland commission of the united nations on march sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SENTENCE since the sustainability has been used more in the sense of human sustainability on planet earth and this has resulted in the most widely quoted definition of sustainability as a part of the concept sustainable development that of the brundtland commission of the united nations on march sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SUBJECT social sustainability 
+PREDICATE has had in than 
+OBJECT considerably less attention public dialogue economic and environmental sustainabilitythere are several approaches to sustainability 
+SENTENCE social sustainability has had considerably less attention in public dialogue than economic and environmental sustainabilitythere are several approaches to sustainability 
+SUBJECT the sustainable seafood movement 
+PREDICATE has gained 
+OBJECT momentum as more people become aware about both overfishing and environmentally destructive fishing methodsas global population and affluence has increased so has the use of various materials increased in volume diversity and distance transported 
+SENTENCE the sustainable seafood movement has gained momentum as more people become aware about both overfishing and environmentally destructive fishing methodsas global population and affluence has increased so has the use of various materials increased in volume diversity and distance transported 
+SUBJECT the sustainable seafood movement 
+PREDICATE has gained momentum 
+OBJECT as more people become aware about both overfishing and environmentally destructive fishing methodsas global population and affluence has increased so has the use of various materials increased in volume diversity and distance transported 
+SENTENCE the sustainable seafood movement has gained momentum as more people become aware about both overfishing and environmentally destructive fishing methodsas global population and affluence has increased so has the use of various materials increased in volume diversity and distance transported 
+SUBJECT the sustainable seafood movement more people 
+PREDICATE has gained as aware about 
+OBJECT momentum become both overfishing and environmentally destructive fishing methodsas global population and affluence has increased so has the use of various materials increased in volume diversity and distance transported 
+SENTENCE the sustainable seafood movement has gained momentum as more people become aware about both overfishing and environmentally destructive fishing methodsas global population and affluence has increased so has the use of various materials increased in volume diversity and distance transported 
+SUBJECT the sustainable seafood movement affluence 
+PREDICATE has gained has increased so 
+OBJECT momentum as more people become aware about both overfishing and environmentally destructive fishing methodsas global population and has the use of various materials increased in volume diversity and distance transported 
+SENTENCE the sustainable seafood movement has gained momentum as more people become aware about both overfishing and environmentally destructive fishing methodsas global population and affluence has increased so has the use of various materials increased in volume diversity and distance transported 
+SUBJECT while sustainable development 
+PREDICATE may the organizing principle for for 
+OBJECT be sustainability some for others 
+SENTENCE while sustainable development may be the organizing principle for sustainability for some for others 
+SUBJECT while sustainable development 
+PREDICATE may the organizing principle for for some for 
+OBJECT be sustainability others 
+SENTENCE while sustainable development may be the organizing principle for sustainability for some for others 
+SUBJECT the philosophical and analytic framework of sustainability 
+PREDICATE draws on and 
+OBJECT connects with many different disciplines and fields in recent years an area that has come to be called sustainability science has emerged 
+SENTENCE the philosophical and analytic framework of sustainability draws on and connects with many different disciplines and fields in recent years an area that has come to be called sustainability science has emerged 
+SUBJECT sustainability issues 
+PREDICATE are generally expressed in as well in but 
+OBJECT scientific and environmental terms as ethical terms of stewardship implementing change is a social challenge that entails among other things international and national law urban planning and transport local and individual lifestyles and ethical consumerism 
+SENTENCE sustainability issues are generally expressed in scientific and environmental terms as well as in ethical terms of stewardship but implementing change is a social challenge that entails among other things international and national law urban planning and transport local and individual lifestyles and ethical consumerism 
+SUBJECT sustainability issues 
+PREDICATE are generally expressed in scientific and terms as well in but 
+OBJECT environmental as ethical terms of stewardship implementing change is a social challenge that entails among other things international and national law urban planning and transport local and individual lifestyles and ethical consumerism 
+SENTENCE sustainability issues are generally expressed in scientific and environmental terms as well as in ethical terms of stewardship but implementing change is a social challenge that entails among other things international and national law urban planning and transport local and individual lifestyles and ethical consumerism 
+SUBJECT sustainability issues 
+PREDICATE are generally expressed in as well in ethical terms of but 
+OBJECT scientific and environmental terms as stewardship implementing change is a social challenge that entails among other things international and national law urban planning and transport local and individual lifestyles and ethical consumerism 
+SENTENCE sustainability issues are generally expressed in scientific and environmental terms as well as in ethical terms of stewardship but implementing change is a social challenge that entails among other things international and national law urban planning and transport local and individual lifestyles and ethical consumerism 
+SUBJECT sustainability 
+PREDICATE is studied and 
+OBJECT managed over many scales levels or frames of reference of time and space and in many contexts of environmental social and economic organization 
+SENTENCE sustainability is studied and managed over many scales levels or frames of reference of time and space and in many contexts of environmental social and economic organization 
+SUBJECT brundtland report for the world commission on environment and development the term of sustainable developmentsustainability 
+PREDICATE introduced can also be defined as 
+OBJECT a socioecological process characterized by the pursuit of a common ideal 
+SENTENCE brundtland report for the world commission on environment and development introduced the term of sustainable developmentsustainability can also be defined as a socioecological process characterized by the pursuit of a common ideal 
+SUBJECT the term of sustainable developmentsustainability 
+PREDICATE can also be defined as 
+OBJECT a socioecological process characterized by the pursuit of a common ideal 
+SENTENCE the term of sustainable developmentsustainability can also be defined as a socioecological process characterized by the pursuit of a common ideal 
+SUBJECT the term of sustainable developmentsustainability 
+PREDICATE can also be defined as a socioecological process characterized by 
+OBJECT the pursuit of a common ideal 
+SENTENCE the term of sustainable developmentsustainability can also be defined as a socioecological process characterized by the pursuit of a common ideal 
+SUBJECT some sustainability experts and practitioners 
+PREDICATE have illustrated or 
+OBJECT four pillars of sustainability a quadruple bottom line 
+SENTENCE some sustainability experts and practitioners have illustrated four pillars of sustainability or a quadruple bottom line 
+SUBJECT many additional drivers for sustainability 
+PREDICATE according to there are 
+OBJECT the national research council 
+SENTENCE according to the national research council there are many additional drivers for sustainability 
+SUBJECT the focus ranges from the total carrying capacity sustainability of planet earth to the sustainability of economic sectors ecosystems countries municipalities neighbourhoods home gardens individual 
+PREDICATE lives 
+OBJECT individual goods and services clarification needed occupations lifestyles behaviour patterns and so on 
+SENTENCE the focus ranges from the total carrying capacity sustainability of planet earth to the sustainability of economic sectors ecosystems countries municipalities neighbourhoods home gardens individual lives individual goods and services clarification needed occupations lifestyles behaviour patterns and so on 
+SUBJECT the social dimension of sustainability 
+PREDICATE for seems and 
+OBJECT example to be only marginally addressed in many publications on the circular economy there are cases that require different or additional strategies like purchasing new more energy efficient equipment 
+SENTENCE for example the social dimension of sustainability seems to be only marginally addressed in many publications on the circular economy and there are cases that require different or additional strategies like purchasing new more energy efficient equipment 
+SUBJECT the social dimension of sustainability 
+PREDICATE for seems to be only marginally addressed in and 
+OBJECT example many publications on the circular economy there are cases that require different or additional strategies like purchasing new more energy efficient equipment 
+SENTENCE for example the social dimension of sustainability seems to be only marginally addressed in many publications on the circular economy and there are cases that require different or additional strategies like purchasing new more energy efficient equipment 
+SUBJECT broadbased strategies for more sustainable social systems 
+PREDICATE include 
+OBJECT improved education and the political empowerment of women especially in developing countries greater regard for social justice notably equity between rich and poor both within and between countries and intergenerational equity 
+SENTENCE broadbased strategies for more sustainable social systems include improved education and the political empowerment of women especially in developing countries greater regard for social justice notably equity between rich and poor both within and between countries and intergenerational equity 
+SUBJECT broadbased strategies for more sustainable social systems 
+PREDICATE include improved education and 
+OBJECT the political empowerment of women especially in developing countries greater regard for social justice notably equity between rich and poor both within and between countries and intergenerational equity 
+SENTENCE broadbased strategies for more sustainable social systems include improved education and the political empowerment of women especially in developing countries greater regard for social justice notably equity between rich and poor both within and between countries and intergenerational equity 
+SUBJECT the concept of social sustainability in this approach 
+PREDICATE encompasses 
+OBJECT such topics as social equity livability health equity community development social capital social support human rights labour rights placemaking social responsibility social justice cultural competence community resilience and human adaptationa second more recent approach suggests that all of the domains of sustainability are social including ecological economic political and cultural sustainability 
+SENTENCE the concept of social sustainability in this approach encompasses such topics as social equity livability health equity community development social capital social support human rights labour rights placemaking social responsibility social justice cultural competence community resilience and human adaptationa second more recent approach suggests that all of the domains of sustainability are social including ecological economic political and cultural sustainability 
+SUBJECT sustainable use of materials 
+PREDICATE has targeted 
+OBJECT the idea of dematerialization converting the linear path of materials extraction use disposal in landfill to a circular material flow that reuses materials as much as possible much like the cycling and reuse of waste in nature 
+SENTENCE sustainable use of materials has targeted the idea of dematerialization converting the linear path of materials extraction use disposal in landfill to a circular material flow that reuses materials as much as possible much like the cycling and reuse of waste in nature 
+SUBJECT sustainable use of materials the idea of dematerialization converting the linear path of materials extraction 
+PREDICATE has targeted use to 
+OBJECT disposal in landfill a circular material flow that reuses materials as much as possible much like the cycling and reuse of waste in nature 
+SENTENCE sustainable use of materials has targeted the idea of dematerialization converting the linear path of materials extraction use disposal in landfill to a circular material flow that reuses materials as much as possible much like the cycling and reuse of waste in nature 
+SUBJECT the sustainability goal 
+PREDICATE is 
+OBJECT to raise the global standard of living without increasing the use of resources beyond globally sustainable levels that is to not exceed one planet consumption 
+SENTENCE the sustainability goal is to raise the global standard of living without increasing the use of resources beyond globally sustainable levels that is to not exceed one planet consumption 
+SUBJECT the sustainability goal 
+PREDICATE is to raise without 
+OBJECT the global standard of living increasing the use of resources beyond globally sustainable levels that is to not exceed one planet consumption 
+SENTENCE the sustainability goal is to raise the global standard of living without increasing the use of resources beyond globally sustainable levels that is to not exceed one planet consumption 
+SUBJECT the term sustainability 
+PREDICATE should be viewed as 
+OBJECT humanity s target goal of humanecosystem equilibrium homeostasis while sustainable development refers to the holistic approach and temporal processes that lead us to the end point of sustainability 
+SENTENCE the term sustainability should be viewed as humanity s target goal of humanecosystem equilibrium homeostasis while sustainable development refers to the holistic approach and temporal processes that lead us to the end point of sustainability 
+SUBJECT the term sustainability sustainable development 
+PREDICATE should be viewed as while refers to 
+OBJECT humanity s target goal of humanecosystem equilibrium homeostasis the holistic approach and temporal processes that lead us to the end point of sustainability 
+SENTENCE the term sustainability should be viewed as humanity s target goal of humanecosystem equilibrium homeostasis while sustainable development refers to the holistic approach and temporal processes that lead us to the end point of sustainability 
+SUBJECT sustainable development 
+PREDICATE while refers to 
+OBJECT the holistic approach and temporal processes that lead us to the end point of sustainability 
+SENTENCE while sustainable development refers to the holistic approach and temporal processes that lead us to the end point of sustainability 
+SUBJECT this aspect of sustainability 
+PREDICATE has been referred to as and 
+OBJECT environmental security creates a clear need for global environmental agreements to manage resources such as aquifers and rivers which span political boundaries and to protect shared global systems including oceans and the atmosphere 
+SENTENCE this aspect of sustainability has been referred to as environmental security and creates a clear need for global environmental agreements to manage resources such as aquifers and rivers which span political boundaries and to protect shared global systems including oceans and the atmosphere 
+SUBJECT sustainable development 
+PREDICATE consists of 
+OBJECT balancing local and global efforts to meet basic human needs without destroying or degrading the natural environment 
+SENTENCE sustainable development consists of balancing local and global efforts to meet basic human needs without destroying or degrading the natural environment 
+SUBJECT the possibility that human societies will achieve environmental sustainability 
+PREDICATE despite has been and 
+OBJECT the increased popularity of the use of the term sustainability continues to be light of environmental degradation climate change overconsumption population growth and societies pursuit of unlimited economic growth in a closed system 
+SENTENCE despite the increased popularity of the use of the term sustainability the possibility that human societies will achieve environmental sustainability has been and continues to be light of environmental degradation climate change overconsumption population growth and societies pursuit of unlimited economic growth in a closed system 
+SUBJECT the word sustainability 
+PREDICATE is also used widely by 
+OBJECT western country development agencies and international charities to focus their poverty alleviation efforts in ways that can be sustained by the local populace and its environment 
+SENTENCE the word sustainability is also used widely by western country development agencies and international charities to focus their poverty alleviation efforts in ways that can be sustained by the local populace and its environment 
+SUBJECT the word sustainability 
+PREDICATE is also used widely by to focus in 
+OBJECT western country development agencies and international charities their poverty alleviation efforts ways that can be sustained by the local populace and its environment 
+SENTENCE the word sustainability is also used widely by western country development agencies and international charities to focus their poverty alleviation efforts in ways that can be sustained by the local populace and its environment 
+SUBJECT the word sustainability 
+PREDICATE is also used widely by western country development agencies and 
+OBJECT international charities to focus their poverty alleviation efforts in ways that can be sustained by the local populace and its environment 
+SENTENCE the word sustainability is also used widely by western country development agencies and international charities to focus their poverty alleviation efforts in ways that can be sustained by the local populace and its environment 
+SUBJECT the use of sustainable biomaterials that come from renewable sources and that 
+PREDICATE can be recycled 
+OBJECT is preferred to the use on nonrenewables from a life cycle standpointsynthetic chemical production has escalated following the stimulus it received during the second world war 
+SENTENCE the use of sustainable biomaterials that come from renewable sources and that can be recycled is preferred to the use on nonrenewables from a life cycle standpointsynthetic chemical production has escalated following the stimulus it received during the second world war 
+SUBJECT the name sustainability 
+PREDICATE is derived from 
+OBJECT the latin sustinere tenere to hold sub under 
+SENTENCE the name sustainability is derived from the latin sustinere tenere to hold sub under 
+SUBJECT ways of living more sustainably 
+PREDICATE can take from 
+OBJECT many forms reorganizing living conditions eg ecovillages ecomunicipalities and sustainable cities reappraising economic sectors permaculture green building sustainable agriculture or work practices sustainable architecture using science to develop new technologies green technologies renewable energy and sustainable fission and fusion power or designing systems in a flexible and reversible manner and adjusting individual lifestyles that conserve natural resources 
+SENTENCE ways of living more sustainably can take many forms from reorganizing living conditions eg ecovillages ecomunicipalities and sustainable cities reappraising economic sectors permaculture green building sustainable agriculture or work practices sustainable architecture using science to develop new technologies green technologies renewable energy and sustainable fission and fusion power or designing systems in a flexible and reversible manner and adjusting individual lifestyles that conserve natural resources 
+SUBJECT ways of living more sustainably 
+PREDICATE can take many forms from 
+OBJECT reorganizing living conditions eg ecovillages ecomunicipalities and sustainable cities reappraising economic sectors permaculture green building sustainable agriculture or work practices sustainable architecture using science to develop new technologies green technologies renewable energy and sustainable fission and fusion power or designing systems in a flexible and reversible manner and adjusting individual lifestyles that conserve natural resources 
+SENTENCE ways of living more sustainably can take many forms from reorganizing living conditions eg ecovillages ecomunicipalities and sustainable cities reappraising economic sectors permaculture green building sustainable agriculture or work practices sustainable architecture using science to develop new technologies green technologies renewable energy and sustainable fission and fusion power or designing systems in a flexible and reversible manner and adjusting individual lifestyles that conserve natural resources 
+SUBJECT social sustainability 
+PREDICATE in encompasses 
+OBJECT these terms all human activities 
+SENTENCE in these terms social sustainability encompasses all human activities 
+SUBJECT social sustainability 
+PREDICATE in these terms encompasses 
+OBJECT all human activities 
+SENTENCE in these terms social sustainability encompasses all human activities 
+SUBJECT that is earth capacity to sustain human populations and consumption levels 
+PREDICATE is bound 
+OBJECT romanian american economist nicholas georgescuroegen a progenitor in economics and a paradigm founder of ecological economics has argued that the carrying capacity of earth s to decrease sometime in the future as earth s finite stock of mineral resources is presently being extracted and put to use 
+SENTENCE romanian american economist nicholas georgescuroegen a progenitor in economics and a paradigm founder of ecological economics has argued that the carrying capacity of earth that is earth s capacity to sustain human populations and consumption levels is bound to decrease sometime in the future as earth s finite stock of mineral resources is presently being extracted and put to use 
+SUBJECT that is earth capacity to sustain human populations and consumption levels 
+PREDICATE is bound to decrease sometime in as 
+OBJECT romanian american economist nicholas georgescuroegen a progenitor in economics and a paradigm founder of ecological economics has argued that the carrying capacity of earth s the future earth s finite stock of mineral resources is presently being extracted and put to use 
+SENTENCE romanian american economist nicholas georgescuroegen a progenitor in economics and a paradigm founder of ecological economics has argued that the carrying capacity of earth that is earth s capacity to sustain human populations and consumption levels is bound to decrease sometime in the future as earth s finite stock of mineral resources is presently being extracted and put to use 
+SUBJECT an economy that is able to sustain gdp growth without having a negative impact on the environment 
+PREDICATE is said 
+OBJECT to be decoupled 
+SENTENCE an economy that is able to sustain gdp growth without having a negative impact on the environment is said to be decoupled 
+SUBJECT wacoss social sustainability 
+PREDICATE occurs 
+OBJECT when the formal and informal processes systems structures and relationships actively support the capacity of current and future generations to create healthy and liveable communities 
+SENTENCE wacoss social sustainability occurs when the formal and informal processes systems structures and relationships actively support the capacity of current and future generations to create healthy and liveable communities 
+SUBJECT also sustainable best practices 
+PREDICATE can involve 
+OBJECT the recycling of materials such as the use of recycled plastics for lumber where deforestation has devastated a country s timber base 
+SENTENCE also sustainable best practices can involve the recycling of materials such as the use of recycled plastics for lumber where deforestation has devastated a country s timber base 
+SUBJECT one account sustainability concerns the specification of a set of actions to be taken by present persons that 
+PREDICATE to include concrete legislative proposals on will not diminish 
+OBJECT waste management ecodesign and limits on land fillson the prospects of future persons to enjoy levels of consumption wealth utility or welfare comparable to those enjoyed by present persons 
+SENTENCE to include concrete legislative proposals on waste management ecodesign and limits on land fillson one account sustainability concerns the specification of a set of actions to be taken by present persons that will not diminish the prospects of future persons to enjoy levels of consumption wealth utility or welfare comparable to those enjoyed by present persons 
+SUBJECT one account sustainability concerns the specification of a set of actions to be taken by present persons that 
+PREDICATE will not diminish 
+OBJECT the prospects of future persons to enjoy levels of consumption wealth utility or welfare comparable to those enjoyed by present persons 
+SENTENCE one account sustainability concerns the specification of a set of actions to be taken by present persons that will not diminish the prospects of future persons to enjoy levels of consumption wealth utility or welfare comparable to those enjoyed by present persons 
+SUBJECT one account sustainability concerns the specification of a set of actions to be taken by present persons that 
+PREDICATE will not diminish to enjoy 
+OBJECT the prospects of future persons levels of consumption wealth utility or welfare comparable to those enjoyed by present persons 
+SENTENCE one account sustainability concerns the specification of a set of actions to be taken by present persons that will not diminish the prospects of future persons to enjoy levels of consumption wealth utility or welfare comparable to those enjoyed by present persons 
+SUBJECT that the application of sustainability within decisionmaking including this database is an inventory of sustainability indicators 
+PREDICATE classified into 
+OBJECT a single system 
+SENTENCE that the application of sustainability within decisionmaking including this database is an inventory of sustainability indicators classified into a single system 
+SUBJECT sustainability studies 
+PREDICATE analyse 
+OBJECT ways to reduce resource intensity the amount of resource eg 
+SENTENCE sustainability studies analyse ways to reduce resource intensity the amount of resource eg 
+SUBJECT wacoss social sustainability the formal and informal processes systems structures and relationships 
+PREDICATE occurs when actively support 
+OBJECT the capacity of current and future generations to create healthy and liveable communities 
+SENTENCE wacoss social sustainability occurs when the formal and informal processes systems structures and relationships actively support the capacity of current and future generations to create healthy and liveable communities 
+SUBJECT socially sustainable communities 
+PREDICATE connected and and 
+OBJECT diverse democratic provide a good quality of life 
+SENTENCE socially sustainable communities diverse connected and democratic and provide a good quality of life 
+SUBJECT socially sustainable communities 
+PREDICATE connected and and provide 
+OBJECT diverse democratic a good quality of life 
+SENTENCE socially sustainable communities diverse connected and democratic and provide a good quality of life 
+SUBJECT sustainability 
+PREDICATE draws on as well 
+OBJECT politics economics and philosophy and other social sciences as the hard sciences 
+SENTENCE sustainability draws on politics economics and philosophy and other social sciences as well as the hard sciences 
+SUBJECT another example of sustainable practices in poverty alleviation 
+PREDICATE the use of exported recycled materials from to 
+OBJECT is developed developing countries such as bridges to prosperity s use of wire rope from shipping container gantry cranes to act as the structural wire rope for footbridges that cross rivers in poor rural areas in asia and africaaccording to murray bookchin the idea that humans must dominate nature is common in hierarchical societies 
+SENTENCE another example of sustainable practices in poverty alleviation is the use of exported recycled materials from developed to developing countries such as bridges to prosperity s use of wire rope from shipping container gantry cranes to act as the structural wire rope for footbridges that cross rivers in poor rural areas in asia and africaaccording to murray bookchin the idea that humans must dominate nature is common in hierarchical societies 
+SUBJECT another example of sustainable practices in poverty alleviation 
+PREDICATE the use of from developed to 
+OBJECT is exported recycled materials developing countries such as bridges to prosperity s use of wire rope from shipping container gantry cranes to act as the structural wire rope for footbridges that cross rivers in poor rural areas in asia and africaaccording to murray bookchin the idea that humans must dominate nature is common in hierarchical societies 
+SENTENCE another example of sustainable practices in poverty alleviation is the use of exported recycled materials from developed to developing countries such as bridges to prosperity s use of wire rope from shipping container gantry cranes to act as the structural wire rope for footbridges that cross rivers in poor rural areas in asia and africaaccording to murray bookchin the idea that humans must dominate nature is common in hierarchical societies 
+SUBJECT another example of sustainable practices in poverty alleviation 
+PREDICATE the use of from to developing countries as 
+OBJECT is exported recycled materials developed such bridges to prosperity s use of wire rope from shipping container gantry cranes to act as the structural wire rope for footbridges that cross rivers in poor rural areas in asia and africaaccording to murray bookchin the idea that humans must dominate nature is common in hierarchical societies 
+SENTENCE another example of sustainable practices in poverty alleviation is the use of exported recycled materials from developed to developing countries such as bridges to prosperity s use of wire rope from shipping container gantry cranes to act as the structural wire rope for footbridges that cross rivers in poor rural areas in asia and africaaccording to murray bookchin the idea that humans must dominate nature is common in hierarchical societies 
+SUBJECT herman daly three broad criteria for ecological sustainability renewable resources 
+PREDICATE has suggested should provide 
+OBJECT a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SENTENCE herman daly has suggested three broad criteria for ecological sustainability renewable resources should provide a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT three broad criteria for ecological sustainability renewable resources 
+PREDICATE should provide 
+OBJECT a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SENTENCE three broad criteria for ecological sustainability renewable resources should provide a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT three broad criteria for ecological sustainability renewable resources 
+PREDICATE should provide a sustainable yield 
+OBJECT the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SENTENCE three broad criteria for ecological sustainability renewable resources should provide a sustainable yield the rate of harvest should not exceed the rate of regeneration for nonrenewable resources there should be equivalent development of renewable substitutes waste generation should not exceed the assimilative capacity of the environment 
+SUBJECT sustainable business practices on the other hand 
+PREDICATE integrate with 
+OBJECT ecological concerns social and economic ones ie the triple bottom line 
+SENTENCE sustainable business practices on the other hand integrate ecological concerns with social and economic ones ie the triple bottom line 
+SUBJECT sustainability economics 
+PREDICATE represents 
+OBJECT a broad interpretation of ecological economics where environmental and ecological variables and issues are basic but part of a multidimensional perspective 
+SENTENCE sustainability economics represents a broad interpretation of ecological economics where environmental and ecological variables and issues are basic but part of a multidimensional perspective 
+SUBJECT no real concept of sustainable living 
+PREDICATE there was 
+OBJECT even if the people of the distant past understood that soil had a maximum fertility that could be exhausted and replenished with livestockit is widely acknowledged that many societies collapsed due to an inability to adapt to the conditions brought on by these unsustainable practices 
+SENTENCE there was no real concept of sustainable living even if the people of the distant past understood that soil had a maximum fertility that could be exhausted and replenished with livestockit is widely acknowledged that many societies collapsed due to an inability to adapt to the conditions brought on by these unsustainable practices 
+SUBJECT social sustainability 
+PREDICATE combines 
+OBJECT design of the physical realm with design of the social world infrastructure to support social and cultural life social amenities systems for citizen engagement and space for people and places to evolve 
+SENTENCE social sustainability combines design of the physical realm with design of the social world infrastructure to support social and cultural life social amenities systems for citizen engagement and space for people and places to evolve 
+SUBJECT social sustainability 
+PREDICATE combines design of with 
+OBJECT the physical realm design of the social world infrastructure to support social and cultural life social amenities systems for citizen engagement and space for people and places to evolve 
+SENTENCE social sustainability combines design of the physical realm with design of the social world infrastructure to support social and cultural life social amenities systems for citizen engagement and space for people and places to evolve 
+SUBJECT at present the average per capita consumption of people in the developing world is sustainable but population numbers 
+PREDICATE are increasing and 
+OBJECT individuals are aspiring to highconsumption western lifestyles 
+SENTENCE at present the average per capita consumption of people in the developing world is sustainable but population numbers are increasing and individuals are aspiring to highconsumption western lifestyles 
+SUBJECT the challenge for sustainability 
+PREDICATE is 
+OBJECT to curb and manage western consumption while raising the standard of living of the developing world without increasing its resource use and environmental impact 
+SENTENCE the challenge for sustainability is to curb and manage western consumption while raising the standard of living of the developing world without increasing its resource use and environmental impact 
+SUBJECT the challenge for sustainability 
+PREDICATE is to curb and 
+OBJECT manage western consumption while raising the standard of living of the developing world without increasing its resource use and environmental impact 
+SENTENCE the challenge for sustainability is to curb and manage western consumption while raising the standard of living of the developing world without increasing its resource use and environmental impact 
+SUBJECT the expansion of sustainable business opportunities 
+PREDICATE can contribute to through 
+OBJECT job creation the introduction of greencollar workers 
+SENTENCE the expansion of sustainable business opportunities can contribute to job creation through the introduction of greencollar workers 
+SUBJECT the expansion of sustainable business opportunities 
+PREDICATE can contribute to through the introduction of 
+OBJECT job creation greencollar workers 
+SENTENCE the expansion of sustainable business opportunities can contribute to job creation through the introduction of greencollar workers 
+SUBJECT sustainability graduates 
+PREDICATE therefore will go into but 
+OBJECT many fields most commonly civic planning environmental consultancy built and natural environment agriculture not for profit corporate strategies health assessment and planning and even into law and decision making 
+SENTENCE therefore sustainability graduates will go into many fields but most commonly civic planning environmental consultancy built and natural environment agriculture not for profit corporate strategies health assessment and planning and even into law and decision making 
+SUBJECT the sustainable development goals sdgs are the current harmonized set of seventeen future international development targetsthe official agenda for sustainable development adopted on september 
+PREDICATE has paragraphs with 
+OBJECT the main paragraph outlining the sustainable development goals and its associated targets 
+SENTENCE the sustainable development goals sdgs are the current harmonized set of seventeen future international development targetsthe official agenda for sustainable development adopted on september has paragraphs with the main paragraph outlining the sustainable development goals and its associated targets 
+SUBJECT sustainable business models and the triple bottom line 
+PREDICATE are viewed as 
+OBJECT morally praiseworthy but ignorant to the tendency in capitalism for the distribution of wealth to become increasingly unequal and socially unstableunsustainable 
+SENTENCE sustainable business models and the triple bottom line are viewed as morally praiseworthy but ignorant to the tendency in capitalism for the distribution of wealth to become increasingly unequal and socially unstableunsustainable 
+SUBJECT the different aspects of social sustainability 
+PREDICATE are often considered in 
+OBJECT socially responsible investing sri 
+SENTENCE the different aspects of social sustainability are often considered in socially responsible investing sri 
+SUBJECT social sustainability criteria that are commonly used by sri funds and indexes to rate publicly traded companies 
+PREDICATE include 
+OBJECT community diversity employee relations human rights product safety reporting and governance structure 
+SENTENCE social sustainability criteria that are commonly used by sri funds and indexes to rate publicly traded companies include community diversity employee relations human rights product safety reporting and governance structure 
+SUBJECT social sustainability criteria that are commonly used by sri funds and indexes to rate 
+PREDICATE publicly traded companies include 
+OBJECT community diversity employee relations human rights product safety reporting and governance structure 
+SENTENCE social sustainability criteria that are commonly used by sri funds and indexes to rate publicly traded companies include community diversity employee relations human rights product safety reporting and governance structure 
+SUBJECT promising direction towards sustainable development 
+PREDICATE is to 
+OBJECT a design systems that are flexible and reversible 
+SENTENCE a promising direction towards sustainable development is to design systems that are flexible and reversible 
+SUBJECT social sustainability criteria that are commonly used by sri funds and indexes to rate publicly traded companies 
+PREDICATE include community diversity employee relations 
+OBJECT human rights product safety reporting and governance structure 
+SENTENCE social sustainability criteria that are commonly used by sri funds and indexes to rate publicly traded companies include community diversity employee relations human rights product safety reporting and governance structure 
+SUBJECT sustainable land use patterns 
+PREDICATE strive for and 
+OBJECT that compact cities a reduction of greenfield land take by urban sprawllarge scale social movements can influence both community choices and the built environment 
+SENTENCE sustainable land use patterns that strive for compact cities and a reduction of greenfield land take by urban sprawllarge scale social movements can influence both community choices and the built environment 
+SUBJECT sustainable land use patterns a reduction of greenfield land 
+PREDICATE strive for and take by 
+OBJECT that compact cities urban sprawllarge scale social movements can influence both community choices and the built environment 
+SENTENCE sustainable land use patterns that strive for compact cities and a reduction of greenfield land take by urban sprawllarge scale social movements can influence both community choices and the built environment 
+SUBJECT a sustainable food system 
+PREDICATE also encourages and 
+OBJECT local production and distribution infrastructures makes nutritious food available accessible and affordable to all 
+SENTENCE a sustainable food system also encourages local production and distribution infrastructures and makes nutritious food available accessible and affordable to all 
+SUBJECT a sustainable food system 
+PREDICATE also encourages and makes 
+OBJECT local production and distribution infrastructures nutritious food available accessible and affordable to all 
+SENTENCE a sustainable food system also encourages local production and distribution infrastructures and makes nutritious food available accessible and affordable to all 
+SUBJECT research embedded sustainability offers 
+PREDICATE showed increased through c 
+OBJECT s that at least seven distinct opportunities for business value creation a better riskmanagement b efficiency reduced waste and resource use better product differentiation d new market entrances e enhanced brand and reputation f greater opportunity to influence industry standards and g greater opportunity for radical innovation 
+SENTENCE s research showed that embedded sustainability offers at least seven distinct opportunities for business value creation a better riskmanagement b increased efficiency through reduced waste and resource use c better product differentiation d new market entrances e enhanced brand and reputation f greater opportunity to influence industry standards and g greater opportunity for radical innovation 
+SUBJECT embedded sustainability offers 
+PREDICATE increased through c 
+OBJECT that efficiency reduced waste and resource use better product differentiation d new market entrances e enhanced brand and reputation f greater opportunity to influence industry standards and g greater opportunity for radical innovation 
+SENTENCE that embedded sustainability offers increased efficiency through reduced waste and resource use c better product differentiation d new market entrances e enhanced brand and reputation f greater opportunity to influence industry standards and g greater opportunity for radical innovation 
+SUBJECT embedded sustainability offers 
+PREDICATE increased efficiency through c 
+OBJECT that reduced waste and resource use better product differentiation d new market entrances e enhanced brand and reputation f greater opportunity to influence industry standards and g greater opportunity for radical innovation 
+SENTENCE that embedded sustainability offers increased efficiency through reduced waste and resource use c better product differentiation d new market entrances e enhanced brand and reputation f greater opportunity to influence industry standards and g greater opportunity for radical innovation 
+SUBJECT design for social sustainability sets out a framework for planning and designing the service spaces housing and governance arrangements to help local communities to thrivesocial sustainability 
+PREDICATE is largely neglected in 
+OBJECT mainstream sustainability debates 
+SENTENCE design for social sustainability sets out a framework for planning and designing the service spaces housing and governance arrangements to help local communities to thrivesocial sustainability is largely neglected in mainstream sustainability debates 
+SUBJECT our sustainable future 
+PREDICATE what will look like but and 
+OBJECT with emerging technologies the improvement of older cleaner fuel sources many people now look to a post fossil fuel world including businesses 
+SENTENCE what our sustainable future will look like but with emerging technologies and the improvement of older cleaner fuel sources many people now look to a post fossil fuel world including businesses 
+SUBJECT what our sustainable future 
+PREDICATE will look like but and 
+OBJECT with emerging technologies the improvement of older cleaner fuel sources many people now look to a post fossil fuel world including businesses 
+SENTENCE what our sustainable future will look like but with emerging technologies and the improvement of older cleaner fuel sources many people now look to a post fossil fuel world including businesses 
+SUBJECT what our sustainable future many people 
+PREDICATE will look like but and now look to 
+OBJECT with emerging technologies the improvement of older cleaner fuel sources a post fossil fuel world including businesses 
+SENTENCE what our sustainable future will look like but with emerging technologies and the improvement of older cleaner fuel sources many people now look to a post fossil fuel world including businesses 
+SUBJECT application of social sustainability 
+PREDICATE requires 
+OBJECT stakeholders to look at human and labor rights prevention of human trafficking and other human rights risks 
+SENTENCE application of social sustainability requires stakeholders to look at human and labor rights prevention of human trafficking and other human rights risks 
+SUBJECT application of social sustainability stakeholders 
+PREDICATE requires to look at 
+OBJECT human and labor rights prevention of human trafficking and other human rights risks 
+SENTENCE application of social sustainability requires stakeholders to look at human and labor rights prevention of human trafficking and other human rights risks 
+SUBJECT sustainability 
+PREDICATE takes into 
+OBJECT account how we might live in harmony with the natural world around us protecting it from damage and destructionwe now live in a modern consumerist and largely urban existence throughout the developed world and we consume a lot of natural resources every day 
+SENTENCE sustainability takes into account how we might live in harmony with the natural world around us protecting it from damage and destructionwe now live in a modern consumerist and largely urban existence throughout the developed world and we consume a lot of natural resources every day 
+SUBJECT sustainability we 
+PREDICATE takes into how might live in and 
+OBJECT account harmony with the natural world around us protecting it from damage destructionwe now live in a modern consumerist and largely urban existence throughout the developed world and we consume a lot of natural resources every day 
+SENTENCE sustainability takes into account how we might live in harmony with the natural world around us protecting it from damage and destructionwe now live in a modern consumerist and largely urban existence throughout the developed world and we consume a lot of natural resources every day 
+SUBJECT sustainability 
+PREDICATE takes into account 
+OBJECT how we might live in harmony with the natural world around us protecting it from damage and destructionwe now live in a modern consumerist and largely urban existence throughout the developed world and we consume a lot of natural resources every day 
+SENTENCE sustainability takes into account how we might live in harmony with the natural world around us protecting it from damage and destructionwe now live in a modern consumerist and largely urban existence throughout the developed world and we consume a lot of natural resources every day 
+SUBJECT sustainability at its simplest terms 
+PREDICATE combines 
+OBJECT economics business social human environment and environmental science 
+SENTENCE sustainability at its simplest terms combines economics business social human environment and environmental science 
+SUBJECT various movements working towards local food production more productive use of urban wastelands and domestic gardens including permaculture urban horticulture local food slow food sustainable gardening and organic gardening 
+PREDICATE at there are 
+OBJECT the local level 
+SENTENCE at the local level there are various movements working towards local food production more productive use of urban wastelands and domestic gardens including permaculture urban horticulture local food slow food sustainable gardening and organic gardening 
+SUBJECT the sustainability program area 
+PREDICATE includes 
+OBJECT the latest guidance examples and information resources to aid federal facilities in developing and maintaining sustainable facilities and helping to develop and promote sustainable practices within their environmental programs or activitiesplease use the links below to quickly jump to the information area needed or scroll down to view all items 
+SENTENCE the sustainability program area includes the latest guidance examples and information resources to aid federal facilities in developing and maintaining sustainable facilities and helping to develop and promote sustainable practices within their environmental programs or activitiesplease use the links below to quickly jump to the information area needed or scroll down to view all items 
+SUBJECT the sustainability program area 
+PREDICATE includes the latest guidance examples and 
+OBJECT information resources to aid federal facilities in developing and maintaining sustainable facilities and helping to develop and promote sustainable practices within their environmental programs or activitiesplease use the links below to quickly jump to the information area needed or scroll down to view all items 
+SENTENCE the sustainability program area includes the latest guidance examples and information resources to aid federal facilities in developing and maintaining sustainable facilities and helping to develop and promote sustainable practices within their environmental programs or activitiesplease use the links below to quickly jump to the information area needed or scroll down to view all items 
+SUBJECT the cultural dimension of sustainability 
+PREDICATE is known as 
+OBJECT cultural sustainability 
+SENTENCE the cultural dimension of sustainability is known as cultural sustainability 
+SUBJECT the goal of sustainability 
+PREDICATE is 
+OBJECT to find a balanced approach that minimizes risks to these areas in order to maintain or enhance the quality of life in the future 
+SENTENCE the goal of sustainability is to find a balanced approach that minimizes risks to these areas in order to maintain or enhance the quality of life in the future 
+SUBJECT the goal of sustainability 
+PREDICATE is to find 
+OBJECT a balanced approach that minimizes risks to these areas in order to maintain or enhance the quality of life in the future 
+SENTENCE the goal of sustainability is to find a balanced approach that minimizes risks to these areas in order to maintain or enhance the quality of life in the future 
+SUBJECT that sustainable living 
+PREDICATE not to say should only focus on 
+OBJECT people who live in urban centres though there are improvements to be made everywhere it is estimated that we use about more resources every year than we can put back and that needs to change 
+SENTENCE not to say that sustainable living should only focus on people who live in urban centres though there are improvements to be made everywhere it is estimated that we use about more resources every year than we can put back and that needs to change 
+SUBJECT that sustainable living 
+PREDICATE should only focus on 
+OBJECT people who live in urban centres 
+SENTENCE that sustainable living should only focus on people who live in urban centres 
+SUBJECT activist and sustainability professionals 
+PREDICATE hope 
+OBJECT to remove trade barriers in future so that they may benefit everyone contributing to the economic and social development core of sustainability while promoting good environmental practice sourceschronology tools and methods for dating historical and ancient deposits inclusions and remainsmeteorology something in the airbirds ecosystem serviceshow does dating work environmental consequences of fishing practices 
+SENTENCE activist and sustainability professionals hope to remove trade barriers in future so that they may benefit everyone contributing to the economic and social development core of sustainability while promoting good environmental practice sourceschronology tools and methods for dating historical and ancient deposits inclusions and remainsmeteorology something in the airbirds ecosystem serviceshow does dating work environmental consequences of fishing practices 
+SUBJECT environmental sustainability is just a slightly redundant term for true sustainability everything 
+PREDICATE as relies on 
+OBJECT the environment 
+SENTENCE environmental sustainability is just a slightly redundant term for true sustainability as everything relies on the environment 
+SUBJECT activist and sustainability professionals 
+PREDICATE hope to remove in 
+OBJECT trade barriers future so that they may benefit everyone contributing to the economic and social development core of sustainability while promoting good environmental practice sourceschronology tools and methods for dating historical and ancient deposits inclusions and remainsmeteorology something in the airbirds ecosystem serviceshow does dating work environmental consequences of fishing practices 
+SENTENCE activist and sustainability professionals hope to remove trade barriers in future so that they may benefit everyone contributing to the economic and social development core of sustainability while promoting good environmental practice sourceschronology tools and methods for dating historical and ancient deposits inclusions and remainsmeteorology something in the airbirds ecosystem serviceshow does dating work environmental consequences of fishing practices 
+SUBJECT the metrics used for the measurement of sustainability involving the sustainability of environmental social and economic domains both individually and in various combinations they 
+PREDICATE are still evolving include 
+OBJECT indicators benchmarks audits indexes and accounting as well as assessment appraisal and other reporting systems 
+SENTENCE the metrics used for the measurement of sustainability involving the sustainability of environmental social and economic domains both individually and in various combinations are still evolving they include indicators benchmarks audits indexes and accounting as well as assessment appraisal and other reporting systems 
+SUBJECT sustainability 
+PREDICATE means 
+OBJECT what 
+SENTENCE what sustainability means 
+SUBJECT sustainability and sustainable development 
+PREDICATE focuses on between and 
+OBJECT balancing that fine line competing needs our need to move forward technologically and economically the needs to protect the environments in which we and others live 
+SENTENCE sustainability and sustainable development focuses on balancing that fine line between competing needs our need to move forward technologically and economically and the needs to protect the environments in which we and others live 
+SUBJECT sustainability and sustainable development 
+PREDICATE focuses on between needs and 
+OBJECT balancing that fine line competing our need to move forward technologically and economically the needs to protect the environments in which we and others live 
+SENTENCE sustainability and sustainable development focuses on balancing that fine line between competing needs our need to move forward technologically and economically and the needs to protect the environments in which we and others live 
+SUBJECT our struggle for global sustainability 
+PREDICATE to note will be won or 
+OBJECT that lost in cities today this is a flashing red lighttwenty years later maurice strong was key in organizing the rio earth summit 
+SENTENCE to note that our struggle for global sustainability will be won or lost in cities today this is a flashing red lighttwenty years later maurice strong was key in organizing the rio earth summit 
+SUBJECT our struggle for global sustainability 
+PREDICATE will be won or 
+OBJECT that lost in cities today this is a flashing red lighttwenty years later maurice strong was key in organizing the rio earth summit 
+SENTENCE that our struggle for global sustainability will be won or lost in cities today this is a flashing red lighttwenty years later maurice strong was key in organizing the rio earth summit 
+SUBJECT our struggle for global sustainability 
+PREDICATE will be won or lost in 
+OBJECT that cities today this is a flashing red lighttwenty years later maurice strong was key in organizing the rio earth summit 
+SENTENCE that our struggle for global sustainability will be won or lost in cities today this is a flashing red lighttwenty years later maurice strong was key in organizing the rio earth summit 
+SUBJECT a blog post by dr alan hecht director for sustainable development for epa s office of research and development 
+PREDICATE was recently featured by 
+OBJECT the cynthia and george mitchell foundation 
+SENTENCE a blog post by dr alan hecht director for sustainable development for epa s office of research and development was recently featured by the cynthia and george mitchell foundation 
+SUBJECT the idea of sustainability 
+PREDICATE stems from 
+OBJECT the concept of sustainable development which became common language at the world s first earth summit in rio in 
+SENTENCE the idea of sustainability stems from the concept of sustainable development which became common language at the world s first earth summit in rio in 
+SUBJECT to become a chemical engineer a director of sustainability also known as a chief sustainability officer 
+PREDICATE how a highlevel corporate role concerning 
+OBJECT is the organization s sustainable practice 
+SENTENCE how to become a chemical engineer a director of sustainability also known as a chief sustainability officer is a highlevel corporate role concerning the organization s sustainable practice 
+SUBJECT the original definition of sustainable development 
+PREDICATE is usually considered 
+OBJECT to be development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SENTENCE the original definition of sustainable development is usually considered to be development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SUBJECT the original definition of sustainable development that 
+PREDICATE is usually considered to development meets without 
+OBJECT be the needs of the present compromising the ability of future generations to meet their own needs 
+SENTENCE the original definition of sustainable development is usually considered to be development that meets the needs of the present without compromising the ability of future generations to meet their own needs 
+SUBJECT some of the best known and most widely used sustainability measures 
+PREDICATE include 
+OBJECT corporate sustainability reporting triple bottom line accounting and estimates of the quality of sustainability governance for individual countries using the environmental sustainability index and environmental performance index 
+SENTENCE some of the best known and most widely used sustainability measures include corporate sustainability reporting triple bottom line accounting and estimates of the quality of sustainability governance for individual countries using the environmental sustainability index and environmental performance index 
+SUBJECT that sustainability 
+PREDICATE a few schools offer focused 
+OBJECT are degreesdegree associate of science sustainability coordinatorprogram focus sustainability studies and sciencestudy options traditionalschool website http wwwlaneccedusustainabilitysustainabilitycoordinatorprogram overview this degree will provide a solid foundation for students to begin their careers in the sustainability field or enter into a bachelor s degree programcourse requirements this degree requires credits which consist of foundation and core credits and credits towards electives and career technical educationadmission requirements the admission requirements include transcripts from high school or ged placement testing and meeting with an advisortuition the anticipated tuition costs are including books and miscellaneous fees eg 
+SENTENCE are a few schools that offer sustainability focused degreesdegree associate of science sustainability coordinatorprogram focus sustainability studies and sciencestudy options traditionalschool website http wwwlaneccedusustainabilitysustainabilitycoordinatorprogram overview this degree will provide a solid foundation for students to begin their careers in the sustainability field or enter into a bachelor s degree programcourse requirements this degree requires credits which consist of foundation and core credits and credits towards electives and career technical educationadmission requirements the admission requirements include transcripts from high school or ged placement testing and meeting with an advisortuition the anticipated tuition costs are including books and miscellaneous fees eg 
+SUBJECT are a few schools that offer sustainability 
+PREDICATE focused 
+OBJECT degreesdegree associate of science sustainability coordinatorprogram focus sustainability studies and sciencestudy options traditionalschool website http wwwlaneccedusustainabilitysustainabilitycoordinatorprogram overview this degree will provide a solid foundation for students to begin their careers in the sustainability field or enter into a bachelor s degree programcourse requirements this degree requires credits which consist of foundation and core credits and credits towards electives and career technical educationadmission requirements the admission requirements include transcripts from high school or ged placement testing and meeting with an advisortuition the anticipated tuition costs are including books and miscellaneous fees eg 
+SENTENCE are a few schools that offer sustainability focused degreesdegree associate of science sustainability coordinatorprogram focus sustainability studies and sciencestudy options traditionalschool website http wwwlaneccedusustainabilitysustainabilitycoordinatorprogram overview this degree will provide a solid foundation for students to begin their careers in the sustainability field or enter into a bachelor s degree programcourse requirements this degree requires credits which consist of foundation and core credits and credits towards electives and career technical educationadmission requirements the admission requirements include transcripts from high school or ged placement testing and meeting with an advisortuition the anticipated tuition costs are including books and miscellaneous fees eg 
+SUBJECT are a few schools that offer sustainability 
+PREDICATE focused degreesdegree associate of 
+OBJECT science sustainability coordinatorprogram focus sustainability studies and sciencestudy options traditionalschool website http wwwlaneccedusustainabilitysustainabilitycoordinatorprogram overview this degree will provide a solid foundation for students to begin their careers in the sustainability field or enter into a bachelor s degree programcourse requirements this degree requires credits which consist of foundation and core credits and credits towards electives and career technical educationadmission requirements the admission requirements include transcripts from high school or ged placement testing and meeting with an advisortuition the anticipated tuition costs are including books and miscellaneous fees eg 
+SENTENCE are a few schools that offer sustainability focused degreesdegree associate of science sustainability coordinatorprogram focus sustainability studies and sciencestudy options traditionalschool website http wwwlaneccedusustainabilitysustainabilitycoordinatorprogram overview this degree will provide a solid foundation for students to begin their careers in the sustainability field or enter into a bachelor s degree programcourse requirements this degree requires credits which consist of foundation and core credits and credits towards electives and career technical educationadmission requirements the admission requirements include transcripts from high school or ged placement testing and meeting with an advisortuition the anticipated tuition costs are including books and miscellaneous fees eg 
+SUBJECT are a few schools that offer sustainability 
+PREDICATE focused this degree will provide 
+OBJECT degreesdegree associate of science sustainability coordinatorprogram focus sustainability studies and sciencestudy options traditionalschool website http wwwlaneccedusustainabilitysustainabilitycoordinatorprogram overview a solid foundation for students to begin their careers in the sustainability field or enter into a bachelor s degree programcourse requirements this degree requires credits which consist of foundation and core credits and credits towards electives and career technical educationadmission requirements the admission requirements include transcripts from high school or ged placement testing and meeting with an advisortuition the anticipated tuition costs are including books and miscellaneous fees eg 
+SENTENCE are a few schools that offer sustainability focused degreesdegree associate of science sustainability coordinatorprogram focus sustainability studies and sciencestudy options traditionalschool website http wwwlaneccedusustainabilitysustainabilitycoordinatorprogram overview this degree will provide a solid foundation for students to begin their careers in the sustainability field or enter into a bachelor s degree programcourse requirements this degree requires credits which consist of foundation and core credits and credits towards electives and career technical educationadmission requirements the admission requirements include transcripts from high school or ged placement testing and meeting with an advisortuition the anticipated tuition costs are including books and miscellaneous fees eg 
+SUBJECT to become a director sustainability ecotourism 
+PREDICATE ultimately improve more about how a growth area of 
+OBJECT performancelearn is the global travel experience 
+SENTENCE ultimately improve performancelearn more about how to become a director sustainability ecotourism is a growth area of the global travel experience 
+SUBJECT six steps closer to a sustainable worldby dr alan d hecht addressing the problems of the century 
+PREDICATE will require 
+OBJECT a combination of strategies including creative use of existing environmental policies and regulations innovative application of science and technology and collaboration among stakeholders read the postabout the author dr alan hecht is director for sustainable development office of research and development at the us environmental protection agency epa 
+SENTENCE six steps closer to a sustainable worldby dr alan d hecht addressing the problems of the century will require a combination of strategies including creative use of existing environmental policies and regulations innovative application of science and technology and collaboration among stakeholders read the postabout the author dr alan hecht is director for sustainable development office of research and development at the us environmental protection agency epa 
+SUBJECT six steps closer to a sustainable worldby dr alan d hecht addressing the problems of the century 
+PREDICATE will require a combination of 
+OBJECT strategies including creative use of existing environmental policies and regulations innovative application of science and technology and collaboration among stakeholders read the postabout the author dr alan hecht is director for sustainable development office of research and development at the us environmental protection agency epa 
+SENTENCE six steps closer to a sustainable worldby dr alan d hecht addressing the problems of the century will require a combination of strategies including creative use of existing environmental policies and regulations innovative application of science and technology and collaboration among stakeholders read the postabout the author dr alan hecht is director for sustainable development office of research and development at the us environmental protection agency epa 
+SUBJECT six steps closer to a sustainable worldby dr alan d hecht addressing the problems of the century 
+PREDICATE will require read 
+OBJECT a combination of strategies including creative use of existing environmental policies and regulations innovative application of science and technology and collaboration among stakeholders the postabout the author dr alan hecht is director for sustainable development office of research and development at the us environmental protection agency epa 
+SENTENCE six steps closer to a sustainable worldby dr alan d hecht addressing the problems of the century will require a combination of strategies including creative use of existing environmental policies and regulations innovative application of science and technology and collaboration among stakeholders read the postabout the author dr alan hecht is director for sustainable development office of research and development at the us environmental protection agency epa 
+SUBJECT sustainability coordinator sustainability manager sustainability director chief sustainability officer 
+PREDICATE leed 
+OBJECT professional environmental specialist environmental scientist chemist urban planner transportation specialist project manager environmental manager procurement officer policy analyst business analyst environmental lawyer environmental engineer supply chain manager and health safety specialistlearn more about the various sustainability career fieldsmost of the top environmental colleges offer degrees in sustainability or focuses on sustainable principles 
+SENTENCE sustainability coordinator sustainability manager sustainability director chief sustainability officer leed professional environmental specialist environmental scientist chemist urban planner transportation specialist project manager environmental manager procurement officer policy analyst business analyst environmental lawyer environmental engineer supply chain manager and health safety specialistlearn more about the various sustainability career fieldsmost of the top environmental colleges offer degrees in sustainability or focuses on sustainable principles 
+SUBJECT an alternative approach used by the united nations global compact cities programme and explicitly critical of the triplebottomline approach is circles of sustainabilitythe principal objective of sustainability indicators 
+PREDICATE is 
+OBJECT to inform public policymaking as part of the process of sustainability governance 
+SENTENCE an alternative approach used by the united nations global compact cities programme and explicitly critical of the triplebottomline approach is circles of sustainabilitythe principal objective of sustainability indicators is to inform public policymaking as part of the process of sustainability governance 
+SUBJECT an alternative approach used by the united nations global compact cities programme and explicitly critical of the triplebottomline approach is circles of sustainabilitythe principal objective of sustainability indicators 
+PREDICATE is to inform as 
+OBJECT public policymaking part of the process of sustainability governance 
+SENTENCE an alternative approach used by the united nations global compact cities programme and explicitly critical of the triplebottomline approach is circles of sustainabilitythe principal objective of sustainability indicators is to inform public policymaking as part of the process of sustainability governance 
+SUBJECT sustainability 
+PREDICATE isn 
+OBJECT t part of our work it s a guiding influence for all of our work 
+SENTENCE sustainability isn t part of our work it s a guiding influence for all of our work 
+SUBJECT sustainability indicators 
+PREDICATE can provide on 
+OBJECT information any aspect of the interplay between the environment and socioeconomic activities 
+SENTENCE sustainability indicators can provide information on any aspect of the interplay between the environment and socioeconomic activities 
+SUBJECT sustainability indicators 
+PREDICATE can provide information on 
+OBJECT any aspect of the interplay between the environment and socioeconomic activities 
+SENTENCE sustainability indicators can provide information on any aspect of the interplay between the environment and socioeconomic activities 
+SUBJECT sustainability 
+PREDICATE has been hijacked and 
+OBJECT that twisted to suit government and business that really want to continue with business as usualthe quotes below will provide some ideas on what constitutes sustainable development and sustainability 
+SENTENCE that sustainability has been hijacked and twisted to suit government and business that really want to continue with business as usualthe quotes below will provide some ideas on what constitutes sustainable development and sustainability 
+SUBJECT sustainability 
+PREDICATE has been hijacked and to suit 
+OBJECT that twisted government and business that really want to continue with business as usualthe quotes below will provide some ideas on what constitutes sustainable development and sustainability 
+SENTENCE that sustainability has been hijacked and twisted to suit government and business that really want to continue with business as usualthe quotes below will provide some ideas on what constitutes sustainable development and sustainability 
+SUBJECT sustainability 
+PREDICATE will continue 
+OBJECT to grow in order to meet these unique needssustainability is truly interdisciplinary and can be found under the umbrella of such disciplines as planning agriculture business law engineering technology environmental sciences environmental studies and biology 
+SENTENCE sustainability will continue to grow in order to meet these unique needssustainability is truly interdisciplinary and can be found under the umbrella of such disciplines as planning agriculture business law engineering technology environmental sciences environmental studies and biology 
+SUBJECT sustainability 
+PREDICATE will continue to grow 
+OBJECT in order to meet these unique needssustainability is truly interdisciplinary and can be found under the umbrella of such disciplines as planning agriculture business law engineering technology environmental sciences environmental studies and biology 
+SENTENCE sustainability will continue to grow in order to meet these unique needssustainability is truly interdisciplinary and can be found under the umbrella of such disciplines as planning agriculture business law engineering technology environmental sciences environmental studies and biology 
+SUBJECT sustainability 
+PREDICATE will continue in to meet 
+OBJECT to grow order these unique needssustainability is truly interdisciplinary and can be found under the umbrella of such disciplines as planning agriculture business law engineering technology environmental sciences environmental studies and biology 
+SENTENCE sustainability will continue to grow in order to meet these unique needssustainability is truly interdisciplinary and can be found under the umbrella of such disciplines as planning agriculture business law engineering technology environmental sciences environmental studies and biology 
+SUBJECT sustainability these unique needssustainability 
+PREDICATE will continue truly interdisciplinary and 
+OBJECT to grow in order to meet is can be found under the umbrella of such disciplines as planning agriculture business law engineering technology environmental sciences environmental studies and biology 
+SENTENCE sustainability will continue to grow in order to meet these unique needssustainability is truly interdisciplinary and can be found under the umbrella of such disciplines as planning agriculture business law engineering technology environmental sciences environmental studies and biology 
+SUBJECT societal r esponses policy guided by sustainability indicators 
+PREDICATE can be introduced at has developed in 
+OBJECT any stage of this sequence of eventsthe united nations extensive sustainability measurement tools relation to sustainable development as well as a system of integrated environmental and economic accounting 
+SENTENCE societal r esponses policy guided by sustainability indicators can be introduced at any stage of this sequence of eventsthe united nations has developed extensive sustainability measurement tools in relation to sustainable development as well as a system of integrated environmental and economic accounting 
+SUBJECT a sustainability 
+PREDICATE focused 
+OBJECT degree is available at the associates bachelor s master s and doctoral levels 
+SENTENCE a sustainability focused degree is available at the associates bachelor s master s and doctoral levels 
+SUBJECT societal r esponses policy guided by sustainability indicators 
+PREDICATE can be introduced at 
+OBJECT any stage of this sequence of eventsthe united nations 
+SENTENCE societal r esponses policy guided by sustainability indicators can be introduced at any stage of this sequence of eventsthe united nations 
+SUBJECT lab technology etc degree bachelor of science in sustainabilityprogram focus sustainability studies and sciencestudy options traditional and onlineprogram overview 
+PREDICATE includes 
+OBJECT linking concepts to realworld problemsdegree bachelor of arts in sustainabilityprogram focus sustainability studies and sciencestudy options traditional and onlineschool website http wwwusdeduartsandsciencessustainabilityindexcfmprogram overview the program offers a solid foundation for students to understand current issues within the sustainability field and the problem solving skills to address themability to choose concentration yes with choices between natural sciences or social sciencescourse requirements 
+SENTENCE lab technology etc degree bachelor of science in sustainabilityprogram focus sustainability studies and sciencestudy options traditional and onlineprogram overview includes linking concepts to realworld problemsdegree bachelor of arts in sustainabilityprogram focus sustainability studies and sciencestudy options traditional and onlineschool website http wwwusdeduartsandsciencessustainabilityindexcfmprogram overview the program offers a solid foundation for students to understand current issues within the sustainability field and the problem solving skills to address themability to choose concentration yes with choices between natural sciences or social sciencescourse requirements 
+SUBJECT lab technology etc degree bachelor of science in sustainabilityprogram focus sustainability studies and sciencestudy options traditional and onlineprogram overview 
+PREDICATE includes linking 
+OBJECT concepts to realworld problemsdegree bachelor of arts in sustainabilityprogram focus sustainability studies and sciencestudy options traditional and onlineschool website http wwwusdeduartsandsciencessustainabilityindexcfmprogram overview the program offers a solid foundation for students to understand current issues within the sustainability field and the problem solving skills to address themability to choose concentration yes with choices between natural sciences or social sciencescourse requirements 
+SENTENCE lab technology etc degree bachelor of science in sustainabilityprogram focus sustainability studies and sciencestudy options traditional and onlineprogram overview includes linking concepts to realworld problemsdegree bachelor of arts in sustainabilityprogram focus sustainability studies and sciencestudy options traditional and onlineschool website http wwwusdeduartsandsciencessustainabilityindexcfmprogram overview the program offers a solid foundation for students to understand current issues within the sustainability field and the problem solving skills to address themability to choose concentration yes with choices between natural sciences or social sciencescourse requirements 
+SUBJECT sustainability as its own discipline most degree programs 
+PREDICATE relatively new and are offered in 
+OBJECT is a traditional or combined traditional and online environment 
+SENTENCE sustainability as its own discipline is relatively new and most degree programs are offered in a traditional or combined traditional and online environment 
+SUBJECT sustainability 
+PREDICATE can broken down into 
+OBJECT specialties such as business operations agriculture and government operations 
+SENTENCE sustainability can broken down into specialties such as business operations agriculture and government operations 
+SUBJECT that sustainable food management 
+PREDICATE protects 
+OBJECT water resources 
+SENTENCE that sustainable food management protects water resources 
+SUBJECT lab technology etc degree masters of arts in biological sciences global sustainability program focus sustainability studies and sciencestudy options traditional and onlineschool website http webccsueducatalogmasterdegreeprogramscourse requirements this degree 
+PREDICATE requires 
+OBJECT credits towards the majoradmission requirements the admission requirements include providing collegiate transcripts narrative personal statement letters of recommendation evaluation and application for admission 
+SENTENCE lab technology etc degree masters of arts in biological sciences global sustainability program focus sustainability studies and sciencestudy options traditional and onlineschool website http webccsueducatalogmasterdegreeprogramscourse requirements this degree requires credits towards the majoradmission requirements the admission requirements include providing collegiate transcripts narrative personal statement letters of recommendation evaluation and application for admission 
+SUBJECT lab technology etc degree masters of arts in biological sciences global sustainability program focus sustainability studies and sciencestudy options traditional and onlineschool website http webccsueducatalogmasterdegreeprogramscourse requirements 
+PREDICATE this degree requires 
+OBJECT credits towards the majoradmission requirements the admission requirements include providing collegiate transcripts narrative personal statement letters of recommendation evaluation and application for admission 
+SENTENCE lab technology etc degree masters of arts in biological sciences global sustainability program focus sustainability studies and sciencestudy options traditional and onlineschool website http webccsueducatalogmasterdegreeprogramscourse requirements this degree requires credits towards the majoradmission requirements the admission requirements include providing collegiate transcripts narrative personal statement letters of recommendation evaluation and application for admission 
+SUBJECT lab technology etc degree masters of arts in biological sciences global sustainability program focus sustainability studies and sciencestudy options traditional and onlineschool website http webccsueducatalogmasterdegreeprogramscourse requirements this degree credits towards the majoradmission requirements the admission requirements 
+PREDICATE requires include 
+OBJECT providing collegiate transcripts narrative personal statement letters of recommendation evaluation and application for admission 
+SENTENCE lab technology etc degree masters of arts in biological sciences global sustainability program focus sustainability studies and sciencestudy options traditional and onlineschool website http webccsueducatalogmasterdegreeprogramscourse requirements this degree requires credits towards the majoradmission requirements the admission requirements include providing collegiate transcripts narrative personal statement letters of recommendation evaluation and application for admission 
+SUBJECT the cost associated with sustainability degrees and certificates 
+PREDICATE range from to 
+OBJECT a year over a year depending on the school and degree being sought 
+SENTENCE the cost associated with sustainability degrees and certificates range from a year to over a year depending on the school and degree being sought 
+SUBJECT the cost associated with sustainability degrees and certificates 
+PREDICATE range from to depending on 
+OBJECT a year over a year the school and degree being sought 
+SENTENCE the cost associated with sustainability degrees and certificates range from a year to over a year depending on the school and degree being sought 
+SUBJECT a sustainable economy world population 
+PREDICATE will have 
+OBJECT to be reduced by twothirds 
+SENTENCE a sustainable economy world population will have to be reduced by twothirds 
+SUBJECT a sustainable economy world population 
+PREDICATE will have to be reduced by 
+OBJECT twothirds 
+SENTENCE a sustainable economy world population will have to be reduced by twothirds 
+SUBJECT lab technology etc may not be includeddegree masters of arts in sustainability studiesprogram focus sustainability studies and sciencestudy options traditional and onlineschool website http webccsueducatalogmasterdegreeprogramsprogram overview 
+PREDICATE combines in 
+OBJECT natural sciences social sciences and business order for students to be able to identify problems and offer solutions to advance the field of sustainabilityability to choose concentration yescourse requirements this degree consist of courses towards the major 
+SENTENCE lab technology etc may not be includeddegree masters of arts in sustainability studiesprogram focus sustainability studies and sciencestudy options traditional and onlineschool website http webccsueducatalogmasterdegreeprogramsprogram overview combines natural sciences social sciences and business in order for students to be able to identify problems and offer solutions to advance the field of sustainabilityability to choose concentration yescourse requirements this degree consist of courses towards the major 
+SUBJECT lab technology etc may not be includeddegree masters of arts in sustainability studiesprogram focus sustainability studies and sciencestudy options traditional and onlineschool website http webccsueducatalogmasterdegreeprogramsprogram overview 
+PREDICATE combines in to able 
+OBJECT natural sciences social sciences and business order for students be to identify problems and offer solutions to advance the field of sustainabilityability to choose concentration yescourse requirements this degree consist of courses towards the major 
+SENTENCE lab technology etc may not be includeddegree masters of arts in sustainability studiesprogram focus sustainability studies and sciencestudy options traditional and onlineschool website http webccsueducatalogmasterdegreeprogramsprogram overview combines natural sciences social sciences and business in order for students to be able to identify problems and offer solutions to advance the field of sustainabilityability to choose concentration yescourse requirements this degree consist of courses towards the major 
+SUBJECT that sustainability 
+PREDICATE implies 
+OBJECT responsible and proactive decisionmaking and innovation that minimizes negative impact and maintains balance between ecological resilience economic prosperity political justice and cultural vibrancy to ensure a desirable planet for all species now and in the future 
+SENTENCE that sustainability implies responsible and proactive decisionmaking and innovation that minimizes negative impact and maintains balance between ecological resilience economic prosperity political justice and cultural vibrancy to ensure a desirable planet for all species now and in the future 
+SUBJECT learning for a sustainable future teacher centre that seldom 
+PREDICATE the first and problem gets addressed 
+OBJECT perhaps most difficult one 
+SENTENCE learning for a sustainable future teacher centre the first and perhaps most difficult problem one that seldom gets addressed 
+SUBJECT learning for a sustainable future teacher centre the first and perhaps most difficult problem one that seldom gets addressed that 
+PREDICATE the time a sustainable society endures for 
+OBJECT is one a decade a human lifetime or a thousand years 
+SENTENCE learning for a sustainable future teacher centre the first and perhaps most difficult problem one that seldom gets addressed is the time a sustainable society one that endures for a decade a human lifetime or a thousand years 
+SUBJECT both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city 
+PREDICATE makes 
+OBJECT the most of epa s assistancethe iowa community that took most advantage of these resources was iowa city the state s fourth largest city and home to the university of iowa and a major medical center 
+SENTENCE both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city makes the most of epa s assistancethe iowa community that took most advantage of these resources was iowa city the state s fourth largest city and home to the university of iowa and a major medical center 
+SUBJECT both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city 
+PREDICATE makes the most of 
+OBJECT epa s assistancethe iowa community that took most advantage of these resources was iowa city the state s fourth largest city and home to the university of iowa and a major medical center 
+SENTENCE both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city makes the most of epa s assistancethe iowa community that took most advantage of these resources was iowa city the state s fourth largest city and home to the university of iowa and a major medical center 
+SUBJECT lab technology etc degree doctoral degree in sustainable developmentprogram focus urban studies and planningstudy options traditionalschool website https sipacolumbiaeduacademicsprogramsphdinsustainabledevelopmentprogram overview the focus of this program 
+PREDICATE is 
+OBJECT to provide the skills necessary for students to pursue policy and research opportunities within the sustainability fieldability to choose concentration yes 
+SENTENCE lab technology etc degree doctoral degree in sustainable developmentprogram focus urban studies and planningstudy options traditionalschool website https sipacolumbiaeduacademicsprogramsphdinsustainabledevelopmentprogram overview the focus of this program is to provide the skills necessary for students to pursue policy and research opportunities within the sustainability fieldability to choose concentration yes 
+SUBJECT both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city the state s 
+PREDICATE makes iowa city fourth city and 
+OBJECT the most of epa s assistancethe iowa community that took most advantage of these resources was largest home to the university of iowa and a major medical center 
+SENTENCE both provided funding to bring in technical experts on economic development transportation planning and sustainable urban designiowa city makes the most of epa s assistancethe iowa community that took most advantage of these resources was iowa city the state s fourth largest city and home to the university of iowa and a major medical center 
+SUBJECT lab technology etc degree doctoral degree in sustainable developmentprogram focus urban studies and planningstudy options traditionalschool website https sipacolumbiaeduacademicsprogramsphdinsustainabledevelopmentprogram overview the focus of this program 
+PREDICATE is to provide 
+OBJECT the skills necessary for students to pursue policy and research opportunities within the sustainability fieldability to choose concentration yes 
+SENTENCE lab technology etc degree doctoral degree in sustainable developmentprogram focus urban studies and planningstudy options traditionalschool website https sipacolumbiaeduacademicsprogramsphdinsustainabledevelopmentprogram overview the focus of this program is to provide the skills necessary for students to pursue policy and research opportunities within the sustainability fieldability to choose concentration yes 
+SUBJECT a positive impact on the worldgraduates of mba programs in sustainability and environmental compliance 
+PREDICATE get in 
+OBJECT a firm foundation business administration 
+SENTENCE a positive impact on the worldgraduates of mba programs in sustainability and environmental compliance get a firm foundation in business administration 
+SUBJECT become a sustainability specialist turf scientists 
+PREDICATE are educated 
+OBJECT ground keeping specialists that maintain huge expanses of grass across the seasons 
+SENTENCE become a sustainability specialist turf scientists are educated ground keeping specialists that maintain huge expanses of grass across the seasons 
+SUBJECT sustainability and green jobs that 
+PREDICATE a growing industry is taking by 
+OBJECT are the country storm 
+SENTENCE sustainability and green jobs are a growing industry that is taking the country by storm 
+SUBJECT sustainability 
+PREDICATE isn 
+OBJECT t part of our work it s a guiding influence for all of our work 
+SENTENCE sustainability isn t part of our work it s a guiding influence for all of our work 
+SUBJECT the dorset education for sustainability network a sustainable future is one a healthy environment economic prosperity and social justice 
+PREDICATE are pursued simultaneously 
+OBJECT in which to ensure the wellbeing and quality of life of present and future generations 
+SENTENCE the dorset education for sustainability network a sustainable future is one in which a healthy environment economic prosperity and social justice are pursued simultaneously to ensure the wellbeing and quality of life of present and future generations 
+SUBJECT the dorset education for sustainability network a sustainable future is one a healthy environment economic prosperity and social justice 
+PREDICATE are pursued simultaneously to ensure 
+OBJECT in which the wellbeing and quality of life of present and future generations 
+SENTENCE the dorset education for sustainability network a sustainable future is one in which a healthy environment economic prosperity and social justice are pursued simultaneously to ensure the wellbeing and quality of life of present and future generations 
+SUBJECT sustainability 
+PREDICATE is 
+OBJECT something everyone can work towards whether it is picking up garbage you see on the street or boycotting a company that practices environmentally harmful business methods we all can make a difference 
+SENTENCE sustainability is something everyone can work towards whether it is picking up garbage you see on the street or boycotting a company that practices environmentally harmful business methods we all can make a difference 
+SUBJECT un decade of education for sustainable development the overall goal of the un decade of education 
+PREDICATE is 
+OBJECT for sustainable development desd to integrate the principles values and practices of sustainable development into all aspects of education and learning 
+SENTENCE un decade of education for sustainable development the overall goal of the un decade of education for sustainable development desd is to integrate the principles values and practices of sustainable development into all aspects of education and learning 
+SUBJECT un decade of education for sustainable development the overall goal of the un decade of education 
+PREDICATE is to integrate into 
+OBJECT for sustainable development desd the principles values and practices of sustainable development all aspects of education and learning 
+SENTENCE un decade of education for sustainable development the overall goal of the un decade of education for sustainable development desd is to integrate the principles values and practices of sustainable development into all aspects of education and learning 
+SUBJECT the concept of sustainable development 
+PREDICATE at can be interpreted in but at 
+OBJECT the heart of government policy many different ways its core is an approach to development that looks to balance different and often competing needs against an awareness of the environmental social and economic limitations we face as a societyall too often development is driven by one particular need without fully considering the wider or future impacts 
+SENTENCE at the heart of government policy the concept of sustainable development can be interpreted in many different ways but at its core is an approach to development that looks to balance different and often competing needs against an awareness of the environmental social and economic limitations we face as a societyall too often development is driven by one particular need without fully considering the wider or future impacts 
+SUBJECT many sustainability careers 
+PREDICATE in are often focused on 
+OBJECT fact helping organizations and companies run more efficiently thereby increasing their profits pleasing their customer base and creating a sense of well being among the communitythe employment conditions in sustainability careers and other green jobs vary considerably from position to position 
+SENTENCE in fact many sustainability careers are often focused on helping organizations and companies run more efficiently thereby increasing their profits pleasing their customer base and creating a sense of well being among the communitythe employment conditions in sustainability careers and other green jobs vary considerably from position to position 
+SUBJECT many sustainability careers 
+PREDICATE in are often focused on helping 
+OBJECT fact organizations and companies run more efficiently thereby increasing their profits pleasing their customer base and creating a sense of well being among the communitythe employment conditions in sustainability careers and other green jobs vary considerably from position to position 
+SENTENCE in fact many sustainability careers are often focused on helping organizations and companies run more efficiently thereby increasing their profits pleasing their customer base and creating a sense of well being among the communitythe employment conditions in sustainability careers and other green jobs vary considerably from position to position 
+SUBJECT the concept of sustainable development 
+PREDICATE at can be interpreted in many different ways but at 
+OBJECT the heart of government policy its core is an approach to development that looks to balance different and often competing needs against an awareness of the environmental social and economic limitations we face as a societyall too often development is driven by one particular need without fully considering the wider or future impacts 
+SENTENCE at the heart of government policy the concept of sustainable development can be interpreted in many different ways but at its core is an approach to development that looks to balance different and often competing needs against an awareness of the environmental social and economic limitations we face as a societyall too often development is driven by one particular need without fully considering the wider or future impacts 
+SUBJECT this industry addresses a diverse amount of issues one sustainability worker 
+PREDICATE because may work in 
+OBJECT an office while another may work in a more industrial environment while yet another may spend the majority of their time outdoors 
+SENTENCE because this industry addresses a diverse amount of issues one sustainability worker may work in an office while another may work in a more industrial environment while yet another may spend the majority of their time outdoors 
+SUBJECT this industry addresses a diverse amount of issues one sustainability worker another 
+PREDICATE because may work in while may work in 
+OBJECT an office a more industrial environment while yet another may spend the majority of their time outdoors 
+SENTENCE because this industry addresses a diverse amount of issues one sustainability worker may work in an office while another may work in a more industrial environment while yet another may spend the majority of their time outdoors 
+SUBJECT this industry addresses one sustainability worker 
+PREDICATE because a diverse amount of may work in 
+OBJECT issues an office while another may work in a more industrial environment while yet another may spend the majority of their time outdoors 
+SENTENCE because this industry addresses a diverse amount of issues one sustainability worker may work in an office while another may work in a more industrial environment while yet another may spend the majority of their time outdoors 
+SUBJECT the resiliency of an ecosystem and its sustainability 
+PREDICATE thereby can be reasonably measured at 
+OBJECT junctures or events where the combination of naturally occurring regenerative forces solar energy water soil atmosphere vegetation and biomass interact with the energy released into the ecosystem from disturbances 
+SENTENCE the resiliency of an ecosystem and thereby its sustainability can be reasonably measured at junctures or events where the combination of naturally occurring regenerative forces solar energy water soil atmosphere vegetation and biomass interact with the energy released into the ecosystem from disturbances 
+SUBJECT specific types of sustainability 
+PREDICATE include 
+OBJECT sustainable agriculture sustainable architecture or ecological economics 
+SENTENCE specific types of sustainability include sustainable agriculture sustainable architecture or ecological economics 
+SUBJECT a practical view of sustainability that 
+PREDICATE closed systems maintain indefinitely by 
+OBJECT is processes of productivity replacing resources used by actions of people with resources of equal or greater value by those same people without degrading or endangering natural biotic systems 
+SENTENCE a practical view of sustainability is closed systems that maintain processes of productivity indefinitely by replacing resources used by actions of people with resources of equal or greater value by those same people without degrading or endangering natural biotic systems 
+SUBJECT sustainability that 
+PREDICATE a burgeoning industry is growing as 
+OBJECT is technology advances and the world s usual natural resources become more and more scarce 
+SENTENCE sustainability is a burgeoning industry that is growing as technology advances and the world s usual natural resources become more and more scarce 
+SUBJECT green jobs and careers in sustainability 
+PREDICATE are also beginning 
+OBJECT to replace jobs that once existed in nowdead industries resulting in a rapid growth rateuse the search box below to find all the sustainable and green job listings in our job boardpost to environmentalscienceorg and job boards with one submissionas our population becomes more environmentally aware a host of job opportunities in the sustainability and green jobs industry are becoming available 
+SENTENCE green jobs and careers in sustainability are also beginning to replace jobs that once existed in nowdead industries resulting in a rapid growth rateuse the search box below to find all the sustainable and green job listings in our job boardpost to environmentalscienceorg and job boards with one submissionas our population becomes more environmentally aware a host of job opportunities in the sustainability and green jobs industry are becoming available 
+SUBJECT green jobs and careers in sustainability 
+PREDICATE are also beginning to replace 
+OBJECT jobs that once existed in nowdead industries resulting in a rapid growth rateuse the search box below to find all the sustainable and green job listings in our job boardpost to environmentalscienceorg and job boards with one submissionas our population becomes more environmentally aware a host of job opportunities in the sustainability and green jobs industry are becoming available 
+SENTENCE green jobs and careers in sustainability are also beginning to replace jobs that once existed in nowdead industries resulting in a rapid growth rateuse the search box below to find all the sustainable and green job listings in our job boardpost to environmentalscienceorg and job boards with one submissionas our population becomes more environmentally aware a host of job opportunities in the sustainability and green jobs industry are becoming available 
+SUBJECT shall the federal chief sustainability officer 
+PREDICATE include referenced in and 
+OBJECT section of this order and agency chief sustainability officers designated under sections and of this order b in coordination with the director of omb review approve agencywide scope and and scope greenhouse gas emissions reduction targets developed under section of this order c in coordination with the director of omb prepare streamlined reporting metrics to determine each agency s progress under sections and of this order d review and evaluate each agency s plan prepared under section of this order e within days of the date of this order and thereafter as necessary after consultation with the director of omb issue implementing instructions or other guidance to direct agency implementation of this order other than instructions within the authority of the director of omb to issue under section of this order f within days of the date of this order prepare and issue revised guiding principles for both new and existing federal buildings including consideration of climate change resilience and employee and visitor wellness g revise as necessary and in coordination with the director of omb existing ceq guidance and as supplemented on october federal greenhouse gas accounting and reporting guidance revision of june and federal agency implementation of water efficiency and management provisions of executive order of july h within days of the date of this order prepare and issue guidance to assist agencies in the implementation of section of this order i identify annually based on total contract spending in the previous fiscal year as reported in the federal procurement data system the seven largest federal procuring agencies responsible for implementation of section b of this order j administer a presidential leadership award program to recognize exceptional and outstanding performance and excellence in agency efforts to implement this order and k establish and disband as appropriate temporary interagency working groups to provide recommendations to the chair of ceq associated with the goals of this order including gridbased green power data quality collection and reporting greenhouse gas emissions associated with the transportation of federal freight and cargo sustainability considerations in resilience planning agency supply chain climate vulnerability recycled content paper green infrastructure and carbon uptake accounting and wood productssec 
+SENTENCE shall include the federal chief sustainability officer referenced in section of this order and agency chief sustainability officers designated under sections and of this order b in coordination with the director of omb review and approve agencywide scope and and scope greenhouse gas emissions reduction targets developed under section of this order c in coordination with the director of omb prepare streamlined reporting metrics to determine each agency s progress under sections and of this order d review and evaluate each agency s plan prepared under section of this order e within days of the date of this order and thereafter as necessary after consultation with the director of omb issue implementing instructions or other guidance to direct agency implementation of this order other than instructions within the authority of the director of omb to issue under section of this order f within days of the date of this order prepare and issue revised guiding principles for both new and existing federal buildings including consideration of climate change resilience and employee and visitor wellness g revise as necessary and in coordination with the director of omb existing ceq guidance and as supplemented on october federal greenhouse gas accounting and reporting guidance revision of june and federal agency implementation of water efficiency and management provisions of executive order of july h within days of the date of this order prepare and issue guidance to assist agencies in the implementation of section of this order i identify annually based on total contract spending in the previous fiscal year as reported in the federal procurement data system the seven largest federal procuring agencies responsible for implementation of section b of this order j administer a presidential leadership award program to recognize exceptional and outstanding performance and excellence in agency efforts to implement this order and k establish and disband as appropriate temporary interagency working groups to provide recommendations to the chair of ceq associated with the goals of this order including gridbased green power data quality collection and reporting greenhouse gas emissions associated with the transportation of federal freight and cargo sustainability considerations in resilience planning agency supply chain climate vulnerability recycled content paper green infrastructure and carbon uptake accounting and wood productssec 
+SUBJECT the federal chief sustainability officer 
+PREDICATE referenced in and 
+OBJECT section of this order and agency chief sustainability officers designated under sections and of this order b in coordination with the director of omb review approve agencywide scope and and scope greenhouse gas emissions reduction targets developed under section of this order c in coordination with the director of omb prepare streamlined reporting metrics to determine each agency s progress under sections and of this order d review and evaluate each agency s plan prepared under section of this order e within days of the date of this order and thereafter as necessary after consultation with the director of omb issue implementing instructions or other guidance to direct agency implementation of this order other than instructions within the authority of the director of omb to issue under section of this order f within days of the date of this order prepare and issue revised guiding principles for both new and existing federal buildings including consideration of climate change resilience and employee and visitor wellness g revise as necessary and in coordination with the director of omb existing ceq guidance and as supplemented on october federal greenhouse gas accounting and reporting guidance revision of june and federal agency implementation of water efficiency and management provisions of executive order of july h within days of the date of this order prepare and issue guidance to assist agencies in the implementation of section of this order i identify annually based on total contract spending in the previous fiscal year as reported in the federal procurement data system the seven largest federal procuring agencies responsible for implementation of section b of this order j administer a presidential leadership award program to recognize exceptional and outstanding performance and excellence in agency efforts to implement this order and k establish and disband as appropriate temporary interagency working groups to provide recommendations to the chair of ceq associated with the goals of this order including gridbased green power data quality collection and reporting greenhouse gas emissions associated with the transportation of federal freight and cargo sustainability considerations in resilience planning agency supply chain climate vulnerability recycled content paper green infrastructure and carbon uptake accounting and wood productssec 
+SENTENCE the federal chief sustainability officer referenced in section of this order and agency chief sustainability officers designated under sections and of this order b in coordination with the director of omb review and approve agencywide scope and and scope greenhouse gas emissions reduction targets developed under section of this order c in coordination with the director of omb prepare streamlined reporting metrics to determine each agency s progress under sections and of this order d review and evaluate each agency s plan prepared under section of this order e within days of the date of this order and thereafter as necessary after consultation with the director of omb issue implementing instructions or other guidance to direct agency implementation of this order other than instructions within the authority of the director of omb to issue under section of this order f within days of the date of this order prepare and issue revised guiding principles for both new and existing federal buildings including consideration of climate change resilience and employee and visitor wellness g revise as necessary and in coordination with the director of omb existing ceq guidance and as supplemented on october federal greenhouse gas accounting and reporting guidance revision of june and federal agency implementation of water efficiency and management provisions of executive order of july h within days of the date of this order prepare and issue guidance to assist agencies in the implementation of section of this order i identify annually based on total contract spending in the previous fiscal year as reported in the federal procurement data system the seven largest federal procuring agencies responsible for implementation of section b of this order j administer a presidential leadership award program to recognize exceptional and outstanding performance and excellence in agency efforts to implement this order and k establish and disband as appropriate temporary interagency working groups to provide recommendations to the chair of ceq associated with the goals of this order including gridbased green power data quality collection and reporting greenhouse gas emissions associated with the transportation of federal freight and cargo sustainability considerations in resilience planning agency supply chain climate vulnerability recycled content paper green infrastructure and carbon uptake accounting and wood productssec 
+SUBJECT the federal chief sustainability officer 
+PREDICATE referenced in and approve 
+OBJECT section of this order and agency chief sustainability officers designated under sections and of this order b in coordination with the director of omb review agencywide scope and and scope greenhouse gas emissions reduction targets developed under section of this order c in coordination with the director of omb prepare streamlined reporting metrics to determine each agency s progress under sections and of this order d review and evaluate each agency s plan prepared under section of this order e within days of the date of this order and thereafter as necessary after consultation with the director of omb issue implementing instructions or other guidance to direct agency implementation of this order other than instructions within the authority of the director of omb to issue under section of this order f within days of the date of this order prepare and issue revised guiding principles for both new and existing federal buildings including consideration of climate change resilience and employee and visitor wellness g revise as necessary and in coordination with the director of omb existing ceq guidance and as supplemented on october federal greenhouse gas accounting and reporting guidance revision of june and federal agency implementation of water efficiency and management provisions of executive order of july h within days of the date of this order prepare and issue guidance to assist agencies in the implementation of section of this order i identify annually based on total contract spending in the previous fiscal year as reported in the federal procurement data system the seven largest federal procuring agencies responsible for implementation of section b of this order j administer a presidential leadership award program to recognize exceptional and outstanding performance and excellence in agency efforts to implement this order and k establish and disband as appropriate temporary interagency working groups to provide recommendations to the chair of ceq associated with the goals of this order including gridbased green power data quality collection and reporting greenhouse gas emissions associated with the transportation of federal freight and cargo sustainability considerations in resilience planning agency supply chain climate vulnerability recycled content paper green infrastructure and carbon uptake accounting and wood productssec 
+SENTENCE the federal chief sustainability officer referenced in section of this order and agency chief sustainability officers designated under sections and of this order b in coordination with the director of omb review and approve agencywide scope and and scope greenhouse gas emissions reduction targets developed under section of this order c in coordination with the director of omb prepare streamlined reporting metrics to determine each agency s progress under sections and of this order d review and evaluate each agency s plan prepared under section of this order e within days of the date of this order and thereafter as necessary after consultation with the director of omb issue implementing instructions or other guidance to direct agency implementation of this order other than instructions within the authority of the director of omb to issue under section of this order f within days of the date of this order prepare and issue revised guiding principles for both new and existing federal buildings including consideration of climate change resilience and employee and visitor wellness g revise as necessary and in coordination with the director of omb existing ceq guidance and as supplemented on october federal greenhouse gas accounting and reporting guidance revision of june and federal agency implementation of water efficiency and management provisions of executive order of july h within days of the date of this order prepare and issue guidance to assist agencies in the implementation of section of this order i identify annually based on total contract spending in the previous fiscal year as reported in the federal procurement data system the seven largest federal procuring agencies responsible for implementation of section b of this order j administer a presidential leadership award program to recognize exceptional and outstanding performance and excellence in agency efforts to implement this order and k establish and disband as appropriate temporary interagency working groups to provide recommendations to the chair of ceq associated with the goals of this order including gridbased green power data quality collection and reporting greenhouse gas emissions associated with the transportation of federal freight and cargo sustainability considerations in resilience planning agency supply chain climate vulnerability recycled content paper green infrastructure and carbon uptake accounting and wood productssec 
+SUBJECT sustainable development goals 
+PREDICATE are accompanied by and 
+OBJECT targets will be further elaborated through indicators focused on measurable outcomes 
+SENTENCE sustainable development goals are accompanied by targets and will be further elaborated through indicators focused on measurable outcomes 
+SUBJECT will be reduceda sustainable development approach 
+PREDICATE can bring in to 
+OBJECT many benefits the short medium term for example savings as a result of sdc scrutiny government 
+SENTENCE will be reduceda sustainable development approach can bring many benefits in the short to medium term for example savings as a result of sdc scrutiny government 
+SUBJECT this nt will be reduceda sustainable development approach 
+PREDICATE does mean can bring in to 
+OBJECT our quality of life many benefits the short medium term for example savings as a result of sdc scrutiny government has saved over by improving efficiency across its estatehealth transport instead of driving switching to walking or cycling for short journeys will save you money improve your health 
+SENTENCE this does nt mean our quality of life will be reduceda sustainable development approach can bring many benefits in the short to medium term for example savings as a result of sdc scrutiny government has saved over by improving efficiency across its estatehealth transport instead of driving switching to walking or cycling for short journeys will save you money improve your health 
+SUBJECT most senior sustainability professionals 
+PREDICATE however will be asked 
+OBJECT to perform the following tasks at some point in their career find you green job now there are many different career options in the sustainability and green jobs industry 
+SENTENCE however most senior sustainability professionals will be asked to perform the following tasks at some point in their career find you green job now there are many different career options in the sustainability and green jobs industry 
+SUBJECT most senior sustainability professionals 
+PREDICATE however will be asked to perform at 
+OBJECT the following tasks some point in their career find you green job now there are many different career options in the sustainability and green jobs industry 
+SENTENCE however most senior sustainability professionals will be asked to perform the following tasks at some point in their career find you green job now there are many different career options in the sustainability and green jobs industry 
+SUBJECT sustainable development 
+PREDICATE provides 
+OBJECT an approach to making better decisions on the issues that affect all of our lives 
+SENTENCE sustainable development provides an approach to making better decisions on the issues that affect all of our lives 
+SUBJECT sustainable development 
+PREDICATE provides an approach to 
+OBJECT making better decisions on the issues that affect all of our lives 
+SENTENCE sustainable development provides an approach to making better decisions on the issues that affect all of our lives 
+SUBJECT the report of the intergovernmental committee of experts on sustainable development financing 
+PREDICATE will propose 
+OBJECT options for a sustainable development financing strategy 
+SENTENCE the report of the intergovernmental committee of experts on sustainable development financing will propose options for a sustainable development financing strategy 
+SUBJECT the federal chief sustainability officer 
+PREDICATE in shall a monitor and and 
+OBJECT implementing the policy set forth in section of this order progress advise the chair of ceq on agency goals in sections and of this order b chair convene preside at quarterly meetings determine the agenda and direct the work of the steering committee c lead the development of programs and policies to assist agencies in implementing the goals of this order in coordination with doe epa the general services administration gsa and other agencies as appropriate d coordinate and provide direction to relevant existing workgroups through quarterly meetings to ensure that opportunities for improvement in implementation of this order are identified and addressed and e advise the chair of ceq on the implementation of this ordersec 
+SENTENCE in implementing the policy set forth in section of this order the federal chief sustainability officer shall a monitor progress and advise the chair of ceq on agency goals in sections and of this order b chair convene and preside at quarterly meetings determine the agenda and direct the work of the steering committee c lead the development of programs and policies to assist agencies in implementing the goals of this order in coordination with doe epa the general services administration gsa and other agencies as appropriate d coordinate and provide direction to relevant existing workgroups through quarterly meetings to ensure that opportunities for improvement in implementation of this order are identified and addressed and e advise the chair of ceq on the implementation of this ordersec 
+SUBJECT the federal chief sustainability officer 
+PREDICATE in shall a monitor progress and and 
+OBJECT implementing the policy set forth in section of this order advise the chair of ceq on agency goals in sections and of this order b chair convene preside at quarterly meetings determine the agenda and direct the work of the steering committee c lead the development of programs and policies to assist agencies in implementing the goals of this order in coordination with doe epa the general services administration gsa and other agencies as appropriate d coordinate and provide direction to relevant existing workgroups through quarterly meetings to ensure that opportunities for improvement in implementation of this order are identified and addressed and e advise the chair of ceq on the implementation of this ordersec 
+SENTENCE in implementing the policy set forth in section of this order the federal chief sustainability officer shall a monitor progress and advise the chair of ceq on agency goals in sections and of this order b chair convene and preside at quarterly meetings determine the agenda and direct the work of the steering committee c lead the development of programs and policies to assist agencies in implementing the goals of this order in coordination with doe epa the general services administration gsa and other agencies as appropriate d coordinate and provide direction to relevant existing workgroups through quarterly meetings to ensure that opportunities for improvement in implementation of this order are identified and addressed and e advise the chair of ceq on the implementation of this ordersec 
+SUBJECT the federal chief sustainability officer 
+PREDICATE in implementing shall a monitor and and 
+OBJECT the policy set forth in section of this order progress advise the chair of ceq on agency goals in sections and of this order b chair convene preside at quarterly meetings determine the agenda and direct the work of the steering committee c lead the development of programs and policies to assist agencies in implementing the goals of this order in coordination with doe epa the general services administration gsa and other agencies as appropriate d coordinate and provide direction to relevant existing workgroups through quarterly meetings to ensure that opportunities for improvement in implementation of this order are identified and addressed and e advise the chair of ceq on the implementation of this ordersec 
+SENTENCE in implementing the policy set forth in section of this order the federal chief sustainability officer shall a monitor progress and advise the chair of ceq on agency goals in sections and of this order b chair convene and preside at quarterly meetings determine the agenda and direct the work of the steering committee c lead the development of programs and policies to assist agencies in implementing the goals of this order in coordination with doe epa the general services administration gsa and other agencies as appropriate d coordinate and provide direction to relevant existing workgroups through quarterly meetings to ensure that opportunities for improvement in implementation of this order are identified and addressed and e advise the chair of ceq on the implementation of this ordersec 
+SUBJECT the chief sustainability officers 
+PREDICATE designated under and 
+OBJECT sections of this order shall be responsible for a ensuring agency policies plans and strategies implemented to achieve the goals of this order consider the role of agency regional facilities and personnel and are integrated into agency permitting and environmental review policies programs and planning b developing and implementing an agencywide strategic process that coordinates appropriate agency functions and programs to ensure that those functions and programs consider and address the goals of this order c reporting annually to the chair of ceq and director of omb a comprehensive inventory of progress towards the greenhouse gas emissions goals established in section of this order d representing the agency on the steering committee e convening quarterly meetings of agency bureaus commands or operating divisions that are responsible for the implementation of strategies necessary to meet the goals of this order f representing the agency in any requests to the chair of ceq and director of omb to amend or normalize a baseline for goals established in this order due to change of greater than percent as a result of agency space consolidation a change in mission tempo or improved data quality g providing plans including the plan prepared under section of this order reports information and assistance necessary to implement this order to the director of omb the chair of ceq and the federal chief sustainability officer and h performing such other duties relating to the implementation of this order 
+SENTENCE the chief sustainability officers designated under sections and of this order shall be responsible for a ensuring agency policies plans and strategies implemented to achieve the goals of this order consider the role of agency regional facilities and personnel and are integrated into agency permitting and environmental review policies programs and planning b developing and implementing an agencywide strategic process that coordinates appropriate agency functions and programs to ensure that those functions and programs consider and address the goals of this order c reporting annually to the chair of ceq and director of omb a comprehensive inventory of progress towards the greenhouse gas emissions goals established in section of this order d representing the agency on the steering committee e convening quarterly meetings of agency bureaus commands or operating divisions that are responsible for the implementation of strategies necessary to meet the goals of this order f representing the agency in any requests to the chair of ceq and director of omb to amend or normalize a baseline for goals established in this order due to change of greater than percent as a result of agency space consolidation a change in mission tempo or improved data quality g providing plans including the plan prepared under section of this order reports information and assistance necessary to implement this order to the director of omb the chair of ceq and the federal chief sustainability officer and h performing such other duties relating to the implementation of this order 
+SUBJECT the chief sustainability officers designated under this section and section of this order f 
+PREDICATE to include consider 
+OBJECT the development of policies to promote sustainable commuting 
+SENTENCE to include the chief sustainability officers designated under this section and section of this order f consider the development of policies to promote sustainable commuting 
+SUBJECT the chief sustainability officers designated under this section and section of this order f 
+PREDICATE consider 
+OBJECT the development of policies to promote sustainable commuting 
+SENTENCE the chief sustainability officers designated under this section and section of this order f consider the development of policies to promote sustainable commuting 
+SUBJECT the chief sustainability officers designated under this section and section of this order f 
+PREDICATE consider to promote 
+OBJECT the development of policies sustainable commuting 
+SENTENCE the chief sustainability officers designated under this section and section of this order f consider the development of policies to promote sustainable commuting 
+SUBJECT the implementation of sustainable development goals 
+PREDICATE will depend on for 
+OBJECT a global partnership sustainable development with the active engagement of governments as well as civil society the private sector and the united nations system 
+SENTENCE the implementation of sustainable development goals will depend on a global partnership for sustainable development with the active engagement of governments as well as civil society the private sector and the united nations system 
+SUBJECT the implementation of sustainable development goals 
+PREDICATE will depend on for sustainable development with 
+OBJECT a global partnership the active engagement of governments as well as civil society the private sector and the united nations system 
+SENTENCE the implementation of sustainable development goals will depend on a global partnership for sustainable development with the active engagement of governments as well as civil society the private sector and the united nations system 
+SUBJECT the circles of sustainability approach 
+PREDICATE distinguished in and 
+OBJECT four domains of economic ecological political and cultural sustainability this accord with the united nations unesco agenda in particular the agenda for culture which specifies culture as the fourth domain of sustainable development 
+SENTENCE the circles of sustainability approach distinguished four domains of economic ecological political and cultural sustainability this in accord with the united nations unesco agenda and in particular the agenda for culture which specifies culture as the fourth domain of sustainable development 
+SUBJECT human sustainability 
+PREDICATE can be achieved by 
+OBJECT attaining sustainability in all levels of the seven modalitiesintegral elements of sustainability are research and innovation activities 
+SENTENCE human sustainability can be achieved by attaining sustainability in all levels of the seven modalitiesintegral elements of sustainability are research and innovation activities 
+SUBJECT benefits which are essential for sustainable development 
+PREDICATE to provide take 
+OBJECT urgent and significant action to reduce degradation of natural habitat halt the loss of biodiversity and by protect and prevent the extinction of threatened species ensure fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to genetic resources take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products by introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control 
+SENTENCE to provide benefits which are essential for sustainable development take urgent and significant action to reduce degradation of natural habitat halt the loss of biodiversity and by protect and prevent the extinction of threatened species ensure fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to genetic resources take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products by introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control 
+SUBJECT benefits which are essential for sustainable development 
+PREDICATE take 
+OBJECT urgent and significant action to reduce degradation of natural habitat halt the loss of biodiversity and by protect and prevent the extinction of threatened species ensure fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to genetic resources take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products by introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control 
+SENTENCE benefits which are essential for sustainable development take urgent and significant action to reduce degradation of natural habitat halt the loss of biodiversity and by protect and prevent the extinction of threatened species ensure fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to genetic resources take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products by introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control 
+SUBJECT benefits which are essential for sustainable development 
+PREDICATE take urgent and action 
+OBJECT significant to reduce degradation of natural habitat halt the loss of biodiversity and by protect and prevent the extinction of threatened species ensure fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to genetic resources take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products by introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control 
+SENTENCE benefits which are essential for sustainable development take urgent and significant action to reduce degradation of natural habitat halt the loss of biodiversity and by protect and prevent the extinction of threatened species ensure fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to genetic resources take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products by introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control 
+SUBJECT benefits which are essential for sustainable development 
+PREDICATE take to reduce 
+OBJECT urgent and significant action degradation of natural habitat halt the loss of biodiversity and by protect and prevent the extinction of threatened species ensure fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to genetic resources take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products by introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control 
+SENTENCE benefits which are essential for sustainable development take urgent and significant action to reduce degradation of natural habitat halt the loss of biodiversity and by protect and prevent the extinction of threatened species ensure fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to genetic resources take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products by introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control 
+SUBJECT benefits which are essential for sustainable development 
+PREDICATE take take 
+OBJECT urgent and significant action to reduce degradation of natural habitat halt the loss of biodiversity and by protect and prevent the extinction of threatened species ensure fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to genetic resources urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products by introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control 
+SENTENCE benefits which are essential for sustainable development take urgent and significant action to reduce degradation of natural habitat halt the loss of biodiversity and by protect and prevent the extinction of threatened species ensure fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to genetic resources take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products by introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control 

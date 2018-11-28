@@ -1,0 +1,288 @@
+SUBJECT the ecological footprint measures human consumption in terms of the biologically productive land 
+PREDICATE needed 
+OBJECT to provide the resources and absorb the wastes of the average global citizen 
+SENTENCE the ecological footprint measures human consumption in terms of the biologically productive land needed to provide the resources and absorb the wastes of the average global citizen 
+SUBJECT the ecological footprint measures human consumption in terms of the biologically productive land 
+PREDICATE needed to provide and 
+OBJECT the resources absorb the wastes of the average global citizen 
+SENTENCE the ecological footprint measures human consumption in terms of the biologically productive land needed to provide the resources and absorb the wastes of the average global citizen 
+SUBJECT we humans 
+PREDICATE as can ever know 
+OBJECT what 
+SENTENCE what we as humans can ever know 
+SUBJECT which we humans 
+PREDICATE as goes far beyond as can ever know 
+OBJECT that what 
+SENTENCE as that which goes far beyond what we as humans can ever know 
+SUBJECT key resource categories relating to human needs are food energy materials and 
+PREDICATE waterin 
+OBJECT the international resource panel hosted by the united nations environment programme unep 
+SENTENCE key resource categories relating to human needs are food energy materials and waterin the international resource panel hosted by the united nations environment programme unep 
+SUBJECT the possibility that human societies will achieve environmental sustainability 
+PREDICATE despite has been and 
+OBJECT the increased popularity of the use of the term sustainability continues to be light of environmental degradation climate change overconsumption population growth and societies pursuit of unlimited economic growth in a closed system 
+SENTENCE despite the increased popularity of the use of the term sustainability the possibility that human societies will achieve environmental sustainability has been and continues to be light of environmental degradation climate change overconsumption population growth and societies pursuit of unlimited economic growth in a closed system 
+SUBJECT human societies 
+PREDICATE will achieve 
+OBJECT that environmental sustainability 
+SENTENCE that human societies will achieve environmental sustainability 
+SUBJECT the report humanity s 
+PREDICATE refers to as lifesupport system providing 
+OBJECT natural systems essential ecosystem services 
+SENTENCE the report refers to natural systems as humanity s lifesupport system providing essential ecosystem services 
+SUBJECT humanity s 
+PREDICATE lifesupport system providing 
+OBJECT essential ecosystem services 
+SENTENCE humanity s lifesupport system providing essential ecosystem services 
+SUBJECT humans and nature 
+PREDICATE can exist in 
+OBJECT under which productive harmony to support present and future generationslearn more about sustainability and how epa incorporates it into its work in the national reseach council s report sustainability and the us epathe national environmental policy act of committed the united states to sustainability declaring it a national policy to create and maintain conditions under which humans and nature can exist in productive harmony that permit fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SENTENCE under which humans and nature can exist in productive harmony to support present and future generationslearn more about sustainability and how epa incorporates it into its work in the national reseach council s report sustainability and the us epathe national environmental policy act of committed the united states to sustainability declaring it a national policy to create and maintain conditions under which humans and nature can exist in productive harmony that permit fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SUBJECT humans and nature that 
+PREDICATE to create and conditions can exist in permit 
+OBJECT maintain under which productive harmony fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SENTENCE to create and maintain conditions under which humans and nature can exist in productive harmony that permit fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SUBJECT humans and nature 
+PREDICATE can exist in 
+OBJECT under which productive harmony 
+SENTENCE under which humans and nature can exist in productive harmony 
+SUBJECT humans and nature 
+PREDICATE which can exist in 
+OBJECT under productive harmony 
+SENTENCE under which humans and nature can exist in productive harmony 
+SUBJECT humans and nature 
+PREDICATE which can exist in 
+OBJECT under productive harmony to support present and future generationslearn more about sustainability and how epa incorporates it into its work in the national reseach council s report sustainability and the us epathe national environmental policy act of committed the united states to sustainability declaring it a national policy to create and maintain conditions under which humans and nature can exist in productive harmony that permit fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SENTENCE under which humans and nature can exist in productive harmony to support present and future generationslearn more about sustainability and how epa incorporates it into its work in the national reseach council s report sustainability and the us epathe national environmental policy act of committed the united states to sustainability declaring it a national policy to create and maintain conditions under which humans and nature can exist in productive harmony that permit fulfilling the social economic and other requirements of present and future generations in the years since nepa was enacted the public s interest in sustainability has broadened 
+SUBJECT human rights 
+PREDICATE how have been addressed on 
+OBJECT previous procurements visit the responsible business case studies pagedepending on the sector certain human rights are at higher risk than others 
+SENTENCE how human rights have been addressed on previous procurements visit the responsible business case studies pagedepending on the sector certain human rights are at higher risk than others 
+SUBJECT the study of how policy or regulatory requirements affect the environment human health and economy 
+PREDICATE is also under 
+OBJECT the field of sustainability 
+SENTENCE the study of how policy or regulatory requirements affect the environment human health and economy is also under the field of sustainability 
+SUBJECT the it humans 
+PREDICATE in was estimated were using of for and 
+OBJECT that the globally available freshwater in the approximate proportion of agriculture for industry for domestic purposes with total use progressively increasing 
+SENTENCE in the it was estimated that humans were using of the globally available freshwater in the approximate proportion of for agriculture for industry and for domestic purposes with total use progressively increasing 
+SUBJECT humans 
+PREDICATE were using of for and 
+OBJECT that the globally available freshwater in the approximate proportion of agriculture for industry for domestic purposes with total use progressively increasing 
+SENTENCE that humans were using of the globally available freshwater in the approximate proportion of for agriculture for industry and for domestic purposes with total use progressively increasing 
+SUBJECT humans 
+PREDICATE were using of for agriculture for and 
+OBJECT that the globally available freshwater in the approximate proportion of industry for domestic purposes with total use progressively increasing 
+SENTENCE that humans were using of the globally available freshwater in the approximate proportion of for agriculture for industry and for domestic purposes with total use progressively increasing 
+SUBJECT humans 
+PREDICATE were using of for and domestic purposes with 
+OBJECT that the globally available freshwater in the approximate proportion of agriculture for industry for total use progressively increasing 
+SENTENCE that humans were using of the globally available freshwater in the approximate proportion of for agriculture for industry and for domestic purposes with total use progressively increasing 
+SUBJECT human sustainability 
+PREDICATE can be achieved by 
+OBJECT attaining sustainability in all levels of the seven modalitiesintegral elements of sustainability are research and innovation activities 
+SENTENCE human sustainability can be achieved by attaining sustainability in all levels of the seven modalitiesintegral elements of sustainability are research and innovation activities 
+SUBJECT a web tool that includes dosii the human wellbeing index and the environmental quality indexexecutive orders and governmentwide practices also influence epa s work 
+PREDICATE under is 
+OBJECT development 
+SENTENCE under development is a web tool that includes dosii the human wellbeing index and the environmental quality indexexecutive orders and governmentwide practices also influence epa s work 
+SUBJECT that is earth capacity to sustain human populations and consumption levels 
+PREDICATE is bound 
+OBJECT romanian american economist nicholas georgescuroegen a progenitor in economics and a paradigm founder of ecological economics has argued that the carrying capacity of earth s to decrease sometime in the future as earth s finite stock of mineral resources is presently being extracted and put to use 
+SENTENCE romanian american economist nicholas georgescuroegen a progenitor in economics and a paradigm founder of ecological economics has argued that the carrying capacity of earth that is earth s capacity to sustain human populations and consumption levels is bound to decrease sometime in the future as earth s finite stock of mineral resources is presently being extracted and put to use 
+SUBJECT one of the initial attempts to express human impact 
+PREDICATE mathematically was developed in and 
+OBJECT the is called the i pat formula 
+SENTENCE one of the initial attempts to express human impact mathematically was developed in the and is called the i pat formula 
+SUBJECT that is earth capacity to sustain human populations and consumption levels 
+PREDICATE is bound to decrease sometime in as 
+OBJECT romanian american economist nicholas georgescuroegen a progenitor in economics and a paradigm founder of ecological economics has argued that the carrying capacity of earth s the future earth s finite stock of mineral resources is presently being extracted and put to use 
+SENTENCE romanian american economist nicholas georgescuroegen a progenitor in economics and a paradigm founder of ecological economics has argued that the carrying capacity of earth that is earth s capacity to sustain human populations and consumption levels is bound to decrease sometime in the future as earth s finite stock of mineral resources is presently being extracted and put to use 
+SUBJECT it human civilisation 
+PREDICATE also acknowledges takes 
+OBJECT that resources to sustain our modern way of life 
+SENTENCE it also acknowledges that human civilisation takes resources to sustain our modern way of life 
+SUBJECT human civilisation 
+PREDICATE takes 
+OBJECT that resources to sustain our modern way of life 
+SENTENCE that human civilisation takes resources to sustain our modern way of life 
+SUBJECT human civilisation 
+PREDICATE takes resources 
+OBJECT that to sustain our modern way of life 
+SENTENCE that human civilisation takes resources to sustain our modern way of life 
+SUBJECT human civilisation 
+PREDICATE takes to sustain 
+OBJECT that resources our modern way of life 
+SENTENCE that human civilisation takes resources to sustain our modern way of life 
+SUBJECT human impacts on the earth 
+PREDICATE are demonstrated in through 
+OBJECT a general way detrimental changes in the global biogeochemical cycles of chemicals that are critical to life most notably those of water oxygen carbon nitrogen and phosphorus 
+SENTENCE human impacts on the earth are demonstrated in a general way through detrimental changes in the global biogeochemical cycles of chemicals that are critical to life most notably those of water oxygen carbon nitrogen and phosphorus 
+SUBJECT human activity 
+PREDICATE is having 
+OBJECT that a significant and escalating impact on the biodiversity of world ecosystems reducing both their resilience and biocapacity 
+SENTENCE that human activity is having a significant and escalating impact on the biodiversity of world ecosystems reducing both their resilience and biocapacity 
+SUBJECT human activity 
+PREDICATE is having a significant and impact on 
+OBJECT that escalating the biodiversity of world ecosystems reducing both their resilience and biocapacity 
+SENTENCE that human activity is having a significant and escalating impact on the biodiversity of world ecosystems reducing both their resilience and biocapacity 
+SUBJECT the plundering of the human spirit by the market place 
+PREDICATE is paralleled by 
+OBJECT the plundering of the earth by capital 
+SENTENCE the plundering of the human spirit by the market place is paralleled by the plundering of the earth by capital 
+SUBJECT humans 
+PREDICATE at now indicates are living beyond and 
+OBJECT the global scale scientific data that the carrying capacity of planet earth that this can not continue indefinitely 
+SENTENCE at the global scale scientific data now indicates that humans are living beyond the carrying capacity of planet earth and that this can not continue indefinitely 
+SUBJECT humans 
+PREDICATE are living beyond and 
+OBJECT that the carrying capacity of planet earth that this can not continue indefinitely 
+SENTENCE that humans are living beyond the carrying capacity of planet earth and that this can not continue indefinitely 
+SUBJECT humans this 
+PREDICATE are living beyond and can not continue indefinitely 
+OBJECT that the carrying capacity of planet earth that 
+SENTENCE that humans are living beyond the carrying capacity of planet earth and that this can not continue indefinitely 
+SUBJECT human factors 
+PREDICATE however have dominated since and 
+OBJECT the development of our perspective of the relationship between nature and society at least the industrial revolution in particular have influenced how we describe and measure the economic impacts of changes in resource quality 
+SENTENCE human factors however have dominated the development of our perspective of the relationship between nature and society since at least the industrial revolution and in particular have influenced how we describe and measure the economic impacts of changes in resource quality 
+SUBJECT human factors 
+PREDICATE however have dominated since and in have influenced 
+OBJECT the development of our perspective of the relationship between nature and society at least the industrial revolution particular how we describe and measure the economic impacts of changes in resource quality 
+SENTENCE human factors however have dominated the development of our perspective of the relationship between nature and society since at least the industrial revolution and in particular have influenced how we describe and measure the economic impacts of changes in resource quality 
+SUBJECT a balanced view of these issues all human ideas institutions and aspirations 
+PREDICATE requires must operate 
+OBJECT an understanding of the physical framework in which 
+SENTENCE a balanced view of these issues requires an understanding of the physical framework in which all human ideas institutions and aspirations must operate 
+SUBJECT all human ideas institutions and aspirations 
+PREDICATE must operate 
+OBJECT in which 
+SENTENCE in which all human ideas institutions and aspirations must operate 
+SUBJECT all human ideas institutions and aspirations 
+PREDICATE which must operate 
+OBJECT in 
+SENTENCE in which all human ideas institutions and aspirations must operate 
+SUBJECT human capital health and education 
+PREDICATE has not compensated for in 
+OBJECT the degradation of natural capital many parts of the world 
+SENTENCE human capital health and education has not compensated for the degradation of natural capital in many parts of the world 
+SUBJECT humanity 
+PREDICATE if is going 
+OBJECT that to survive this crisis it will do so because it has exercised its capacity for human freedom through social struggle in order to create a whole new coevolution with the planet 
+SENTENCE that if humanity is going to survive this crisis it will do so because it has exercised its capacity for human freedom through social struggle in order to create a whole new coevolution with the planet 
+SUBJECT humanity 
+PREDICATE if is going to survive 
+OBJECT that this crisis it will do so because it has exercised its capacity for human freedom through social struggle in order to create a whole new coevolution with the planet 
+SENTENCE that if humanity is going to survive this crisis it will do so because it has exercised its capacity for human freedom through social struggle in order to create a whole new coevolution with the planet 
+SUBJECT the ecological stability of human settlements 
+PREDICATE part of and built 
+OBJECT is the relationship between humans and their natural social environments 
+SENTENCE the ecological stability of human settlements is part of the relationship between humans and their natural social and built environments 
+SUBJECT the relationship between human rights and human development corporate power and environmental justice global poverty and citizen action 
+PREDICATE suggest 
+OBJECT that responsible global citizenship is an inescapable element of what may at first glance seem to be simply matters of personal consumer and moral choice 
+SENTENCE the relationship between human rights and human development corporate power and environmental justice global poverty and citizen action suggest that responsible global citizenship is an inescapable element of what may at first glance seem to be simply matters of personal consumer and moral choice 
+SUBJECT the relationship between human rights and human development corporate power and environmental justice global poverty and citizen action responsible global citizenship 
+PREDICATE suggest an inescapable element of 
+OBJECT that is what may at first glance seem to be simply matters of personal consumer and moral choice 
+SENTENCE the relationship between human rights and human development corporate power and environmental justice global poverty and citizen action suggest that responsible global citizenship is an inescapable element of what may at first glance seem to be simply matters of personal consumer and moral choice 
+SUBJECT international principles guidelines tools and global initiatives related to business and human rightsthe following table 
+PREDICATE builds upon and 
+OBJECT the resources provided in appendix a to the burma reporting requirements will incorporate additional resources as they are developed 
+SENTENCE international principles guidelines tools and global initiatives related to business and human rightsthe following table builds upon the resources provided in appendix a to the burma reporting requirements and will incorporate additional resources as they are developed 
+SUBJECT all human activities 
+PREDICATE take in and 
+OBJECT place the context of certain types of relationships between society and the biophysical world the rest of nature so there is a great significance in understanding the ethical values of different groups around the world 
+SENTENCE all human activities take place in the context of certain types of relationships between society and the biophysical world the rest of nature and so there is a great significance in understanding the ethical values of different groups around the world 
+SUBJECT all human activities 
+PREDICATE take place in and 
+OBJECT the context of certain types of relationships between society and the biophysical world the rest of nature so there is a great significance in understanding the ethical values of different groups around the world 
+SENTENCE all human activities take place in the context of certain types of relationships between society and the biophysical world the rest of nature and so there is a great significance in understanding the ethical values of different groups around the world 
+SUBJECT all human activities 
+PREDICATE take in the context of and 
+OBJECT place certain types of relationships between society and the biophysical world the rest of nature so there is a great significance in understanding the ethical values of different groups around the world 
+SENTENCE all human activities take place in the context of certain types of relationships between society and the biophysical world the rest of nature and so there is a great significance in understanding the ethical values of different groups around the world 
+SUBJECT human ecology this 
+PREDICATE broadens 
+OBJECT the focus of sustainable development to include the domain of human health 
+SENTENCE human ecology this broadens the focus of sustainable development to include the domain of human health 
+SUBJECT no agreement on the extent of the environmental impact of human activity and even scientific dishonesty 
+PREDICATE there is 
+OBJECT occurs so protection measures are occasionally debatedin industrial countries voluntary environmental agreements often provide a platform for companies to be recognized for moving beyond the minimum regulatory standards and thus support the development of best environmental practice 
+SENTENCE there is no agreement on the extent of the environmental impact of human activity and even scientific dishonesty occurs so protection measures are occasionally debatedin industrial countries voluntary environmental agreements often provide a platform for companies to be recognized for moving beyond the minimum regulatory standards and thus support the development of best environmental practice 
+SUBJECT humanity 
+PREDICATE depends on 
+OBJECT that 
+SENTENCE that humanity depends on 
+SUBJECT humans 
+PREDICATE have created as 
+OBJECT what their surroundings 
+SENTENCE what humans have created as their surroundings 
+SUBJECT humans 
+PREDICATE these things with nature and have created as 
+OBJECT what their surroundings 
+SENTENCE these things with nature and what humans have created as their surroundings 
+SUBJECT sustainability human activity 
+PREDICATE requires only uses s 
+OBJECT that nature resources at a rate at which they can be replenished naturally 
+SENTENCE sustainability requires that human activity only uses nature s resources at a rate at which they can be replenished naturally 
+SUBJECT human activity 
+PREDICATE only uses s 
+OBJECT that nature resources at a rate at which they can be replenished naturally 
+SENTENCE that human activity only uses nature s resources at a rate at which they can be replenished naturally 
+SUBJECT human activity 
+PREDICATE only uses nature s 
+OBJECT that resources at a rate at which they can be replenished naturally 
+SENTENCE that human activity only uses nature s resources at a rate at which they can be replenished naturally 
+SUBJECT human activity 
+PREDICATE only uses s resources at 
+OBJECT that nature a rate at which they can be replenished naturally 
+SENTENCE that human activity only uses nature s resources at a rate at which they can be replenished naturally 
+SUBJECT humans 
+PREDICATE must dominate 
+OBJECT that nature is common in hierarchical societies 
+SENTENCE that humans must dominate nature is common in hierarchical societies 
+SUBJECT fundamental human needs such as the availability and quality of air water food and shelter 
+PREDICATE also the ecological foundations for sustainable development addressing through 
+OBJECT are public health risk investments in ecosystem services 
+SENTENCE fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services 
+SUBJECT fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services which 
+PREDICATE can a powerful and force for in extends to 
+OBJECT be transformative sustainable development this sense all species 
+SENTENCE fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services can be a powerful and transformative force for sustainable development which in this sense extends to all species 
+SUBJECT fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services which 
+PREDICATE can a powerful and force for sustainable development in extends to 
+OBJECT be transformative this sense all species 
+SENTENCE fundamental human needs such as the availability and quality of air water food and shelter are also the ecological foundations for sustainable development addressing public health risk through investments in ecosystem services can be a powerful and transformative force for sustainable development which in this sense extends to all species 
+SUBJECT humans sakeecocentrists 
+PREDICATE believe in 
+OBJECT the intrinsic value of nature while maintaining that human beings must use and even exploit nature to survive and live 
+SENTENCE humans sakeecocentrists believe in the intrinsic value of nature while maintaining that human beings must use and even exploit nature to survive and live 
+SUBJECT humans sakeecocentrists 
+PREDICATE believe in the intrinsic value of while maintaining 
+OBJECT nature that human beings must use and even exploit nature to survive and live 
+SENTENCE humans sakeecocentrists believe in the intrinsic value of nature while maintaining that human beings must use and even exploit nature to survive and live 
+SUBJECT human beings 
+PREDICATE while maintaining must use and 
+OBJECT that even exploit nature to survive and live 
+SENTENCE while maintaining that human beings must use and even exploit nature to survive and live 
+SUBJECT human beings 
+PREDICATE must use and 
+OBJECT that even exploit nature to survive and live 
+SENTENCE that human beings must use and even exploit nature to survive and live 
+SUBJECT human beings 
+PREDICATE must use and even exploit 
+OBJECT that nature to survive and live 
+SENTENCE that human beings must use and even exploit nature to survive and live 
+SUBJECT sustainability as in effects towards human resources environment and ecology 
+PREDICATE has 
+OBJECT to be measured within each department of the company 
+SENTENCE sustainability as in effects towards human resources environment and ecology has to be measured within each department of the company 
+SUBJECT sustainability as in effects towards human resources environment and ecology 
+PREDICATE has to be measured within 
+OBJECT each department of the company 
+SENTENCE sustainability as in effects towards human resources environment and ecology has to be measured within each department of the company 
+SUBJECT many animals including human beings 
+PREDICATE would not survive without 
+OBJECT any vegetation on earth 
+SENTENCE many animals including human beings would not survive without any vegetation on earth 

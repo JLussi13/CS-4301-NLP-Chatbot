@@ -1,0 +1,152 @@
+SUBJECT that business 
+PREDICATE the world business council for sustainable development states can not succeed in 
+OBJECT societies that fail 
+SENTENCE the world business council for sustainable development states that business can not succeed in societies that fail 
+SUBJECT that business 
+PREDICATE sustainable development states can not succeed in 
+OBJECT societies that fail 
+SENTENCE sustainable development states that business can not succeed in societies that fail 
+SUBJECT that business 
+PREDICATE can not succeed in 
+OBJECT societies that fail 
+SENTENCE that business can not succeed in societies that fail 
+SUBJECT sustainable business practices on the other hand 
+PREDICATE integrate with 
+OBJECT ecological concerns social and economic ones ie the triple bottom line 
+SENTENCE sustainable business practices on the other hand integrate ecological concerns with social and economic ones ie the triple bottom line 
+SUBJECT the expansion of sustainable business opportunities 
+PREDICATE can contribute to through 
+OBJECT job creation the introduction of greencollar workers 
+SENTENCE the expansion of sustainable business opportunities can contribute to job creation through the introduction of greencollar workers 
+SUBJECT the expansion of sustainable business opportunities 
+PREDICATE can contribute to through the introduction of 
+OBJECT job creation greencollar workers 
+SENTENCE the expansion of sustainable business opportunities can contribute to job creation through the introduction of greencollar workers 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan 
+OBJECT to talk about the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan to talk about 
+OBJECT the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT international principles guidelines tools and global initiatives related to business and human rightsthe following table 
+PREDICATE builds upon and 
+OBJECT the resources provided in appendix a to the burma reporting requirements will incorporate additional resources as they are developed 
+SENTENCE international principles guidelines tools and global initiatives related to business and human rightsthe following table builds upon the resources provided in appendix a to the burma reporting requirements and will incorporate additional resources as they are developed 
+SUBJECT business 
+PREDICATE make more sustainable from 
+OBJECT withinapplicants generally need a bachelor s degree from an accredited institution to be accepted into an mba program 
+SENTENCE make business more sustainable from withinapplicants generally need a bachelor s degree from an accredited institution to be accepted into an mba program 
+SUBJECT businesses 
+PREDICATE are regulated 
+OBJECT to prevent pollution and to keep their own carbon emissions low 
+SENTENCE businesses are regulated to prevent pollution and to keep their own carbon emissions low 
+SUBJECT businesses 
+PREDICATE are regulated to prevent and 
+OBJECT pollution to keep their own carbon emissions low 
+SENTENCE businesses are regulated to prevent pollution and to keep their own carbon emissions low 
+SUBJECT business enterprises 
+PREDICATE are required 
+OBJECT that to comply with all applicable laws and respect human rights 
+SENTENCE that business enterprises are required to comply with all applicable laws and respect human rights 
+SUBJECT business enterprises 
+PREDICATE are required to comply with 
+OBJECT that all applicable laws and respect human rights 
+SENTENCE that business enterprises are required to comply with all applicable laws and respect human rights 
+SUBJECT that countries business enterprises 
+PREDICATE have and are required 
+OBJECT the obligation to respect protect and fulfill human rights and fundamental freedoms that to comply with all applicable laws and respect human rights 
+SENTENCE that countries have the obligation to respect protect and fulfill human rights and fundamental freedoms and that business enterprises are required to comply with all applicable laws and respect human rights 
+SUBJECT this responsible business conduct module 
+PREDICATE provides 
+OBJECT a framework for how best practices and resources for responsible business conduct can be incorporated within procurements 
+SENTENCE this responsible business conduct module provides a framework for how best practices and resources for responsible business conduct can be incorporated within procurements 
+SUBJECT this responsible business conduct module 
+PREDICATE provides a framework for 
+OBJECT how best practices and resources for responsible business conduct can be incorporated within procurements 
+SENTENCE this responsible business conduct module provides a framework for how best practices and resources for responsible business conduct can be incorporated within procurements 
+SUBJECT responsible business conduct 
+PREDICATE includes 
+OBJECT promoting workers rights and safe working conditions preventing human trafficking and addressing other human rightsrelated risks 
+SENTENCE responsible business conduct includes promoting workers rights and safe working conditions preventing human trafficking and addressing other human rightsrelated risks 
+SUBJECT responsible business conduct 
+PREDICATE includes promoting 
+OBJECT workers rights and safe working conditions preventing human trafficking and addressing other human rightsrelated risks 
+SENTENCE responsible business conduct includes promoting workers rights and safe working conditions preventing human trafficking and addressing other human rightsrelated risks 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan 
+OBJECT to talk about the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan to talk about 
+OBJECT the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan 
+OBJECT to talk about the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan to talk about 
+OBJECT the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT businesses 
+PREDICATE as seek 
+OBJECT to adhere to new legislation 
+SENTENCE as businesses seek to adhere to new legislation 
+SUBJECT businesses 
+PREDICATE as seek to adhere to 
+OBJECT new legislation 
+SENTENCE as businesses seek to adhere to new legislation 
+SUBJECT attempts made by businesses to greenwash their practices 
+PREDICATE are regarded as and 
+OBJECT false advertising it is pointed out that implementation of renewable technology such as walmart s proposition to supply their electricity with solar power has the effect opposite of reductions in resource consumption viz 
+SENTENCE attempts made by businesses to greenwash their practices are regarded as false advertising and it is pointed out that implementation of renewable technology such as walmart s proposition to supply their electricity with solar power has the effect opposite of reductions in resource consumption viz 
+SUBJECT attempts made by businesses to greenwash their practices it 
+PREDICATE are regarded as and is pointed out 
+OBJECT false advertising that implementation of renewable technology such as walmart s proposition to supply their electricity with solar power has the effect opposite of reductions in resource consumption viz 
+SENTENCE attempts made by businesses to greenwash their practices are regarded as false advertising and it is pointed out that implementation of renewable technology such as walmart s proposition to supply their electricity with solar power has the effect opposite of reductions in resource consumption viz 
+SUBJECT sustainable business models and the triple bottom line 
+PREDICATE are viewed as 
+OBJECT morally praiseworthy but ignorant to the tendency in capitalism for the distribution of wealth to become increasingly unequal and socially unstableunsustainable 
+SENTENCE sustainable business models and the triple bottom line are viewed as morally praiseworthy but ignorant to the tendency in capitalism for the distribution of wealth to become increasingly unequal and socially unstableunsustainable 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan 
+OBJECT to talk about the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i 
+PREDICATE plan to talk about 
+OBJECT the great work happening in communities across our nation 
+SENTENCE innovations in water protection waste disposal energy production construction and transportation present significant opportunities for new technologies green jobs and savings for families businesses and communitiesduring my time in rio i plan to talk about the great work happening in communities across our nation 
+SUBJECT however students with undergraduate degrees in business 
+PREDICATE may be exempted from 
+OBJECT these courses 
+SENTENCE however students with undergraduate degrees in business may be exempted from these courses 
+SUBJECT an extensive study by the boston consulting group reaching business leaders from diverse regions job positions expertise in sustainability industries and sizes of organizations 
+PREDICATE revealed 
+OBJECT the many benefits of sustainable practice as well as its viability 
+SENTENCE an extensive study by the boston consulting group reaching business leaders from diverse regions job positions expertise in sustainability industries and sizes of organizations revealed the many benefits of sustainable practice as well as its viability 
+SUBJECT where more than homes and almost businesses 
+PREDICATE was on were damaged or 
+OBJECT cedar rapids destroyed 
+SENTENCE was on cedar rapids where more than homes and almost businesses were damaged or destroyed 
+SUBJECT where more than homes and almost businesses 
+PREDICATE was on were damaged or destroyed 
+OBJECT cedar rapids 
+SENTENCE was on cedar rapids where more than homes and almost businesses were damaged or destroyed 
+SUBJECT a critical role to play in accelerating positive business 
+PREDICATE impactswe work with 
+OBJECT leading companies around the world and across sectors of the economysenior directortwitter linkedin directortwitter linkedin to learn more about how we can help your company please get in touch 
+SENTENCE a critical role to play in accelerating positive business impactswe work with leading companies around the world and across sectors of the economysenior directortwitter linkedin directortwitter linkedin to learn more about how we can help your company please get in touch 
+SUBJECT a critical role to play in accelerating positive business 
+PREDICATE impactswe work with to learn 
+OBJECT leading companies around the world and across sectors of the economysenior directortwitter linkedin directortwitter linkedin more about how we can help your company please get in touch 
+SENTENCE a critical role to play in accelerating positive business impactswe work with leading companies around the world and across sectors of the economysenior directortwitter linkedin directortwitter linkedin to learn more about how we can help your company please get in touch 
+SUBJECT a critical role to play in accelerating positive business 
+PREDICATE impactswe work with leading companies around and 
+OBJECT the world across sectors of the economysenior directortwitter linkedin directortwitter linkedin to learn more about how we can help your company please get in touch 
+SENTENCE a critical role to play in accelerating positive business impactswe work with leading companies around the world and across sectors of the economysenior directortwitter linkedin directortwitter linkedin to learn more about how we can help your company please get in touch 
+SUBJECT a critical role to play in accelerating positive business 
+PREDICATE have impactswe work with 
+OBJECT leading companies around the world and across sectors of the economysenior directortwitter linkedin directortwitter linkedin to learn more about how we can help your company please get in touch 
+SENTENCE have a critical role to play in accelerating positive business impactswe work with leading companies around the world and across sectors of the economysenior directortwitter linkedin directortwitter linkedin to learn more about how we can help your company please get in touch 

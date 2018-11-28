@@ -1,0 +1,88 @@
+SUBJECT a sustainable economy world population 
+PREDICATE will have 
+OBJECT to be reduced by twothirds 
+SENTENCE a sustainable economy world population will have to be reduced by twothirds 
+SUBJECT a sustainable economy world population 
+PREDICATE will have to be reduced by 
+OBJECT twothirds 
+SENTENCE a sustainable economy world population will have to be reduced by twothirds 
+SUBJECT an economy that is able to sustain gdp growth without having a negative impact on the environment 
+PREDICATE is said 
+OBJECT to be decoupled 
+SENTENCE an economy that is able to sustain gdp growth without having a negative impact on the environment is said to be decoupled 
+SUBJECT marketbased solutions to ecological crises ecological economics environmental economics green economy 
+PREDICATE are rejected as 
+OBJECT technical tweaks that do not confront capitalism s structural failures 
+SENTENCE marketbased solutions to ecological crises ecological economics environmental economics green economy are rejected as technical tweaks that do not confront capitalism s structural failures 
+SUBJECT the government and the economy 
+PREDICATE in has had but in 
+OBJECT regards of the united states of america a long lasting impact on the environment a problematic way 
+SENTENCE in regards of the united states of america the government and the economy has had a long lasting impact on the environment but in a problematic way 
+SUBJECT the government and the economy 
+PREDICATE in has had a long lasting impact on but in 
+OBJECT regards of the united states of america the environment a problematic way 
+SENTENCE in regards of the united states of america the government and the economy has had a long lasting impact on the environment but in a problematic way 
+SUBJECT this effort is a triple win for the environment economy and social wellbeing of those we 
+PREDICATE worked with are releasing 
+OBJECT who are the least fortunate among uswe numerous stakeholders to gather some of the best thinking into a resulting summary today us food loss and waste reduction goal a call to action by stakeholders 
+SENTENCE this effort is a triple win for the environment economy and social wellbeing of those who are the least fortunate among uswe worked with numerous stakeholders to gather some of the best thinking into a resulting summary we are releasing today us food loss and waste reduction goal a call to action by stakeholders 
+SUBJECT this effort is a triple win for the environment economy and social wellbeing of those 
+PREDICATE worked with 
+OBJECT who are the least fortunate among uswe numerous stakeholders to gather some of the best thinking into a resulting summary 
+SENTENCE this effort is a triple win for the environment economy and social wellbeing of those who are the least fortunate among uswe worked with numerous stakeholders to gather some of the best thinking into a resulting summary 
+SUBJECT this effort is a triple win for the environment economy and social wellbeing of those 
+PREDICATE worked with to gather into 
+OBJECT who are the least fortunate among uswe numerous stakeholders some of the best thinking a resulting summary 
+SENTENCE this effort is a triple win for the environment economy and social wellbeing of those who are the least fortunate among uswe worked with numerous stakeholders to gather some of the best thinking into a resulting summary 
+SUBJECT the government and the economy 
+PREDICATE in has had a long lasting impact on the environment but in 
+OBJECT regards of the united states of america a problematic way 
+SENTENCE in regards of the united states of america the government and the economy has had a long lasting impact on the environment but in a problematic way 
+SUBJECT the government and the economy 
+PREDICATE in regards of the united states of has had but in 
+OBJECT america a long lasting impact on the environment a problematic way 
+SENTENCE in regards of the united states of america the government and the economy has had a long lasting impact on the environment but in a problematic way 
+SUBJECT the economies of the world 
+PREDICATE to be found so can continue but not at 
+OBJECT that to grow the expense of the public good 
+SENTENCE to be found so that the economies of the world can continue to grow but not at the expense of the public good 
+SUBJECT the economies of the world 
+PREDICATE so can continue but not at 
+OBJECT that to grow the expense of the public good 
+SENTENCE so that the economies of the world can continue to grow but not at the expense of the public good 
+SUBJECT the economies of the world 
+PREDICATE so can continue to grow but not at 
+OBJECT that the expense of the public good 
+SENTENCE so that the economies of the world can continue to grow but not at the expense of the public good 
+SUBJECT the economy 
+PREDICATE functions within and 
+OBJECT is dependent upon goods and services provided by natural ecosystems 
+SENTENCE the economy functions within and is dependent upon goods and services provided by natural ecosystems 
+SUBJECT the study of how policy or regulatory requirements affect the environment human health and economy 
+PREDICATE is also under 
+OBJECT the field of sustainability 
+SENTENCE the study of how policy or regulatory requirements affect the environment human health and economy is also under the field of sustainability 
+SUBJECT the economy and society 
+PREDICATE upon depends 
+OBJECT which 
+SENTENCE upon which the economy and society depends 
+SUBJECT the economic development brought by such organized principles and practices in an economy 
+PREDICATE is called msd 
+OBJECT managed sustainable development the concept of sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SENTENCE the economic development brought by such organized principles and practices in an economy is called managed sustainable development msd the concept of sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SUBJECT the economic development brought by such organized principles and practices in an economy 
+PREDICATE is called managed sustainable development msd 
+OBJECT the concept of sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SENTENCE the economic development brought by such organized principles and practices in an economy is called managed sustainable development msd the concept of sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SUBJECT the economic development brought by such organized principles and practices in an economy 
+PREDICATE is called msd the concept of 
+OBJECT managed sustainable development sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SENTENCE the economic development brought by such organized principles and practices in an economy is called managed sustainable development msd the concept of sustainable development has still to criticism including the question of what is to be sustained in sustainable development 
+SUBJECT the modern economies 
+PREDICATE are endeavouring 
+OBJECT to reconcile ambitious economic development and obligations of preserving the natural resources and ecosystem the two are traditionally seen as of conflicting nature 
+SENTENCE the modern economies are endeavouring to reconcile ambitious economic development and obligations of preserving the natural resources and ecosystem the two are traditionally seen as of conflicting nature 
+SUBJECT the modern economies 
+PREDICATE are endeavouring to reconcile 
+OBJECT ambitious economic development and obligations of preserving the natural resources and ecosystem the two are traditionally seen as of conflicting nature 
+SENTENCE the modern economies are endeavouring to reconcile ambitious economic development and obligations of preserving the natural resources and ecosystem the two are traditionally seen as of conflicting nature 

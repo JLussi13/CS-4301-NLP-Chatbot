@@ -1,0 +1,268 @@
+SUBJECT federal leadership in energy environmental water fleet buildings and acquisition management 
+PREDICATE will continue 
+OBJECT to drive national greenhouse gas reductions and support preparations for the impacts of climate change 
+SENTENCE federal leadership in energy environmental water fleet buildings and acquisition management will continue to drive national greenhouse gas reductions and support preparations for the impacts of climate change 
+SUBJECT federal leadership in energy environmental water fleet buildings and acquisition management 
+PREDICATE will continue to drive for 
+OBJECT national greenhouse gas reductions and support preparations the impacts of climate change 
+SENTENCE federal leadership in energy environmental water fleet buildings and acquisition management will continue to drive national greenhouse gas reductions and support preparations for the impacts of climate change 
+SUBJECT the concept of circular flow land use management 
+PREDICATE has also been introduced in 
+OBJECT europe to promote sustainable land use patterns that strive for compact cities and a reduction of greenfield land take by urban sprawllarge scale social movements can influence both community choices and the built environment 
+SENTENCE the concept of circular flow land use management has also been introduced in europe to promote sustainable land use patterns that strive for compact cities and a reduction of greenfield land take by urban sprawllarge scale social movements can influence both community choices and the built environment 
+SUBJECT the concept of circular flow land use management 
+PREDICATE has also been introduced in to promote 
+OBJECT europe sustainable land use patterns that strive for compact cities and a reduction of greenfield land take by urban sprawllarge scale social movements can influence both community choices and the built environment 
+SENTENCE the concept of circular flow land use management has also been introduced in europe to promote sustainable land use patterns that strive for compact cities and a reduction of greenfield land take by urban sprawllarge scale social movements can influence both community choices and the built environment 
+SUBJECT the concept of circular flow land use management 
+PREDICATE has also been introduced in europe 
+OBJECT to promote sustainable land use patterns that strive for compact cities and a reduction of greenfield land take by urban sprawllarge scale social movements can influence both community choices and the built environment 
+SENTENCE the concept of circular flow land use management has also been introduced in europe to promote sustainable land use patterns that strive for compact cities and a reduction of greenfield land take by urban sprawllarge scale social movements can influence both community choices and the built environment 
+SUBJECT management 
+PREDICATE how can take of by 
+OBJECT advantage business opportunities going green 
+SENTENCE how management can take advantage of business opportunities by going green 
+SUBJECT management 
+PREDICATE also have on how can take advantage of by 
+OBJECT the inside track business opportunities going green 
+SENTENCE also have the inside track on how management can take advantage of business opportunities by going green 
+SUBJECT management 
+PREDICATE how can take advantage of by 
+OBJECT business opportunities going green 
+SENTENCE how management can take advantage of business opportunities by going green 
+SUBJECT management 
+PREDICATE how can take of business opportunities by 
+OBJECT advantage going green 
+SENTENCE how management can take advantage of business opportunities by going green 
+SUBJECT management 
+PREDICATE how can take of by going 
+OBJECT advantage business opportunities green 
+SENTENCE how management can take advantage of business opportunities by going green 
+SUBJECT management 
+PREDICATE also have on how can take of by 
+OBJECT the inside track advantage business opportunities going green 
+SENTENCE also have the inside track on how management can take advantage of business opportunities by going green 
+SUBJECT environmental resources management 
+PREDICATE aims 
+OBJECT to ensure that ecosystem services are protected and maintained for future human generations and also maintain ecosystem integrity through considering ethical economic and scientific ecological variables 
+SENTENCE environmental resources management aims to ensure that ecosystem services are protected and maintained for future human generations and also maintain ecosystem integrity through considering ethical economic and scientific ecological variables 
+SUBJECT environmental resources management 
+PREDICATE aims to ensure 
+OBJECT that ecosystem services are protected and maintained for future human generations and also maintain ecosystem integrity through considering ethical economic and scientific ecological variables 
+SENTENCE environmental resources management aims to ensure that ecosystem services are protected and maintained for future human generations and also maintain ecosystem integrity through considering ethical economic and scientific ecological variables 
+SUBJECT careful resource management 
+PREDICATE can be applied at 
+OBJECT many scales from economic sectors like agriculture manufacturing and industry to work organizations the consumption patterns of households and individuals and to the resource demands of individual goods and services 
+SENTENCE careful resource management can be applied at many scales from economic sectors like agriculture manufacturing and industry to work organizations the consumption patterns of households and individuals and to the resource demands of individual goods and services 
+SUBJECT careful resource management 
+PREDICATE can be applied at to work and to 
+OBJECT many scales from economic sectors like agriculture manufacturing and industry organizations the consumption patterns of households and individuals the resource demands of individual goods and services 
+SENTENCE careful resource management can be applied at many scales from economic sectors like agriculture manufacturing and industry to work organizations the consumption patterns of households and individuals and to the resource demands of individual goods and services 
+SUBJECT environmental resource management 
+PREDICATE tries 
+OBJECT to identify factors affected by conflicts that rise between meeting needs and protecting resources 
+SENTENCE environmental resource management tries to identify factors affected by conflicts that rise between meeting needs and protecting resources 
+SUBJECT environmental resource management 
+PREDICATE tries to identify 
+OBJECT factors affected by conflicts that rise between meeting needs and protecting resources 
+SENTENCE environmental resource management tries to identify factors affected by conflicts that rise between meeting needs and protecting resources 
+SUBJECT management of the global atmosphere 
+PREDICATE now involves 
+OBJECT assessment of all aspects of the carbon cycle to identify opportunities to address humaninduced climate change and this has become a major focus of scientific research because of the potential catastrophic effects on biodiversity and human communities see energy below other human impacts on the atmosphere include the air pollution in cities the pollutants including toxic chemicals like nitrogen oxides sulfur oxides volatile organic compounds and airborne particulate matter that produce photochemical smog and acid rain and the chlorofluorocarbons that degrade the ozone layer 
+SENTENCE management of the global atmosphere now involves assessment of all aspects of the carbon cycle to identify opportunities to address humaninduced climate change and this has become a major focus of scientific research because of the potential catastrophic effects on biodiversity and human communities see energy below other human impacts on the atmosphere include the air pollution in cities the pollutants including toxic chemicals like nitrogen oxides sulfur oxides volatile organic compounds and airborne particulate matter that produce photochemical smog and acid rain and the chlorofluorocarbons that degrade the ozone layer 
+SUBJECT management of the global atmosphere 
+PREDICATE now involves to identify 
+OBJECT assessment of all aspects of the carbon cycle opportunities to address humaninduced climate change and this has become a major focus of scientific research because of the potential catastrophic effects on biodiversity and human communities see energy below other human impacts on the atmosphere include the air pollution in cities the pollutants including toxic chemicals like nitrogen oxides sulfur oxides volatile organic compounds and airborne particulate matter that produce photochemical smog and acid rain and the chlorofluorocarbons that degrade the ozone layer 
+SENTENCE management of the global atmosphere now involves assessment of all aspects of the carbon cycle to identify opportunities to address humaninduced climate change and this has become a major focus of scientific research because of the potential catastrophic effects on biodiversity and human communities see energy below other human impacts on the atmosphere include the air pollution in cities the pollutants including toxic chemicals like nitrogen oxides sulfur oxides volatile organic compounds and airborne particulate matter that produce photochemical smog and acid rain and the chlorofluorocarbons that degrade the ozone layer 
+SUBJECT circles of sustainability is a method for understanding and assessing sustainability and for managing projects 
+PREDICATE directed towards 
+OBJECT socially sustainable outcomes 
+SENTENCE circles of sustainability is a method for understanding and assessing sustainability and for managing projects directed towards socially sustainable outcomes 
+SUBJECT energy managers 
+PREDICATE help 
+OBJECT determine the best ways to conserve energy on existing and future projectslearn more about how to become an energy manager environmental public relations specialists put together pr campaigns and implement pollution education programs in their communities 
+SENTENCE energy managers help determine the best ways to conserve energy on existing and future projectslearn more about how to become an energy manager environmental public relations specialists put together pr campaigns and implement pollution education programs in their communities 
+SUBJECT energy managers 
+PREDICATE help determine 
+OBJECT the best ways to conserve energy on existing and future projectslearn more about how to become an energy manager environmental public relations specialists put together pr campaigns and implement pollution education programs in their communities 
+SENTENCE energy managers help determine the best ways to conserve energy on existing and future projectslearn more about how to become an energy manager environmental public relations specialists put together pr campaigns and implement pollution education programs in their communities 
+SUBJECT energy managers how to become an energy manager environmental public relations specialists 
+PREDICATE help put together and 
+OBJECT determine the best ways to conserve energy on existing and future projectslearn more about pr campaigns implement pollution education programs in their communities 
+SENTENCE energy managers help determine the best ways to conserve energy on existing and future projectslearn more about how to become an energy manager environmental public relations specialists put together pr campaigns and implement pollution education programs in their communities 
+SUBJECT how to become an energy manager environmental public relations specialists 
+PREDICATE put together and 
+OBJECT pr campaigns 
+SENTENCE how to become an energy manager environmental public relations specialists put together pr campaigns and 
+SUBJECT whose approach to forest management 
+PREDICATE people like was driven by 
+OBJECT gifford pinchot first head of the us forest service the idea of wise use of resources and aldo leopold 
+SENTENCE people like gifford pinchot first head of the us forest service whose approach to forest management was driven by the idea of wise use of resources and aldo leopold 
+SUBJECT people like gifford pinchot first head of the us forest service whose approach to forest management 
+PREDICATE was driven by 
+OBJECT the idea of wise use of resources and aldo leopold 
+SENTENCE people like gifford pinchot first head of the us forest service whose approach to forest management was driven by the idea of wise use of resources and aldo leopold 
+SUBJECT the management of all water 
+PREDICATE supplies and 
+OBJECT not just sewage and waste water but effective drainage flood mitigation and other water rights ecologylearn more about how to become a watershed manager watershed science technicians are professionals that often work in water or wastewater treatment plants under the authority of a local government 
+SENTENCE the management of all water supplies not just sewage and waste water but effective drainage flood mitigation and other water rights and ecologylearn more about how to become a watershed manager watershed science technicians are professionals that often work in water or wastewater treatment plants under the authority of a local government 
+SUBJECT the management of all water 
+PREDICATE supplies and ecologylearn more about 
+OBJECT not just sewage and waste water but effective drainage flood mitigation and other water rights how to become a watershed manager watershed science technicians are professionals that often work in water or wastewater treatment plants under the authority of a local government 
+SENTENCE the management of all water supplies not just sewage and waste water but effective drainage flood mitigation and other water rights and ecologylearn more about how to become a watershed manager watershed science technicians are professionals that often work in water or wastewater treatment plants under the authority of a local government 
+SUBJECT that sustainable food management 
+PREDICATE protects 
+OBJECT water resources 
+SENTENCE that sustainable food management protects water resources 
+SUBJECT some scholars management and governance of sess 
+PREDICATE have suggested may benefit from 
+OBJECT that combination of different knowledge systems others have attempted to import such knowledge into the scientific knowledge field there also those who have argued that it would be difficult to separate these knowledge systems from their institutional and cultural contexts and those who have questioned the role of traditional and local knowledge systems in the current situation of pervasive environmental change and globalised societies 
+SENTENCE some scholars have suggested that management and governance of sess may benefit from combination of different knowledge systems others have attempted to import such knowledge into the scientific knowledge field there also those who have argued that it would be difficult to separate these knowledge systems from their institutional and cultural contexts and those who have questioned the role of traditional and local knowledge systems in the current situation of pervasive environmental change and globalised societies 
+SUBJECT management and governance of sess 
+PREDICATE may benefit from 
+OBJECT that combination of different knowledge systems others have attempted to import such knowledge into the scientific knowledge field there also those who have argued that it would be difficult to separate these knowledge systems from their institutional and cultural contexts and those who have questioned the role of traditional and local knowledge systems in the current situation of pervasive environmental change and globalised societies 
+SENTENCE that management and governance of sess may benefit from combination of different knowledge systems others have attempted to import such knowledge into the scientific knowledge field there also those who have argued that it would be difficult to separate these knowledge systems from their institutional and cultural contexts and those who have questioned the role of traditional and local knowledge systems in the current situation of pervasive environmental change and globalised societies 
+SUBJECT land managers 
+PREDICATE will allow to preserve 
+OBJECT building a highquality database of environmental information in suriname their amazing natural resources while still allowing for development opportunitieswith big environmental data 
+SENTENCE building a highquality database of environmental information in suriname will allow land managers to preserve their amazing natural resources while still allowing for development opportunitieswith big environmental data 
+SUBJECT land managers 
+PREDICATE to preserve 
+OBJECT their amazing natural resources while still allowing for development opportunitieswith big environmental data 
+SENTENCE land managers to preserve their amazing natural resources while still allowing for development opportunitieswith big environmental data 
+SUBJECT land managers 
+PREDICATE to preserve while still allowing for 
+OBJECT their amazing natural resources development opportunitieswith big environmental data 
+SENTENCE land managers to preserve their amazing natural resources while still allowing for development opportunitieswith big environmental data 
+SUBJECT management processes in the complex systems 
+PREDICATE can be improved by and 
+OBJECT making them adaptive and flexible able to deal with uncertainty and surprise by building capacity to adapt to change 
+SENTENCE management processes in the complex systems can be improved by making them adaptive and flexible able to deal with uncertainty and surprise and by building capacity to adapt to change 
+SUBJECT management processes in the complex systems 
+PREDICATE can be improved by making and 
+OBJECT them adaptive and flexible able to deal with uncertainty and surprise by building capacity to adapt to change 
+SENTENCE management processes in the complex systems can be improved by making them adaptive and flexible able to deal with uncertainty and surprise and by building capacity to adapt to change 
+SUBJECT management processes in the complex systems 
+PREDICATE can be improved by and building capacity 
+OBJECT making them adaptive and flexible able to deal with uncertainty and surprise by to adapt to change 
+SENTENCE management processes in the complex systems can be improved by making them adaptive and flexible able to deal with uncertainty and surprise and by building capacity to adapt to change 
+SUBJECT the national environment management act 
+PREDICATE when was first introduced in 
+OBJECT year 
+SENTENCE when the national environment management act was first introduced in year 
+SUBJECT i task managers 
+PREDICATE wanted because read 
+OBJECT to contribute because wdrs are important in the bank them to find philosophical justification for their latest round of projects 
+SENTENCE i wanted to contribute because wdrs are important in the bank because task managers read them to find philosophical justification for their latest round of projects 
+SUBJECT the environmental management act 
+PREDICATE the first comprehensive legal and framework to guide 
+OBJECT is institutional environmentalmanagement decisions 
+SENTENCE the environmental management act is the first comprehensive legal and institutional framework to guide environmentalmanagement decisions 
+SUBJECT task managers 
+PREDICATE because read 
+OBJECT them to find philosophical justification for their latest round of projects 
+SENTENCE because task managers read them to find philosophical justification for their latest round of projects 
+SUBJECT task managers them 
+PREDICATE because read to find 
+OBJECT philosophical justification for their latest round of projects 
+SENTENCE because task managers read them to find philosophical justification for their latest round of projects 
+SUBJECT sustainability coordinator sustainability manager sustainability director chief sustainability officer 
+PREDICATE leed 
+OBJECT professional environmental specialist environmental scientist chemist urban planner transportation specialist project manager environmental manager procurement officer policy analyst business analyst environmental lawyer environmental engineer supply chain manager and health safety specialistlearn more about the various sustainability career fieldsmost of the top environmental colleges offer degrees in sustainability or focuses on sustainable principles 
+SENTENCE sustainability coordinator sustainability manager sustainability director chief sustainability officer leed professional environmental specialist environmental scientist chemist urban planner transportation specialist project manager environmental manager procurement officer policy analyst business analyst environmental lawyer environmental engineer supply chain manager and health safety specialistlearn more about the various sustainability career fieldsmost of the top environmental colleges offer degrees in sustainability or focuses on sustainable principles 
+SUBJECT circles of sustainability is a method for understanding and assessing sustainability and for managing projects 
+PREDICATE directed towards 
+OBJECT socially sustainable outcomes 
+SENTENCE circles of sustainability is a method for understanding and assessing sustainability and for managing projects directed towards socially sustainable outcomes 
+SUBJECT the management of new chemical 
+PREDICATE wastes as 
+OBJECT are hosting an earth day seminar april from to pm on mega trends to encourage discussion of the following joining us to share thoughts such endocrine disruptors and nanomaterials the evaluation of biofuels and the effectiveness of green infrastructure 
+SENTENCE are hosting an earth day seminar april from to pm on mega trends to encourage discussion of the following joining us to share thoughts the management of new chemical wastes such as endocrine disruptors and nanomaterials the evaluation of biofuels and the effectiveness of green infrastructure 
+SUBJECT adaptive management 
+PREDICATE is considered 
+OBJECT a useful framework for dealing with situations of high levels of uncertainty though it is not without its detractors 
+SENTENCE adaptive management is considered a useful framework for dealing with situations of high levels of uncertainty though it is not without its detractors 
+SUBJECT adaptive management 
+PREDICATE is considered a useful framework for 
+OBJECT dealing with situations of high levels of uncertainty though it is not without its detractors 
+SENTENCE adaptive management is considered a useful framework for dealing with situations of high levels of uncertainty though it is not without its detractors 
+SUBJECT a common scientific concept and impetus behind environmental resource management 
+PREDICATE is carrying 
+OBJECT capacity 
+SENTENCE a common scientific concept and impetus behind environmental resource management is carrying capacity 
+SUBJECT sustainability of environmental resource management 
+PREDICATE though has improved 
+OBJECT that 
+SENTENCE that though sustainability of environmental resource management has improved 
+SUBJECT that though sustainability of environmental resource management has improved corporate sustainability for one 
+PREDICATE has yet 
+OBJECT to reach the majority of global companies operating in the markets 
+SENTENCE that though sustainability of environmental resource management has improved corporate sustainability for one has yet to reach the majority of global companies operating in the markets 
+SUBJECT that though sustainability of environmental resource management has improved corporate sustainability for one 
+PREDICATE has yet to reach 
+OBJECT the majority of global companies operating in the markets 
+SENTENCE that though sustainability of environmental resource management has improved corporate sustainability for one has yet to reach the majority of global companies operating in the markets 
+SUBJECT sustainability in environmental resource management 
+PREDICATE involves 
+OBJECT managing economic social and ecological systems both within and outside an organizational entity so it can sustain itself and the system it exists in 
+SENTENCE sustainability in environmental resource management involves managing economic social and ecological systems both within and outside an organizational entity so it can sustain itself and the system it exists in 
+SUBJECT sustainability in environmental resource management 
+PREDICATE involves managing within and 
+OBJECT economic social and ecological systems both outside an organizational entity so it can sustain itself and the system it exists in 
+SENTENCE sustainability in environmental resource management involves managing economic social and ecological systems both within and outside an organizational entity so it can sustain itself and the system it exists in 
+SUBJECT the aim of civil society in environmental resource management 
+PREDICATE is 
+OBJECT to be included in the decisionmaking process by means of public participation 
+SENTENCE the aim of civil society in environmental resource management is to be included in the decisionmaking process by means of public participation 
+SUBJECT the aim of civil society in environmental resource management 
+PREDICATE is to be included in by 
+OBJECT the decisionmaking process means of public participation 
+SENTENCE the aim of civil society in environmental resource management is to be included in the decisionmaking process by means of public participation 
+SUBJECT environmental resource management undertaken by the private sectors 
+PREDICATE varies 
+OBJECT dependent upon the resource type that being renewable or nonrenewable and private and common resources also see tragedy of the commons 
+SENTENCE environmental resource management undertaken by the private sectors varies dependent upon the resource type that being renewable or nonrenewable and private and common resources also see tragedy of the commons 
+SUBJECT environmental resource management undertaken by the private sectors 
+PREDICATE varies dependent upon 
+OBJECT the resource type that being renewable or nonrenewable and private and common resources also see tragedy of the commons 
+SENTENCE environmental resource management undertaken by the private sectors varies dependent upon the resource type that being renewable or nonrenewable and private and common resources also see tragedy of the commons 
+SUBJECT effective management tools standards and systems 
+PREDICATE as functions are required 
+OBJECT with all management 
+SENTENCE as with all management functions effective management tools standards and systems are required 
+SUBJECT environmental managers from the private sector 
+PREDICATE also need 
+OBJECT skills to manage collaboration within a dynamic social and political environment 
+SENTENCE environmental managers from the private sector also need skills to manage collaboration within a dynamic social and political environment 
+SUBJECT environmental managers from the private sector 
+PREDICATE also need skills 
+OBJECT to manage collaboration within a dynamic social and political environment 
+SENTENCE environmental managers from the private sector also need skills to manage collaboration within a dynamic social and political environment 
+SUBJECT environmental managers from the private sector 
+PREDICATE also need to manage within 
+OBJECT skills collaboration a dynamic social and political environment 
+SENTENCE environmental managers from the private sector also need skills to manage collaboration within a dynamic social and political environment 
+SUBJECT better environmental resource management 
+PREDICATE by is achieved without 
+OBJECT eliminating the unsaleables from the comprehensive outcome of any purchase systemsrecent successful cases have put forward the notion of integrated management 
+SENTENCE by eliminating the unsaleables from the comprehensive outcome of any purchase better environmental resource management is achieved without systemsrecent successful cases have put forward the notion of integrated management 
+SUBJECT better environmental resource management 
+PREDICATE by is achieved without have put forward 
+OBJECT eliminating the unsaleables from the comprehensive outcome of any purchase systemsrecent successful cases the notion of integrated management 
+SENTENCE by eliminating the unsaleables from the comprehensive outcome of any purchase better environmental resource management is achieved without systemsrecent successful cases have put forward the notion of integrated management 
+SUBJECT the traditional role of the public sector in environmental resource management 
+PREDICATE is 
+OBJECT to provide professional judgement through skilled technicians on behalf of the public 
+SENTENCE the traditional role of the public sector in environmental resource management is to provide professional judgement through skilled technicians on behalf of the public 
+SUBJECT the traditional role of the public sector in environmental resource management 
+PREDICATE is to provide through on 
+OBJECT professional judgement skilled technicians behalf of the public 
+SENTENCE the traditional role of the public sector in environmental resource management is to provide professional judgement through skilled technicians on behalf of the public 
+SUBJECT therefore the most important part of shifting an organization to adopt sustainability in environmental resource management 
+PREDICATE would be 
+OBJECT to create a shared vision and understanding of what sustainability is for that particular organization and to clarify the business case 
+SENTENCE therefore the most important part of shifting an organization to adopt sustainability in environmental resource management would be to create a shared vision and understanding of what sustainability is for that particular organization and to clarify the business case 
+SUBJECT therefore the most important part of shifting an organization to adopt sustainability in environmental resource management 
+PREDICATE would be to create 
+OBJECT a shared vision and understanding of what sustainability is for that particular organization and to clarify the business case 
+SENTENCE therefore the most important part of shifting an organization to adopt sustainability in environmental resource management would be to create a shared vision and understanding of what sustainability is for that particular organization and to clarify the business case 
